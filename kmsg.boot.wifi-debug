@@ -1,0 +1,2093 @@
+0079] sdioh_request_byte: rw=0, func=0, addr=0x01017
+<4>[    4.185588] sdioh_request_byte: rw=0, func=0, addr=0x01018
+<4>[    4.190996] sdioh_request_byte: rw=0, func=0, addr=0x01019
+<4>[    4.196471] sdioh_request_byte: rw=0, func=0, addr=0x0101a
+<4>[    4.201967] sdioh_request_byte: rw=0, func=0, addr=0x0101b
+<4>[    4.207373] sdioh_request_byte: rw=0, func=0, addr=0x0101c
+<4>[    4.212887] sdioh_request_byte: rw=0, func=0, addr=0x0101d
+<4>[    4.218299] sdioh_request_byte: rw=0, func=0, addr=0x0101e
+<4>[    4.223803] sdioh_request_byte: rw=0, func=0, addr=0x0101f
+<4>[    4.229214] sdioh_request_byte: rw=0, func=0, addr=0x01020
+<4>[    4.234722] sdioh_request_byte: rw=0, func=0, addr=0x01021
+<4>[    4.240143] sdioh_request_byte: rw=0, func=0, addr=0x01022
+<4>[    4.245642] sdioh_request_byte: rw=0, func=0, addr=0x01023
+<4>[    4.251052] sdioh_request_byte: rw=0, func=0, addr=0x01024
+<4>[    4.256561] sdioh_request_byte: rw=0, func=0, addr=0x01025
+<4>[    4.261967] sdioh_request_byte: rw=0, func=0, addr=0x01026
+<4>[    4.267480] sdioh_request_byte: rw=0, func=0, addr=0x01027
+<4>[    4.272887] sdioh_request_byte: rw=0, func=0, addr=0x01028
+<4>[    4.278398] sdioh_request_byte: rw=0, func=0, addr=0x01029
+<4>[    4.283821] sdioh_request_byte: rw=0, func=0, addr=0x0102a
+<4>[    4.289317] sdioh_request_byte: rw=0, func=0, addr=0x0102b
+<4>[    4.294723] sdioh_request_byte: rw=0, func=0, addr=0x0102c
+<4>[    4.300234] sdioh_request_byte: rw=0, func=0, addr=0x0102d
+<4>[    4.305646] sdioh_request_byte: rw=0, func=0, addr=0x0102e
+<4>[    4.311154] sdioh_request_byte: rw=0, func=0, addr=0x0102f
+<4>[    4.316561] sdioh_request_byte: rw=0, func=0, addr=0x01030
+<4>[    4.322076] sdioh_request_byte: rw=0, func=0, addr=0x01031
+<4>[    4.327495] sdioh_request_byte: rw=0, func=0, addr=0x01032
+<4>[    4.332992] sdioh_request_byte: rw=0, func=0, addr=0x01033
+<4>[    4.338402] sdioh_request_byte: rw=0, func=0, addr=0x01034
+<4>[    4.343909] sdioh_request_byte: rw=0, func=0, addr=0x01035
+<4>[    4.349316] sdioh_request_byte: rw=0, func=0, addr=0x01036
+<4>[    4.354832] sdioh_request_byte: rw=0, func=0, addr=0x01037
+<4>[    4.360235] sdioh_request_byte: rw=0, func=0, addr=0x01038
+<4>[    4.365746] sdioh_request_byte: rw=0, func=0, addr=0x01039
+<4>[    4.371167] sdioh_request_byte: rw=0, func=0, addr=0x0103a
+<4>[    4.376618] sdioh_request_byte: rw=0, func=0, addr=0x0103b
+<4>[    4.382127] sdioh_request_byte: rw=0, func=0, addr=0x0103c
+<4>[    4.387533] sdioh_request_byte: rw=0, func=0, addr=0x0103d
+<4>[    4.393048] sdioh_request_byte: rw=0, func=0, addr=0x0103e
+<4>[    4.398451] sdioh_request_byte: rw=0, func=0, addr=0x0103f
+<4>[    4.403962] sdioh_request_byte: rw=0, func=0, addr=0x01040
+<4>[    4.409374] sdioh_request_byte: rw=0, func=0, addr=0x01041
+<4>[    4.414895] sdioh_request_byte: rw=0, func=0, addr=0x01042
+<4>[    4.420291] sdioh_request_byte: rw=0, func=0, addr=0x01043
+<4>[    4.425800] sdioh_request_byte: rw=0, func=0, addr=0x01044
+<4>[    4.431211] sdioh_request_byte: rw=0, func=0, addr=0x01045
+<4>[    4.436720] sdioh_request_byte: rw=0, func=0, addr=0x01046
+<4>[    4.442126] sdioh_request_byte: rw=0, func=0, addr=0x01047
+<4>[    4.447641] sdioh_request_byte: rw=0, func=0, addr=0x01048
+<4>[    4.453045] sdioh_request_byte: rw=0, func=0, addr=0x01049
+<4>[    4.458569] sdioh_request_byte: rw=0, func=0, addr=0x0104a
+<4>[    4.463969] sdioh_request_byte: rw=0, func=0, addr=0x0104b
+<4>[    4.469475] sdioh_request_byte: rw=0, func=0, addr=0x0104c
+<4>[    4.474883] sdioh_request_byte: rw=0, func=0, addr=0x0104d
+<4>[    4.480396] sdioh_request_byte: rw=0, func=0, addr=0x0104e
+<4>[    4.485801] sdioh_request_byte: rw=0, func=0, addr=0x0104f
+<4>[    4.491312] sdioh_request_byte: rw=0, func=0, addr=0x01050
+<4>[    4.496720] sdioh_request_byte: rw=0, func=0, addr=0x01051
+<4>[    4.502247] sdioh_request_byte: rw=0, func=0, addr=0x01052
+<4>[    4.507640] sdioh_request_byte: rw=0, func=0, addr=0x01053
+<4>[    4.513150] sdioh_request_byte: rw=0, func=0, addr=0x01054
+<4>[    4.518561] sdioh_request_byte: rw=0, func=0, addr=0x01055
+<4>[    4.524068] sdioh_request_byte: rw=0, func=0, addr=0x01056
+<4>[    4.529477] sdioh_request_byte: rw=0, func=0, addr=0x01057
+<4>[    4.534990] sdioh_request_byte: rw=0, func=0, addr=0x01058
+<4>[    4.540395] sdioh_request_byte: rw=0, func=0, addr=0x01059
+<4>[    4.545868] sdioh_request_byte: rw=0, func=0, addr=0x0105a
+<4>[    4.551365] sdioh_request_byte: rw=0, func=0, addr=0x0105b
+<4>[    4.556776] sdioh_request_byte: rw=0, func=0, addr=0x0105c
+<4>[    4.562283] sdioh_request_byte: rw=0, func=0, addr=0x0105d
+<4>[    4.567692] sdioh_request_byte: rw=0, func=0, addr=0x0105e
+<4>[    4.573206] sdioh_request_byte: rw=0, func=0, addr=0x0105f
+<4>[    4.578611] sdioh_request_byte: rw=0, func=0, addr=0x01060
+<4>[    4.584122] sdioh_request_byte: rw=0, func=0, addr=0x01061
+<4>[    4.589545] sdioh_request_byte: rw=0, func=0, addr=0x01062
+<4>[    4.595041] sdioh_request_byte: rw=0, func=0, addr=0x01063
+<4>[    4.600450] sdioh_request_byte: rw=0, func=0, addr=0x01064
+<4>[    4.605961] sdioh_request_byte: rw=0, func=0, addr=0x01065
+<4>[    4.611367] sdioh_request_byte: rw=0, func=0, addr=0x01066
+<4>[    4.616878] sdioh_request_byte: rw=0, func=0, addr=0x01067
+<4>[    4.622285] sdioh_request_byte: rw=0, func=0, addr=0x01068
+<4>[    4.627800] sdioh_request_byte: rw=0, func=0, addr=0x01069
+<4>[    4.633218] sdioh_request_byte: rw=0, func=0, addr=0x0106a
+<4>[    4.638718] sdioh_request_byte: rw=0, func=0, addr=0x0106b
+<4>[    4.644126] sdioh_request_byte: rw=0, func=0, addr=0x0106c
+<4>[    4.649633] sdioh_request_byte: rw=0, func=0, addr=0x0106d
+<4>[    4.655043] sdioh_request_byte: rw=0, func=0, addr=0x0106e
+<4>[    4.660557] sdioh_request_byte: rw=0, func=0, addr=0x0106f
+<4>[    4.665962] sdioh_request_byte: rw=0, func=0, addr=0x01070
+<4>[    4.671473] sdioh_request_byte: rw=0, func=0, addr=0x01071
+<4>[    4.676892] sdioh_request_byte: rw=0, func=0, addr=0x01072
+<4>[    4.682395] sdioh_request_byte: rw=0, func=0, addr=0x01073
+<4>[    4.687798] sdioh_request_byte: rw=0, func=0, addr=0x01074
+<4>[    4.693309] sdioh_request_byte: rw=0, func=0, addr=0x01075
+<4>[    4.698719] sdioh_request_byte: rw=0, func=0, addr=0x01076
+<4>[    4.704228] sdioh_request_byte: rw=0, func=0, addr=0x01077
+<4>[    4.709636] sdioh_request_byte: rw=0, func=0, addr=0x01078
+<4>[    4.715150] sdioh_request_byte: rw=0, func=0, addr=0x01079
+<4>[    4.720568] sdioh_request_byte: rw=0, func=0, addr=0x0107a
+<4>[    4.726015] sdioh_request_byte: rw=0, func=0, addr=0x0107b
+<4>[    4.731528] sdioh_request_byte: rw=0, func=0, addr=0x0107c
+<4>[    4.736933] sdioh_request_byte: rw=0, func=0, addr=0x0107d
+<4>[    4.742444] sdioh_request_byte: rw=0, func=0, addr=0x0107e
+<4>[    4.747851] sdioh_request_byte: rw=0, func=0, addr=0x0107f
+<4>[    4.753366] sdioh_request_byte: rw=0, func=0, addr=0x01080
+<4>[    4.758770] sdioh_request_byte: rw=0, func=0, addr=0x01081
+<4>[    4.764295] sdioh_request_byte: rw=0, func=0, addr=0x01082
+<4>[    4.769693] sdioh_request_byte: rw=0, func=0, addr=0x01083
+<4>[    4.775200] sdioh_request_byte: rw=0, func=0, addr=0x01084
+<4>[    4.780609] sdioh_request_byte: rw=0, func=0, addr=0x01085
+<4>[    4.786122] sdioh_request_byte: rw=0, func=0, addr=0x01086
+<4>[    4.791526] sdioh_request_byte: rw=0, func=0, addr=0x01087
+<4>[    4.797036] sdioh_request_byte: rw=0, func=0, addr=0x01088
+<4>[    4.802444] sdioh_request_byte: rw=0, func=0, addr=0x01089
+<4>[    4.807971] sdioh_request_byte: rw=0, func=0, addr=0x0108a
+<4>[    4.813365] sdioh_request_byte: rw=0, func=0, addr=0x0108b
+<4>[    4.818876] sdioh_request_byte: rw=0, func=0, addr=0x0108c
+<4>[    4.824286] sdioh_request_byte: rw=0, func=0, addr=0x0108d
+<4>[    4.829794] sdioh_request_byte: rw=0, func=0, addr=0x0108e
+<4>[    4.835201] sdioh_request_byte: rw=0, func=0, addr=0x0108f
+<4>[    4.840714] sdioh_request_byte: rw=0, func=0, addr=0x01090
+<4>[    4.846120] sdioh_request_byte: rw=0, func=0, addr=0x01091
+<4>[    4.851644] sdioh_request_byte: rw=0, func=0, addr=0x01092
+<4>[    4.857042] sdioh_request_byte: rw=0, func=0, addr=0x01093
+<4>[    4.862551] sdioh_request_byte: rw=0, func=0, addr=0x01094
+<4>[    4.867957] sdioh_request_byte: rw=0, func=0, addr=0x01095
+<4>[    4.873470] sdioh_request_byte: rw=0, func=0, addr=0x01096
+<4>[    4.878879] sdioh_request_byte: rw=0, func=0, addr=0x01097
+<4>[    4.884387] sdioh_request_byte: rw=0, func=0, addr=0x01098
+<4>[    4.889794] sdioh_request_byte: rw=0, func=0, addr=0x01099
+<4>[    4.895270] sdioh_request_byte: rw=0, func=0, addr=0x0109a
+<4>[    4.900766] sdioh_request_byte: rw=0, func=0, addr=0x0109b
+<4>[    4.906173] sdioh_request_byte: rw=0, func=0, addr=0x0109c
+<4>[    4.911687] sdioh_request_byte: rw=0, func=0, addr=0x0109d
+<4>[    4.917093] sdioh_request_byte: rw=0, func=0, addr=0x0109e
+<4>[    4.922603] sdioh_request_byte: rw=0, func=0, addr=0x0109f
+<4>[    4.928010] sdioh_request_byte: rw=0, func=0, addr=0x010a0
+<4>[    4.933525] sdioh_request_byte: rw=0, func=0, addr=0x010a1
+<4>[    4.938942] sdioh_request_byte: rw=0, func=0, addr=0x010a2
+<4>[    4.944443] sdioh_request_byte: rw=0, func=0, addr=0x010a3
+<4>[    4.949851] sdioh_request_byte: rw=0, func=0, addr=0x010a4
+<4>[    4.955360] sdioh_request_byte: rw=0, func=0, addr=0x010a5
+<4>[    4.960766] sdioh_request_byte: rw=0, func=0, addr=0x010a6
+<4>[    4.966281] sdioh_request_byte: rw=0, func=0, addr=0x010a7
+<4>[    4.971685] sdioh_request_byte: rw=0, func=0, addr=0x010a8
+<4>[    4.977196] sdioh_request_byte: rw=0, func=0, addr=0x010a9
+<4>[    4.982621] sdioh_request_byte: rw=0, func=0, addr=0x010aa
+<4>[    4.988117] sdioh_request_byte: rw=0, func=0, addr=0x010ab
+<4>[    4.993524] sdioh_request_byte: rw=0, func=0, addr=0x010ac
+<4>[    4.999035] sdioh_request_byte: rw=0, func=0, addr=0x010ad
+<4>[    5.004445] sdioh_request_byte: rw=0, func=0, addr=0x010ae
+<4>[    5.009954] sdioh_request_byte: rw=0, func=0, addr=0x010af
+<4>[    5.015360] sdioh_request_byte: rw=0, func=0, addr=0x010b0
+<4>[    5.020874] sdioh_request_byte: rw=0, func=0, addr=0x010b1
+<4>[    5.026292] sdioh_request_byte: rw=0, func=0, addr=0x010b2
+<4>[    5.031791] sdioh_request_byte: rw=0, func=0, addr=0x010b3
+<4>[    5.037201] sdioh_request_byte: rw=0, func=0, addr=0x010b4
+<4>[    5.042708] sdioh_request_byte: rw=0, func=0, addr=0x010b5
+<4>[    5.048117] sdioh_request_byte: rw=0, func=0, addr=0x010b6
+<4>[    5.053630] sdioh_request_byte: rw=0, func=0, addr=0x010b7
+<4>[    5.059036] sdioh_request_byte: rw=0, func=0, addr=0x010b8
+<4>[    5.064546] sdioh_request_byte: rw=0, func=0, addr=0x010b9
+<4>[    5.069966] sdioh_request_byte: rw=0, func=0, addr=0x010ba
+<4>[    5.075416] sdioh_request_byte: rw=0, func=0, addr=0x010bb
+<4>[    5.080925] sdioh_request_byte: rw=0, func=0, addr=0x010bc
+<4>[    5.086332] sdioh_request_byte: rw=0, func=0, addr=0x010bd
+<4>[    5.091846] sdioh_request_byte: rw=0, func=0, addr=0x010be
+<4>[    5.097252] sdioh_request_byte: rw=0, func=0, addr=0x010bf
+<4>[    5.102762] sdioh_request_byte: rw=0, func=0, addr=0x010c0
+<4>[    5.108173] sdioh_request_byte: rw=0, func=0, addr=0x010c1
+<4>[    5.113692] sdioh_request_byte: rw=0, func=0, addr=0x010c2
+<4>[    5.119088] sdioh_request_byte: rw=0, func=0, addr=0x010c3
+<4>[    5.124601] sdioh_request_byte: rw=0, func=0, addr=0x010c4
+<4>[    5.130010] sdioh_request_byte: rw=0, func=0, addr=0x010c5
+<4>[    5.135518] sdioh_request_byte: rw=0, func=0, addr=0x010c6
+<4>[    5.140925] sdioh_request_byte: rw=0, func=0, addr=0x010c7
+<4>[    5.146437] sdioh_request_byte: rw=0, func=0, addr=0x010c8
+<4>[    5.151844] sdioh_request_byte: rw=0, func=0, addr=0x010c9
+<4>[    5.157368] sdioh_request_byte: rw=0, func=0, addr=0x010ca
+<4>[    5.162769] sdioh_request_byte: rw=0, func=0, addr=0x010cb
+<4>[    5.168275] sdioh_request_byte: rw=0, func=0, addr=0x010cc
+<4>[    5.173681] sdioh_request_byte: rw=0, func=0, addr=0x010cd
+<4>[    5.179195] sdioh_request_byte: rw=0, func=0, addr=0x010ce
+<4>[    5.184601] sdioh_request_byte: rw=0, func=0, addr=0x010cf
+<4>[    5.190112] sdioh_request_byte: rw=0, func=0, addr=0x010d0
+<4>[    5.195519] sdioh_request_byte: rw=0, func=0, addr=0x010d1
+<4>[    5.201046] sdioh_request_byte: rw=0, func=0, addr=0x010d2
+<4>[    5.206439] sdioh_request_byte: rw=0, func=0, addr=0x010d3
+<4>[    5.211949] sdioh_request_byte: rw=0, func=0, addr=0x010d4
+<4>[    5.217360] sdioh_request_byte: rw=0, func=0, addr=0x010d5
+<4>[    5.222869] sdioh_request_byte: rw=0, func=0, addr=0x010d6
+<4>[    5.228275] sdioh_request_byte: rw=0, func=0, addr=0x010d7
+<4>[    5.233789] sdioh_request_byte: rw=0, func=0, addr=0x010d8
+<4>[    5.239194] sdioh_request_byte: rw=0, func=0, addr=0x010d9
+<4>[    5.244673] sdioh_request_byte: rw=0, func=0, addr=0x010da
+<4>[    5.250165] sdioh_request_byte: rw=0, func=0, addr=0x010db
+<4>[    5.255576] sdioh_request_byte: rw=0, func=0, addr=0x010dc
+<4>[    5.261083] sdioh_request_byte: rw=0, func=0, addr=0x010dd
+<4>[    5.266491] sdioh_request_byte: rw=0, func=0, addr=0x010de
+<4>[    5.272004] sdioh_request_byte: rw=0, func=0, addr=0x010df
+<4>[    5.277410] sdioh_request_byte: rw=0, func=0, addr=0x010e0
+<4>[    5.282921] sdioh_request_byte: rw=0, func=0, addr=0x010e1
+<4>[    5.288345] sdioh_request_byte: rw=0, func=0, addr=0x010e2
+<4>[    5.293841] sdioh_request_byte: rw=0, func=0, addr=0x010e3
+<4>[    5.299249] sdioh_request_byte: rw=0, func=0, addr=0x010e4
+<4>[    5.304761] sdioh_request_byte: rw=0, func=0, addr=0x010e5
+<4>[    5.310166] sdioh_request_byte: rw=0, func=0, addr=0x010e6
+<4>[    5.315677] sdioh_request_byte: rw=0, func=0, addr=0x010e7
+<4>[    5.321085] sdioh_request_byte: rw=0, func=0, addr=0x010e8
+<4>[    5.326598] sdioh_request_byte: rw=0, func=0, addr=0x010e9
+<4>[    5.332017] sdioh_request_byte: rw=0, func=0, addr=0x010ea
+<4>[    5.337516] sdioh_request_byte: rw=0, func=0, addr=0x010eb
+<4>[    5.342926] sdioh_request_byte: rw=0, func=0, addr=0x010ec
+<4>[    5.348434] sdioh_request_byte: rw=0, func=0, addr=0x010ed
+<4>[    5.353842] sdioh_request_byte: rw=0, func=0, addr=0x010ee
+<4>[    5.359354] sdioh_request_byte: rw=0, func=0, addr=0x010ef
+<4>[    5.364761] sdioh_request_byte: rw=0, func=0, addr=0x010f0
+<4>[    5.370271] sdioh_request_byte: rw=0, func=0, addr=0x010f1
+<4>[    5.375692] sdioh_request_byte: rw=0, func=0, addr=0x010f2
+<4>[    5.381195] sdioh_request_byte: rw=0, func=0, addr=0x010f3
+<4>[    5.386598] sdioh_request_byte: rw=0, func=0, addr=0x010f4
+<4>[    5.392107] sdioh_request_byte: rw=0, func=0, addr=0x010f5
+<4>[    5.397520] sdioh_request_byte: rw=0, func=0, addr=0x010f6
+<4>[    5.403028] sdioh_request_byte: rw=0, func=0, addr=0x010f7
+<4>[    5.408436] sdioh_request_byte: rw=0, func=0, addr=0x010f8
+<4>[    5.413947] sdioh_request_byte: rw=0, func=0, addr=0x010f9
+<4>[    5.419365] sdioh_request_byte: rw=0, func=0, addr=0x010fa
+<4>[    5.424815] sdioh_request_byte: rw=0, func=0, addr=0x010fb
+<4>[    5.430327] sdioh_request_byte: rw=0, func=0, addr=0x010fc
+<4>[    5.435733] sdioh_request_byte: rw=0, func=0, addr=0x010fd
+<4>[    5.441242] sdioh_request_byte: rw=0, func=0, addr=0x010fe
+<4>[    5.446650] sdioh_request_byte: rw=0, func=0, addr=0x010ff
+<4>[    5.452165] sdioh_request_byte: rw=0, func=0, addr=0x01100
+<4>[    5.457569] sdioh_request_byte: rw=0, func=0, addr=0x01101
+<4>[    5.463094] sdioh_request_byte: rw=0, func=0, addr=0x01102
+<4>[    5.468492] sdioh_request_byte: rw=0, func=0, addr=0x01103
+<4>[    5.474000] sdioh_request_byte: rw=0, func=0, addr=0x01104
+<4>[    5.479407] sdioh_request_byte: rw=0, func=0, addr=0x01105
+<4>[    5.484921] sdioh_request_byte: rw=0, func=0, addr=0x01106
+<4>[    5.490326] sdioh_request_byte: rw=0, func=0, addr=0x01107
+<4>[    5.495836] sdioh_request_byte: rw=0, func=0, addr=0x01108
+<4>[    5.501244] sdioh_request_byte: rw=0, func=0, addr=0x01109
+<4>[    5.506771] sdioh_request_byte: rw=0, func=0, addr=0x0110a
+<4>[    5.512163] sdioh_request_byte: rw=0, func=0, addr=0x0110b
+<4>[    5.517674] sdioh_request_byte: rw=0, func=0, addr=0x0110c
+<4>[    5.523084] sdioh_request_byte: rw=0, func=0, addr=0x0110d
+<4>[    5.528592] sdioh_request_byte: rw=0, func=0, addr=0x0110e
+<4>[    5.534001] sdioh_request_byte: rw=0, func=0, addr=0x0110f
+<4>[    5.539514] sdioh_request_byte: rw=0, func=0, addr=0x01110
+<4>[    5.544920] sdioh_request_byte: rw=0, func=0, addr=0x01111
+<4>[    5.550442] sdioh_request_byte: rw=0, func=0, addr=0x01112
+<4>[    5.555841] sdioh_request_byte: rw=0, func=0, addr=0x01113
+<4>[    5.561349] sdioh_request_byte: rw=0, func=0, addr=0x01114
+<4>[    5.566756] sdioh_request_byte: rw=0, func=0, addr=0x01115
+<4>[    5.572268] sdioh_request_byte: rw=0, func=0, addr=0x01116
+<4>[    5.577679] sdioh_request_byte: rw=0, func=0, addr=0x01117
+<4>[    5.583187] sdioh_request_byte: rw=0, func=0, addr=0x01118
+<4>[    5.588594] sdioh_request_byte: rw=0, func=0, addr=0x01119
+<4>[    5.594069] sdioh_request_byte: rw=0, func=0, addr=0x0111a
+<4>[    5.599565] sdioh_request_byte: rw=0, func=0, addr=0x0111b
+<4>[    5.604979] sdioh_request_byte: rw=0, func=0, addr=0x0111c
+<4>[    5.610487] sdioh_request_byte: rw=0, func=0, addr=0x0111d
+<4>[    5.615891] sdioh_request_byte: rw=0, func=0, addr=0x0111e
+<4>[    5.621401] sdioh_request_byte: rw=0, func=0, addr=0x0111f
+<4>[    5.626808] sdioh_request_byte: rw=0, func=0, addr=0x01120
+<4>[    5.632324] sdioh_request_byte: rw=0, func=0, addr=0x01121
+<4>[    5.637742] sdioh_request_byte: rw=0, func=0, addr=0x01122
+<4>[    5.643242] sdioh_request_byte: rw=0, func=0, addr=0x01123
+<4>[    5.648650] sdioh_request_byte: rw=0, func=0, addr=0x01124
+<4>[    5.654157] sdioh_request_byte: rw=0, func=0, addr=0x01125
+<4>[    5.659566] sdioh_request_byte: rw=0, func=0, addr=0x01126
+<4>[    5.665079] sdioh_request_byte: rw=0, func=0, addr=0x01127
+<4>[    5.670485] sdioh_request_byte: rw=0, func=0, addr=0x01128
+<4>[    5.675994] sdioh_request_byte: rw=0, func=0, addr=0x01129
+<4>[    5.681419] sdioh_request_byte: rw=0, func=0, addr=0x0112a
+<4>[    5.686916] sdioh_request_byte: rw=0, func=0, addr=0x0112b
+<4>[    5.692322] sdioh_request_byte: rw=0, func=0, addr=0x0112c
+<4>[    5.697834] sdioh_request_byte: rw=0, func=0, addr=0x0112d
+<4>[    5.703243] sdioh_request_byte: rw=0, func=0, addr=0x0112e
+<4>[    5.708752] sdioh_request_byte: rw=0, func=0, addr=0x0112f
+<4>[    5.714160] sdioh_request_byte: rw=0, func=0, addr=0x01130
+<4>[    5.719673] sdioh_request_byte: rw=0, func=0, addr=0x01131
+<4>[    5.725092] sdioh_request_byte: rw=0, func=0, addr=0x01132
+<4>[    5.730591] sdioh_request_byte: rw=0, func=0, addr=0x01133
+<4>[    5.735999] sdioh_request_byte: rw=0, func=0, addr=0x01134
+<4>[    5.741507] sdioh_request_byte: rw=0, func=0, addr=0x01135
+<4>[    5.746916] sdioh_request_byte: rw=0, func=0, addr=0x01136
+<4>[    5.752427] sdioh_request_byte: rw=0, func=0, addr=0x01137
+<4>[    5.757837] sdioh_request_byte: rw=0, func=0, addr=0x01138
+<4>[    5.763345] sdioh_request_byte: rw=0, func=0, addr=0x01139
+<4>[    5.768766] sdioh_request_byte: rw=0, func=0, addr=0x0113a
+<4>[    5.774215] sdioh_request_byte: rw=0, func=0, addr=0x0113b
+<4>[    5.779723] sdioh_request_byte: rw=0, func=0, addr=0x0113c
+<4>[    5.785131] sdioh_request_byte: rw=0, func=0, addr=0x0113d
+<4>[    5.790646] sdioh_request_byte: rw=0, func=0, addr=0x0113e
+<4>[    5.796052] sdioh_request_byte: rw=0, func=0, addr=0x0113f
+<4>[    5.801562] sdioh_request_byte: rw=0, func=0, addr=0x01140
+<4>[    5.806971] sdioh_request_byte: rw=0, func=0, addr=0x01141
+<4>[    5.812492] sdioh_request_byte: rw=0, func=0, addr=0x01142
+<4>[    5.817889] sdioh_request_byte: rw=0, func=0, addr=0x01143
+<4>[    5.823399] sdioh_request_byte: rw=0, func=0, addr=0x01144
+<4>[    5.828810] sdioh_request_byte: rw=0, func=0, addr=0x01145
+<4>[    5.834318] sdioh_request_byte: rw=0, func=0, addr=0x01146
+<4>[    5.839724] sdioh_request_byte: rw=0, func=0, addr=0x01147
+<4>[    5.845237] sdioh_request_byte: rw=0, func=0, addr=0x01148
+<4>[    5.850644] sdioh_request_byte: rw=0, func=0, addr=0x01149
+<4>[    5.856167] sdioh_request_byte: rw=0, func=0, addr=0x0114a
+<4>[    5.861566] sdioh_request_byte: rw=0, func=0, addr=0x0114b
+<4>[    5.867075] sdioh_request_byte: rw=0, func=0, addr=0x0114c
+<4>[    5.872481] sdioh_request_byte: rw=0, func=0, addr=0x0114d
+<4>[    5.877992] sdioh_request_byte: rw=0, func=0, addr=0x0114e
+<4>[    5.883402] sdioh_request_byte: rw=0, func=0, addr=0x0114f
+<4>[    5.888911] sdioh_request_byte: rw=0, func=0, addr=0x01150
+<4>[    5.894318] sdioh_request_byte: rw=0, func=0, addr=0x01151
+<4>[    5.899845] sdioh_request_byte: rw=0, func=0, addr=0x01152
+<4>[    5.905239] sdioh_request_byte: rw=0, func=0, addr=0x01153
+<4>[    5.910748] sdioh_request_byte: rw=0, func=0, addr=0x01154
+<4>[    5.916159] sdioh_request_byte: rw=0, func=0, addr=0x01155
+<4>[    5.921667] sdioh_request_byte: rw=0, func=0, addr=0x01156
+<4>[    5.927074] sdioh_request_byte: rw=0, func=0, addr=0x01157
+<4>[    5.932589] sdioh_request_byte: rw=0, func=0, addr=0x01158
+<4>[    5.937995] sdioh_request_byte: rw=0, func=0, addr=0x01159
+<4>[    5.943467] sdioh_request_byte: rw=0, func=0, addr=0x0115a
+<4>[    5.948965] sdioh_request_byte: rw=0, func=0, addr=0x0115b
+<4>[    5.954374] sdioh_request_byte: rw=0, func=0, addr=0x0115c
+<4>[    5.959883] sdioh_request_byte: rw=0, func=0, addr=0x0115d
+<4>[    5.965290] sdioh_request_byte: rw=0, func=0, addr=0x0115e
+<4>[    5.970805] sdioh_request_byte: rw=0, func=0, addr=0x0115f
+<4>[    5.976209] sdioh_request_byte: rw=0, func=0, addr=0x01160
+<4>[    5.981720] sdioh_request_byte: rw=0, func=0, addr=0x01161
+<4>[    5.987144] sdioh_request_byte: rw=0, func=0, addr=0x01162
+<4>[    5.992640] sdioh_request_byte: rw=0, func=0, addr=0x01163
+<4>[    5.998047] sdioh_request_byte: rw=0, func=0, addr=0x01164
+<4>[    6.003562] sdioh_request_byte: rw=0, func=0, addr=0x01165
+<4>[    6.008968] sdioh_request_byte: rw=0, func=0, addr=0x01166
+<4>[    6.014477] sdioh_request_byte: rw=0, func=0, addr=0x01167
+<4>[    6.019883] sdioh_request_byte: rw=0, func=0, addr=0x01168
+<4>[    6.025397] sdioh_request_byte: rw=0, func=0, addr=0x01169
+<4>[    6.030820] sdioh_request_byte: rw=0, func=0, addr=0x0116a
+<4>[    6.036315] sdioh_request_byte: rw=0, func=0, addr=0x0116b
+<4>[    6.041725] sdioh_request_byte: rw=0, func=0, addr=0x0116c
+<4>[    6.047232] sdioh_request_byte: rw=0, func=0, addr=0x0116d
+<4>[    6.052640] sdioh_request_byte: rw=0, func=0, addr=0x0116e
+<4>[    6.058156] sdioh_request_byte: rw=0, func=0, addr=0x0116f
+<4>[    6.063559] sdioh_request_byte: rw=0, func=0, addr=0x01170
+<4>[    6.069071] sdioh_request_byte: rw=0, func=0, addr=0x01171
+<4>[    6.074491] sdioh_request_byte: rw=0, func=0, addr=0x01172
+<4>[    6.079992] sdioh_request_byte: rw=0, func=0, addr=0x01173
+<4>[    6.085396] sdioh_request_byte: rw=0, func=0, addr=0x01174
+<4>[    6.090907] sdioh_request_byte: rw=0, func=0, addr=0x01175
+<4>[    6.096319] sdioh_request_byte: rw=0, func=0, addr=0x01176
+<4>[    6.101825] sdioh_request_byte: rw=0, func=0, addr=0x01177
+<4>[    6.107233] sdioh_request_byte: rw=0, func=0, addr=0x01178
+<4>[    6.112763] sdioh_request_byte: rw=0, func=0, addr=0x01179
+<4>[    6.118167] sdioh_request_byte: rw=0, func=0, addr=0x0117a
+<4>[    6.123614] sdioh_request_byte: rw=0, func=0, addr=0x0117b
+<4>[    6.129124] sdioh_request_byte: rw=0, func=0, addr=0x0117c
+<4>[    6.134533] sdioh_request_byte: rw=0, func=0, addr=0x0117d
+<4>[    6.140042] sdioh_request_byte: rw=0, func=0, addr=0x0117e
+<4>[    6.145449] sdioh_request_byte: rw=0, func=0, addr=0x0117f
+<4>[    6.150964] sdioh_request_byte: rw=0, func=0, addr=0x01180
+<4>[    6.156368] sdioh_request_byte: rw=0, func=0, addr=0x01181
+<4>[    6.161891] sdioh_request_byte: rw=0, func=0, addr=0x01182
+<4>[    6.167291] sdioh_request_byte: rw=0, func=0, addr=0x01183
+<4>[    6.172798] sdioh_request_byte: rw=0, func=0, addr=0x01184
+<4>[    6.178206] sdioh_request_byte: rw=0, func=0, addr=0x01185
+<4>[    6.183719] sdioh_request_byte: rw=0, func=0, addr=0x01186
+<4>[    6.189124] sdioh_request_byte: rw=0, func=0, addr=0x01187
+<4>[    6.194635] sdioh_request_byte: rw=0, func=0, addr=0x01188
+<4>[    6.200043] sdioh_request_byte: rw=0, func=0, addr=0x01189
+<4>[    6.205570] sdioh_request_byte: rw=0, func=0, addr=0x0118a
+<4>[    6.210964] sdioh_request_byte: rw=0, func=0, addr=0x0118b
+<4>[    6.216474] sdioh_request_byte: rw=0, func=0, addr=0x0118c
+<4>[    6.221884] sdioh_request_byte: rw=0, func=0, addr=0x0118d
+<4>[    6.227391] sdioh_request_byte: rw=0, func=0, addr=0x0118e
+<4>[    6.232799] sdioh_request_byte: rw=0, func=0, addr=0x0118f
+<4>[    6.238312] sdioh_request_byte: rw=0, func=0, addr=0x01190
+<4>[    6.243718] sdioh_request_byte: rw=0, func=0, addr=0x01191
+<4>[    6.249243] sdioh_request_byte: rw=0, func=0, addr=0x01192
+<4>[    6.254637] sdioh_request_byte: rw=0, func=0, addr=0x01193
+<4>[    6.260152] sdioh_request_byte: rw=0, func=0, addr=0x01194
+<4>[    6.265556] sdioh_request_byte: rw=0, func=0, addr=0x01195
+<4>[    6.271066] sdioh_request_byte: rw=0, func=0, addr=0x01196
+<4>[    6.276478] sdioh_request_byte: rw=0, func=0, addr=0x01197
+<4>[    6.281986] sdioh_request_byte: rw=0, func=0, addr=0x01198
+<4>[    6.287393] sdioh_request_byte: rw=0, func=0, addr=0x01199
+<4>[    6.292868] sdioh_request_byte: rw=0, func=0, addr=0x0119a
+<4>[    6.298364] sdioh_request_byte: rw=0, func=0, addr=0x0119b
+<4>[    6.303772] sdioh_request_byte: rw=0, func=0, addr=0x0119c
+<4>[    6.309284] sdioh_request_byte: rw=0, func=0, addr=0x0119d
+<4>[    6.314691] sdioh_request_byte: rw=0, func=0, addr=0x0119e
+<4>[    6.320202] sdioh_request_byte: rw=0, func=0, addr=0x0119f
+<4>[    6.325608] sdioh_request_byte: rw=0, func=0, addr=0x011a0
+<4>[    6.331122] sdioh_request_byte: rw=0, func=0, addr=0x011a1
+<4>[    6.336541] sdioh_request_byte: rw=0, func=0, addr=0x011a2
+<4>[    6.342041] sdioh_request_byte: rw=0, func=0, addr=0x011a3
+<4>[    6.347449] sdioh_request_byte: rw=0, func=0, addr=0x011a4
+<4>[    6.352956] sdioh_request_byte: rw=0, func=0, addr=0x011a5
+<4>[    6.358364] sdioh_request_byte: rw=0, func=0, addr=0x011a6
+<4>[    6.363878] sdioh_request_byte: rw=0, func=0, addr=0x011a7
+<4>[    6.369284] sdioh_request_byte: rw=0, func=0, addr=0x011a8
+<4>[    6.374795] sdioh_request_byte: rw=0, func=0, addr=0x011a9
+<4>[    6.380214] sdioh_request_byte: rw=0, func=0, addr=0x011aa
+<4>[    6.385718] sdioh_request_byte: rw=0, func=0, addr=0x011ab
+<4>[    6.391121] sdioh_request_byte: rw=0, func=0, addr=0x011ac
+<4>[    6.396632] sdioh_request_byte: rw=0, func=0, addr=0x011ad
+<4>[    6.402042] sdioh_request_byte: rw=0, func=0, addr=0x011ae
+<4>[    6.407551] sdioh_request_byte: rw=0, func=0, addr=0x011af
+<4>[    6.412958] sdioh_request_byte: rw=0, func=0, addr=0x011b0
+<4>[    6.418473] sdioh_request_byte: rw=0, func=0, addr=0x011b1
+<4>[    6.423892] sdioh_request_byte: rw=0, func=0, addr=0x011b2
+<4>[    6.429389] sdioh_request_byte: rw=0, func=0, addr=0x011b3
+<4>[    6.434799] sdioh_request_byte: rw=0, func=0, addr=0x011b4
+<4>[    6.440307] sdioh_request_byte: rw=0, func=0, addr=0x011b5
+<4>[    6.445714] sdioh_request_byte: rw=0, func=0, addr=0x011b6
+<4>[    6.451227] sdioh_request_byte: rw=0, func=0, addr=0x011b7
+<4>[    6.456636] sdioh_request_byte: rw=0, func=0, addr=0x011b8
+<4>[    6.462145] sdioh_request_byte: rw=0, func=0, addr=0x011b9
+<4>[    6.467565] sdioh_request_byte: rw=0, func=0, addr=0x011ba
+<4>[    6.473015] sdioh_request_byte: rw=0, func=0, addr=0x011bb
+<4>[    6.478521] sdioh_request_byte: rw=0, func=0, addr=0x011bc
+<4>[    6.483936] sdioh_request_byte: rw=0, func=0, addr=0x011bd
+<4>[    6.489444] sdioh_request_byte: rw=0, func=0, addr=0x011be
+<4>[    6.494850] sdioh_request_byte: rw=0, func=0, addr=0x011bf
+<4>[    6.500360] sdioh_request_byte: rw=0, func=0, addr=0x011c0
+<4>[    6.505767] sdioh_request_byte: rw=0, func=0, addr=0x011c1
+<4>[    6.511295] sdioh_request_byte: rw=0, func=0, addr=0x011c2
+<4>[    6.516688] sdioh_request_byte: rw=0, func=0, addr=0x011c3
+<4>[    6.522199] sdioh_request_byte: rw=0, func=0, addr=0x011c4
+<4>[    6.527609] sdioh_request_byte: rw=0, func=0, addr=0x011c5
+<4>[    6.533116] sdioh_request_byte: rw=0, func=0, addr=0x011c6
+<4>[    6.538524] sdioh_request_byte: rw=0, func=0, addr=0x011c7
+<4>[    6.544036] sdioh_request_byte: rw=0, func=0, addr=0x011c8
+<4>[    6.549443] sdioh_request_byte: rw=0, func=0, addr=0x011c9
+<4>[    6.554965] sdioh_request_byte: rw=0, func=0, addr=0x011ca
+<4>[    6.560365] sdioh_request_byte: rw=0, func=0, addr=0x011cb
+<4>[    6.565874] sdioh_request_byte: rw=0, func=0, addr=0x011cc
+<4>[    6.571280] sdioh_request_byte: rw=0, func=0, addr=0x011cd
+<4>[    6.576792] sdioh_request_byte: rw=0, func=0, addr=0x011ce
+<4>[    6.582202] sdioh_request_byte: rw=0, func=0, addr=0x011cf
+<4>[    6.587710] sdioh_request_byte: rw=0, func=0, addr=0x011d0
+<4>[    6.593118] sdioh_request_byte: rw=0, func=0, addr=0x011d1
+<4>[    6.598643] sdioh_request_byte: rw=0, func=0, addr=0x011d2
+<4>[    6.604038] sdioh_request_byte: rw=0, func=0, addr=0x011d3
+<4>[    6.609548] sdioh_request_byte: rw=0, func=0, addr=0x011d4
+<4>[    6.614958] sdioh_request_byte: rw=0, func=0, addr=0x011d5
+<4>[    6.620468] sdioh_request_byte: rw=0, func=0, addr=0x011d6
+<4>[    6.625874] sdioh_request_byte: rw=0, func=0, addr=0x011d7
+<4>[    6.631384] sdioh_request_byte: rw=0, func=0, addr=0x011d8
+<4>[    6.636795] sdioh_request_byte: rw=0, func=0, addr=0x011d9
+<4>[    6.642265] sdioh_request_byte: rw=0, func=0, addr=0x011da
+<4>[    6.647766] sdioh_request_byte: rw=0, func=0, addr=0x011db
+<4>[    6.653173] sdioh_request_byte: rw=0, func=0, addr=0x011dc
+<4>[    6.658682] sdioh_request_byte: rw=0, func=0, addr=0x011dd
+<4>[    6.664090] sdioh_request_byte: rw=0, func=0, addr=0x011de
+<4>[    6.669602] sdioh_request_byte: rw=0, func=0, addr=0x011df
+<4>[    6.675008] sdioh_request_byte: rw=0, func=0, addr=0x011e0
+<4>[    6.680519] sdioh_request_byte: rw=0, func=0, addr=0x011e1
+<4>[    6.685944] sdioh_request_byte: rw=0, func=0, addr=0x011e2
+<4>[    6.691439] sdioh_request_byte: rw=0, func=0, addr=0x011e3
+<4>[    6.696847] sdioh_request_byte: rw=0, func=0, addr=0x011e4
+<4>[    6.702358] sdioh_request_byte: rw=0, func=0, addr=0x011e5
+<4>[    6.707766] sdioh_request_byte: rw=0, func=0, addr=0x011e6
+<4>[    6.713276] sdioh_request_byte: rw=0, func=0, addr=0x011e7
+<4>[    6.718683] sdioh_request_byte: rw=0, func=0, addr=0x011e8
+<4>[    6.724196] sdioh_request_byte: rw=0, func=0, addr=0x011e9
+<4>[    6.729615] sdioh_request_byte: rw=0, func=0, addr=0x011ea
+<4>[    6.735113] sdioh_request_byte: rw=0, func=0, addr=0x011eb
+<4>[    6.740525] sdioh_request_byte: rw=0, func=0, addr=0x011ec
+<4>[    6.746032] sdioh_request_byte: rw=0, func=0, addr=0x011ed
+<4>[    6.751439] sdioh_request_byte: rw=0, func=0, addr=0x011ee
+<4>[    6.756949] sdioh_request_byte: rw=0, func=0, addr=0x011ef
+<4>[    6.762361] sdioh_request_byte: rw=0, func=0, addr=0x011f0
+<4>[    6.767868] sdioh_request_byte: rw=0, func=0, addr=0x011f1
+<4>[    6.773291] sdioh_request_byte: rw=0, func=0, addr=0x011f2
+<4>[    6.778793] sdioh_request_byte: rw=0, func=0, addr=0x011f3
+<4>[    6.784197] sdioh_request_byte: rw=0, func=0, addr=0x011f4
+<4>[    6.789706] sdioh_request_byte: rw=0, func=0, addr=0x011f5
+<4>[    6.795118] sdioh_request_byte: rw=0, func=0, addr=0x011f6
+<4>[    6.800626] sdioh_request_byte: rw=0, func=0, addr=0x011f7
+<4>[    6.806034] sdioh_request_byte: rw=0, func=0, addr=0x011f8
+<4>[    6.811548] sdioh_request_byte: rw=0, func=0, addr=0x011f9
+<4>[    6.816965] sdioh_request_byte: rw=0, func=0, addr=0x011fa
+<4>[    6.822412] sdioh_request_byte: rw=0, func=0, addr=0x011fb
+<4>[    6.827922] sdioh_request_byte: rw=0, func=0, addr=0x011fc
+<4>[    6.833332] sdioh_request_byte: rw=0, func=0, addr=0x011fd
+<4>[    6.838841] sdioh_request_byte: rw=0, func=0, addr=0x011fe
+<4>[    6.844249] sdioh_request_byte: rw=0, func=0, addr=0x011ff
+<4>[    6.849763] Function 0 CIS:
+<4>[    6.852449]     80 32 fe 21 02 0c 00 22 2a 01 01 00 00 c5 01 23 
+<4>[    6.858427]     00 00 00 00 00 40 00 00 ff ff 80 00 00 00 00 00 
+<4>[    6.864405]     00 00 00 00 00 c8 00 00 00 00 00 00 00 00 00 00 
+<4>[    6.870385]     00 00 00 ff 20 04 d0 02 29 43 21 02 0c 00 22 04 
+<4>[    6.876365]     00 20 00 5a 80 07 19 78 d6 f0 3a 7f 52 00 00 00 
+<4>[    6.882344]     00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+<4>[    6.888324]     00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+<4>[    6.894302]     00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+<4>[    6.900280]     00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+<4>[    6.906261]     00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+<4>[    6.912253]     00 00 00 80 03 81 33 33 ff 
+<4>[    6.916403] sdioh_cis_read: Func = 1
+<4>[    6.919972] sdioh_cis_read: func_cis_ptr[1]=0x1003
+<4>[    6.924787] sdioh_request_byte: rw=0, func=0, addr=0x01003
+<4>[    6.930212] sdioh_request_byte: rw=0, func=0, addr=0x01004
+<4>[    6.935725] sdioh_request_byte: rw=0, func=0, addr=0x01005
+<4>[    6.941134] sdioh_request_byte: rw=0, func=0, addr=0x01006
+<4>[    6.946604] sdioh_request_byte: rw=0, func=0, addr=0x01007
+<4>[    6.952104] sdioh_request_byte: rw=0, func=0, addr=0x01008
+<4>[    6.957511] sdioh_request_byte: rw=0, func=0, addr=0x01009
+<4>[    6.963020] sdioh_request_byte: rw=0, func=0, addr=0x0100a
+<4>[    6.968427] sdioh_request_byte: rw=0, func=0, addr=0x0100b
+<4>[    6.973940] sdioh_request_byte: rw=0, func=0, addr=0x0100c
+<4>[    6.979347] sdioh_request_byte: rw=0, func=0, addr=0x0100d
+<4>[    6.984857] sdioh_request_byte: rw=0, func=0, addr=0x0100e
+<4>[    6.990290] sdioh_request_byte: rw=0, func=0, addr=0x0100f
+<4>[    6.995777] sdioh_request_byte: rw=0, func=0, addr=0x01010
+<4>[    7.001183] sdioh_request_byte: rw=0, func=0, addr=0x01011
+<4>[    7.006696] sdioh_request_byte: rw=0, func=0, addr=0x01012
+<4>[    7.012105] sdioh_request_byte: rw=0, func=0, addr=0x01013
+<4>[    7.017614] sdioh_request_byte: rw=0, func=0, addr=0x01014
+<4>[    7.023021] sdioh_request_byte: rw=0, func=0, addr=0x01015
+<4>[    7.028535] sdioh_request_byte: rw=0, func=0, addr=0x01016
+<4>[    7.033954] sdioh_request_byte: rw=0, func=0, addr=0x01017
+<4>[    7.039452] sdioh_request_byte: rw=0, func=0, addr=0x01018
+<4>[    7.044863] sdioh_request_byte: rw=0, func=0, addr=0x01019
+<4>[    7.050371] sdioh_request_byte: rw=0, func=0, addr=0x0101a
+<4>[    7.055777] sdioh_request_byte: rw=0, func=0, addr=0x0101b
+<4>[    7.061288] sdioh_request_byte: rw=0, func=0, addr=0x0101c
+<4>[    7.066699] sdioh_request_byte: rw=0, func=0, addr=0x0101d
+<4>[    7.072208] sdioh_request_byte: rw=0, func=0, addr=0x0101e
+<4>[    7.077628] sdioh_request_byte: rw=0, func=0, addr=0x0101f
+<4>[    7.083130] sdioh_request_byte: rw=0, func=0, addr=0x01020
+<4>[    7.088535] sdioh_request_byte: rw=0, func=0, addr=0x01021
+<4>[    7.094046] sdioh_request_byte: rw=0, func=0, addr=0x01022
+<4>[    7.099456] sdioh_request_byte: rw=0, func=0, addr=0x01023
+<4>[    7.104964] sdioh_request_byte: rw=0, func=0, addr=0x01024
+<4>[    7.110371] sdioh_request_byte: rw=0, func=0, addr=0x01025
+<4>[    7.115888] sdioh_request_byte: rw=0, func=0, addr=0x01026
+<4>[    7.121302] sdioh_request_byte: rw=0, func=0, addr=0x01027
+<4>[    7.126750] sdioh_request_byte: rw=0, func=0, addr=0x01028
+<4>[    7.132261] sdioh_request_byte: rw=0, func=0, addr=0x01029
+<4>[    7.137671] sdioh_request_byte: rw=0, func=0, addr=0x0102a
+<4>[    7.143181] sdioh_request_byte: rw=0, func=0, addr=0x0102b
+<4>[    7.148588] sdioh_request_byte: rw=0, func=0, addr=0x0102c
+<4>[    7.154103] sdioh_request_byte: rw=0, func=0, addr=0x0102d
+<4>[    7.159506] sdioh_request_byte: rw=0, func=0, addr=0x0102e
+<4>[    7.165030] sdioh_request_byte: rw=0, func=0, addr=0x0102f
+<4>[    7.170428] sdioh_request_byte: rw=0, func=0, addr=0x01030
+<4>[    7.175936] sdioh_request_byte: rw=0, func=0, addr=0x01031
+<4>[    7.181343] sdioh_request_byte: rw=0, func=0, addr=0x01032
+<4>[    7.186853] sdioh_request_byte: rw=0, func=0, addr=0x01033
+<4>[    7.192264] sdioh_request_byte: rw=0, func=0, addr=0x01034
+<4>[    7.197772] sdioh_request_byte: rw=0, func=0, addr=0x01035
+<4>[    7.203181] sdioh_request_byte: rw=0, func=0, addr=0x01036
+<4>[    7.208707] sdioh_request_byte: rw=0, func=0, addr=0x01037
+<4>[    7.214101] sdioh_request_byte: rw=0, func=0, addr=0x01038
+<4>[    7.219611] sdioh_request_byte: rw=0, func=0, addr=0x01039
+<4>[    7.225022] sdioh_request_byte: rw=0, func=0, addr=0x0103a
+<4>[    7.230529] sdioh_request_byte: rw=0, func=0, addr=0x0103b
+<4>[    7.235937] sdioh_request_byte: rw=0, func=0, addr=0x0103c
+<4>[    7.241451] sdioh_request_byte: rw=0, func=0, addr=0x0103d
+<4>[    7.246856] sdioh_request_byte: rw=0, func=0, addr=0x0103e
+<4>[    7.252381] sdioh_request_byte: rw=0, func=0, addr=0x0103f
+<4>[    7.257774] sdioh_request_byte: rw=0, func=0, addr=0x01040
+<4>[    7.263286] sdioh_request_byte: rw=0, func=0, addr=0x01041
+<4>[    7.268695] sdioh_request_byte: rw=0, func=0, addr=0x01042
+<4>[    7.274204] sdioh_request_byte: rw=0, func=0, addr=0x01043
+<4>[    7.279615] sdioh_request_byte: rw=0, func=0, addr=0x01044
+<4>[    7.285123] sdioh_request_byte: rw=0, func=0, addr=0x01045
+<4>[    7.290530] sdioh_request_byte: rw=0, func=0, addr=0x01046
+<4>[    7.296007] sdioh_request_byte: rw=0, func=0, addr=0x01047
+<4>[    7.301501] sdioh_request_byte: rw=0, func=0, addr=0x01048
+<4>[    7.306910] sdioh_request_byte: rw=0, func=0, addr=0x01049
+<4>[    7.312420] sdioh_request_byte: rw=0, func=0, addr=0x0104a
+<4>[    7.317831] sdioh_request_byte: rw=0, func=0, addr=0x0104b
+<4>[    7.323338] sdioh_request_byte: rw=0, func=0, addr=0x0104c
+<4>[    7.328745] sdioh_request_byte: rw=0, func=0, addr=0x0104d
+<4>[    7.334259] sdioh_request_byte: rw=0, func=0, addr=0x0104e
+<4>[    7.339677] sdioh_request_byte: rw=0, func=0, addr=0x0104f
+<4>[    7.345177] sdioh_request_byte: rw=0, func=0, addr=0x01050
+<4>[    7.350587] sdioh_request_byte: rw=0, func=0, addr=0x01051
+<4>[    7.356094] sdioh_request_byte: rw=0, func=0, addr=0x01052
+<4>[    7.361503] sdioh_request_byte: rw=0, func=0, addr=0x01053
+<4>[    7.367015] sdioh_request_byte: rw=0, func=0, addr=0x01054
+<4>[    7.372421] sdioh_request_byte: rw=0, func=0, addr=0x01055
+<4>[    7.377932] sdioh_request_byte: rw=0, func=0, addr=0x01056
+<4>[    7.383352] sdioh_request_byte: rw=0, func=0, addr=0x01057
+<4>[    7.388855] sdioh_request_byte: rw=0, func=0, addr=0x01058
+<4>[    7.394259] sdioh_request_byte: rw=0, func=0, addr=0x01059
+<4>[    7.399768] sdioh_request_byte: rw=0, func=0, addr=0x0105a
+<4>[    7.405180] sdioh_request_byte: rw=0, func=0, addr=0x0105b
+<4>[    7.410687] sdioh_request_byte: rw=0, func=0, addr=0x0105c
+<4>[    7.416096] sdioh_request_byte: rw=0, func=0, addr=0x0105d
+<4>[    7.421609] sdioh_request_byte: rw=0, func=0, addr=0x0105e
+<4>[    7.427028] sdioh_request_byte: rw=0, func=0, addr=0x0105f
+<4>[    7.432527] sdioh_request_byte: rw=0, func=0, addr=0x01060
+<4>[    7.437933] sdioh_request_byte: rw=0, func=0, addr=0x01061
+<4>[    7.443449] sdioh_request_byte: rw=0, func=0, addr=0x01062
+<4>[    7.448852] sdioh_request_byte: rw=0, func=0, addr=0x01063
+<4>[    7.454363] sdioh_request_byte: rw=0, func=0, addr=0x01064
+<4>[    7.459774] sdioh_request_byte: rw=0, func=0, addr=0x01065
+<4>[    7.465282] sdioh_request_byte: rw=0, func=0, addr=0x01066
+<4>[    7.470703] sdioh_request_byte: rw=0, func=0, addr=0x01067
+<4>[    7.476158] sdioh_request_byte: rw=0, func=0, addr=0x01068
+<4>[    7.481660] sdioh_request_byte: rw=0, func=0, addr=0x01069
+<4>[    7.487067] sdioh_request_byte: rw=0, func=0, addr=0x0106a
+<4>[    7.492581] sdioh_request_byte: rw=0, func=0, addr=0x0106b
+<4>[    7.497985] sdioh_request_byte: rw=0, func=0, addr=0x0106c
+<4>[    7.503497] sdioh_request_byte: rw=0, func=0, addr=0x0106d
+<4>[    7.508905] sdioh_request_byte: rw=0, func=0, addr=0x0106e
+<4>[    7.514433] sdioh_request_byte: rw=0, func=0, addr=0x0106f
+<4>[    7.519825] sdioh_request_byte: rw=0, func=0, addr=0x01070
+<4>[    7.525335] sdioh_request_byte: rw=0, func=0, addr=0x01071
+<4>[    7.530746] sdioh_request_byte: rw=0, func=0, addr=0x01072
+<4>[    7.536254] sdioh_request_byte: rw=0, func=0, addr=0x01073
+<4>[    7.541662] sdioh_request_byte: rw=0, func=0, addr=0x01074
+<4>[    7.547175] sdioh_request_byte: rw=0, func=0, addr=0x01075
+<4>[    7.552579] sdioh_request_byte: rw=0, func=0, addr=0x01076
+<4>[    7.558105] sdioh_request_byte: rw=0, func=0, addr=0x01077
+<4>[    7.563499] sdioh_request_byte: rw=0, func=0, addr=0x01078
+<4>[    7.569014] sdioh_request_byte: rw=0, func=0, addr=0x01079
+<4>[    7.574418] sdioh_request_byte: rw=0, func=0, addr=0x0107a
+<4>[    7.579929] sdioh_request_byte: rw=0, func=0, addr=0x0107b
+<4>[    7.585339] sdioh_request_byte: rw=0, func=0, addr=0x0107c
+<4>[    7.590847] sdioh_request_byte: rw=0, func=0, addr=0x0107d
+<4>[    7.596256] sdioh_request_byte: rw=0, func=0, addr=0x0107e
+<4>[    7.601783] sdioh_request_byte: rw=0, func=0, addr=0x0107f
+<4>[    7.607175] sdioh_request_byte: rw=0, func=0, addr=0x01080
+<4>[    7.612686] sdioh_request_byte: rw=0, func=0, addr=0x01081
+<4>[    7.618096] sdioh_request_byte: rw=0, func=0, addr=0x01082
+<4>[    7.623604] sdioh_request_byte: rw=0, func=0, addr=0x01083
+<4>[    7.629012] sdioh_request_byte: rw=0, func=0, addr=0x01084
+<4>[    7.634521] sdioh_request_byte: rw=0, func=0, addr=0x01085
+<4>[    7.639934] sdioh_request_byte: rw=0, func=0, addr=0x01086
+<4>[    7.645403] sdioh_request_byte: rw=0, func=0, addr=0x01087
+<4>[    7.650901] sdioh_request_byte: rw=0, func=0, addr=0x01088
+<4>[    7.656312] sdioh_request_byte: rw=0, func=0, addr=0x01089
+<4>[    7.661820] sdioh_request_byte: rw=0, func=0, addr=0x0108a
+<4>[    7.667228] sdioh_request_byte: rw=0, func=0, addr=0x0108b
+<4>[    7.672740] sdioh_request_byte: rw=0, func=0, addr=0x0108c
+<4>[    7.678145] sdioh_request_byte: rw=0, func=0, addr=0x0108d
+<4>[    7.683657] sdioh_request_byte: rw=0, func=0, addr=0x0108e
+<4>[    7.689078] sdioh_request_byte: rw=0, func=0, addr=0x0108f
+<4>[    7.694579] sdioh_request_byte: rw=0, func=0, addr=0x01090
+<4>[    7.699983] sdioh_request_byte: rw=0, func=0, addr=0x01091
+<4>[    7.705495] sdioh_request_byte: rw=0, func=0, addr=0x01092
+<4>[    7.710905] sdioh_request_byte: rw=0, func=0, addr=0x01093
+<4>[    7.716413] sdioh_request_byte: rw=0, func=0, addr=0x01094
+<4>[    7.721821] sdioh_request_byte: rw=0, func=0, addr=0x01095
+<4>[    7.727334] sdioh_request_byte: rw=0, func=0, addr=0x01096
+<4>[    7.732753] sdioh_request_byte: rw=0, func=0, addr=0x01097
+<4>[    7.738251] sdioh_request_byte: rw=0, func=0, addr=0x01098
+<4>[    7.743661] sdioh_request_byte: rw=0, func=0, addr=0x01099
+<4>[    7.749170] sdioh_request_byte: rw=0, func=0, addr=0x0109a
+<4>[    7.754576] sdioh_request_byte: rw=0, func=0, addr=0x0109b
+<4>[    7.760089] sdioh_request_byte: rw=0, func=0, addr=0x0109c
+<4>[    7.765498] sdioh_request_byte: rw=0, func=0, addr=0x0109d
+<4>[    7.771007] sdioh_request_byte: rw=0, func=0, addr=0x0109e
+<4>[    7.776428] sdioh_request_byte: rw=0, func=0, addr=0x0109f
+<4>[    7.781929] sdioh_request_byte: rw=0, func=0, addr=0x010a0
+<4>[    7.787334] sdioh_request_byte: rw=0, func=0, addr=0x010a1
+<4>[    7.792844] sdioh_request_byte: rw=0, func=0, addr=0x010a2
+<4>[    7.798255] sdioh_request_byte: rw=0, func=0, addr=0x010a3
+<4>[    7.803763] sdioh_request_byte: rw=0, func=0, addr=0x010a4
+<4>[    7.809171] sdioh_request_byte: rw=0, func=0, addr=0x010a5
+<4>[    7.814680] sdioh_request_byte: rw=0, func=0, addr=0x010a6
+<4>[    7.820104] sdioh_request_byte: rw=0, func=0, addr=0x010a7
+<4>[    7.825549] sdioh_request_byte: rw=0, func=0, addr=0x010a8
+<4>[    7.831059] sdioh_request_byte: rw=0, func=0, addr=0x010a9
+<4>[    7.836470] sdioh_request_byte: rw=0, func=0, addr=0x010aa
+<4>[    7.841977] sdioh_request_byte: rw=0, func=0, addr=0x010ab
+<4>[    7.847385] sdioh_request_byte: rw=0, func=0, addr=0x010ac
+<4>[    7.852899] sdioh_request_byte: rw=0, func=0, addr=0x010ad
+<4>[    7.858305] sdioh_request_byte: rw=0, func=0, addr=0x010ae
+<4>[    7.863829] sdioh_request_byte: rw=0, func=0, addr=0x010af
+<4>[    7.869229] sdioh_request_byte: rw=0, func=0, addr=0x010b0
+<4>[    7.874735] sdioh_request_byte: rw=0, func=0, addr=0x010b1
+<4>[    7.880142] sdioh_request_byte: rw=0, func=0, addr=0x010b2
+<4>[    7.885654] sdioh_request_byte: rw=0, func=0, addr=0x010b3
+<4>[    7.891063] sdioh_request_byte: rw=0, func=0, addr=0x010b4
+<4>[    7.896572] sdioh_request_byte: rw=0, func=0, addr=0x010b5
+<4>[    7.901978] sdioh_request_byte: rw=0, func=0, addr=0x010b6
+<4>[    7.907503] sdioh_request_byte: rw=0, func=0, addr=0x010b7
+<4>[    7.912900] sdioh_request_byte: rw=0, func=0, addr=0x010b8
+<4>[    7.918411] sdioh_request_byte: rw=0, func=0, addr=0x010b9
+<4>[    7.923820] sdioh_request_byte: rw=0, func=0, addr=0x010ba
+<4>[    7.929326] sdioh_request_byte: rw=0, func=0, addr=0x010bb
+<4>[    7.934736] sdioh_request_byte: rw=0, func=0, addr=0x010bc
+<4>[    7.940247] sdioh_request_byte: rw=0, func=0, addr=0x010bd
+<4>[    7.945657] sdioh_request_byte: rw=0, func=0, addr=0x010be
+<4>[    7.951179] sdioh_request_byte: rw=0, func=0, addr=0x010bf
+<4>[    7.956581] sdioh_request_byte: rw=0, func=0, addr=0x010c0
+<4>[    7.962087] sdioh_request_byte: rw=0, func=0, addr=0x010c1
+<4>[    7.967493] sdioh_request_byte: rw=0, func=0, addr=0x010c2
+<4>[    7.973002] sdioh_request_byte: rw=0, func=0, addr=0x010c3
+<4>[    7.978412] sdioh_request_byte: rw=0, func=0, addr=0x010c4
+<4>[    7.983923] sdioh_request_byte: rw=0, func=0, addr=0x010c5
+<4>[    7.989329] sdioh_request_byte: rw=0, func=0, addr=0x010c6
+<4>[    7.994805] sdioh_request_byte: rw=0, func=0, addr=0x010c7
+<4>[    8.000301] sdioh_request_byte: rw=0, func=0, addr=0x010c8
+<4>[    8.005708] sdioh_request_byte: rw=0, func=0, addr=0x010c9
+<4>[    8.011219] sdioh_request_byte: rw=0, func=0, addr=0x010ca
+<4>[    8.016629] sdioh_request_byte: rw=0, func=0, addr=0x010cb
+<4>[    8.022137] sdioh_request_byte: rw=0, func=0, addr=0x010cc
+<4>[    8.027545] sdioh_request_byte: rw=0, func=0, addr=0x010cd
+<4>[    8.033058] sdioh_request_byte: rw=0, func=0, addr=0x010ce
+<4>[    8.038477] sdioh_request_byte: rw=0, func=0, addr=0x010cf
+<4>[    8.043976] sdioh_request_byte: rw=0, func=0, addr=0x010d0
+<4>[    8.049387] sdioh_request_byte: rw=0, func=0, addr=0x010d1
+<4>[    8.054894] sdioh_request_byte: rw=0, func=0, addr=0x010d2
+<4>[    8.060301] sdioh_request_byte: rw=0, func=0, addr=0x010d3
+<4>[    8.065811] sdioh_request_byte: rw=0, func=0, addr=0x010d4
+<4>[    8.071222] sdioh_request_byte: rw=0, func=0, addr=0x010d5
+<4>[    8.076731] sdioh_request_byte: rw=0, func=0, addr=0x010d6
+<4>[    8.082152] sdioh_request_byte: rw=0, func=0, addr=0x010d7
+<4>[    8.087653] sdioh_request_byte: rw=0, func=0, addr=0x010d8
+<4>[    8.093059] sdioh_request_byte: rw=0, func=0, addr=0x010d9
+<4>[    8.098568] sdioh_request_byte: rw=0, func=0, addr=0x010da
+<4>[    8.103980] sdioh_request_byte: rw=0, func=0, addr=0x010db
+<4>[    8.109487] sdioh_request_byte: rw=0, func=0, addr=0x010dc
+<4>[    8.114895] sdioh_request_byte: rw=0, func=0, addr=0x010dd
+<4>[    8.120410] sdioh_request_byte: rw=0, func=0, addr=0x010de
+<4>[    8.125827] sdioh_request_byte: rw=0, func=0, addr=0x010df
+<4>[    8.131325] sdioh_request_byte: rw=0, func=0, addr=0x010e0
+<4>[    8.136732] sdioh_request_byte: rw=0, func=0, addr=0x010e1
+<4>[    8.142246] sdioh_request_byte: rw=0, func=0, addr=0x010e2
+<4>[    8.147653] sdioh_request_byte: rw=0, func=0, addr=0x010e3
+<4>[    8.153162] sdioh_request_byte: rw=0, func=0, addr=0x010e4
+<4>[    8.158574] sdioh_request_byte: rw=0, func=0, addr=0x010e5
+<4>[    8.164080] sdioh_request_byte: rw=0, func=0, addr=0x010e6
+<4>[    8.169501] sdioh_request_byte: rw=0, func=0, addr=0x010e7
+<4>[    8.174953] sdioh_request_byte: rw=0, func=0, addr=0x010e8
+<4>[    8.180461] sdioh_request_byte: rw=0, func=0, addr=0x010e9
+<4>[    8.185868] sdioh_request_byte: rw=0, func=0, addr=0x010ea
+<4>[    8.191377] sdioh_request_byte: rw=0, func=0, addr=0x010eb
+<4>[    8.196789] sdioh_request_byte: rw=0, func=0, addr=0x010ec
+<4>[    8.202298] sdioh_request_byte: rw=0, func=0, addr=0x010ed
+<4>[    8.207704] sdioh_request_byte: rw=0, func=0, addr=0x010ee
+<4>[    8.213232] sdioh_request_byte: rw=0, func=0, addr=0x010ef
+<4>[    8.218625] sdioh_request_byte: rw=0, func=0, addr=0x010f0
+<4>[    8.224135] sdioh_request_byte: rw=0, func=0, addr=0x010f1
+<4>[    8.229545] sdioh_request_byte: rw=0, func=0, addr=0x010f2
+<4>[    8.235053] sdioh_request_byte: rw=0, func=0, addr=0x010f3
+<4>[    8.240460] sdioh_request_byte: rw=0, func=0, addr=0x010f4
+<4>[    8.245974] sdioh_request_byte: rw=0, func=0, addr=0x010f5
+<4>[    8.251378] sdioh_request_byte: rw=0, func=0, addr=0x010f6
+<4>[    8.256904] sdioh_request_byte: rw=0, func=0, addr=0x010f7
+<4>[    8.262299] sdioh_request_byte: rw=0, func=0, addr=0x010f8
+<4>[    8.267813] sdioh_request_byte: rw=0, func=0, addr=0x010f9
+<4>[    8.273218] sdioh_request_byte: rw=0, func=0, addr=0x010fa
+<4>[    8.278728] sdioh_request_byte: rw=0, func=0, addr=0x010fb
+<4>[    8.284138] sdioh_request_byte: rw=0, func=0, addr=0x010fc
+<4>[    8.289645] sdioh_request_byte: rw=0, func=0, addr=0x010fd
+<4>[    8.295054] sdioh_request_byte: rw=0, func=0, addr=0x010fe
+<4>[    8.300581] sdioh_request_byte: rw=0, func=0, addr=0x010ff
+<4>[    8.305974] sdioh_request_byte: rw=0, func=0, addr=0x01100
+<4>[    8.311486] sdioh_request_byte: rw=0, func=0, addr=0x01101
+<4>[    8.316891] sdioh_request_byte: rw=0, func=0, addr=0x01102
+<4>[    8.322406] sdioh_request_byte: rw=0, func=0, addr=0x01103
+<4>[    8.327810] sdioh_request_byte: rw=0, func=0, addr=0x01104
+<4>[    8.333322] sdioh_request_byte: rw=0, func=0, addr=0x01105
+<4>[    8.338733] sdioh_request_byte: rw=0, func=0, addr=0x01106
+<4>[    8.344201] sdioh_request_byte: rw=0, func=0, addr=0x01107
+<4>[    8.349701] sdioh_request_byte: rw=0, func=0, addr=0x01108
+<4>[    8.355111] sdioh_request_byte: rw=0, func=0, addr=0x01109
+<4>[    8.360619] sdioh_request_byte: rw=0, func=0, addr=0x0110a
+<4>[    8.366026] sdioh_request_byte: rw=0, func=0, addr=0x0110b
+<4>[    8.371540] sdioh_request_byte: rw=0, func=0, addr=0x0110c
+<4>[    8.376945] sdioh_request_byte: rw=0, func=0, addr=0x0110d
+<4>[    8.382457] sdioh_request_byte: rw=0, func=0, addr=0x0110e
+<4>[    8.387878] sdioh_request_byte: rw=0, func=0, addr=0x0110f
+<4>[    8.393380] sdioh_request_byte: rw=0, func=0, addr=0x01110
+<4>[    8.398783] sdioh_request_byte: rw=0, func=0, addr=0x01111
+<4>[    8.404292] sdioh_request_byte: rw=0, func=0, addr=0x01112
+<4>[    8.409710] sdioh_request_byte: rw=0, func=0, addr=0x01113
+<4>[    8.415211] sdioh_request_byte: rw=0, func=0, addr=0x01114
+<4>[    8.420620] sdioh_request_byte: rw=0, func=0, addr=0x01115
+<4>[    8.426133] sdioh_request_byte: rw=0, func=0, addr=0x01116
+<4>[    8.431551] sdioh_request_byte: rw=0, func=0, addr=0x01117
+<4>[    8.437052] sdioh_request_byte: rw=0, func=0, addr=0x01118
+<4>[    8.442456] sdioh_request_byte: rw=0, func=0, addr=0x01119
+<4>[    8.447972] sdioh_request_byte: rw=0, func=0, addr=0x0111a
+<4>[    8.453376] sdioh_request_byte: rw=0, func=0, addr=0x0111b
+<4>[    8.458886] sdioh_request_byte: rw=0, func=0, addr=0x0111c
+<4>[    8.464298] sdioh_request_byte: rw=0, func=0, addr=0x0111d
+<4>[    8.469807] sdioh_request_byte: rw=0, func=0, addr=0x0111e
+<4>[    8.475228] sdioh_request_byte: rw=0, func=0, addr=0x0111f
+<4>[    8.480728] sdioh_request_byte: rw=0, func=0, addr=0x01120
+<4>[    8.486133] sdioh_request_byte: rw=0, func=0, addr=0x01121
+<4>[    8.491644] sdioh_request_byte: rw=0, func=0, addr=0x01122
+<4>[    8.497054] sdioh_request_byte: rw=0, func=0, addr=0x01123
+<4>[    8.502564] sdioh_request_byte: rw=0, func=0, addr=0x01124
+<4>[    8.507970] sdioh_request_byte: rw=0, func=0, addr=0x01125
+<4>[    8.513480] sdioh_request_byte: rw=0, func=0, addr=0x01126
+<4>[    8.518906] sdioh_request_byte: rw=0, func=0, addr=0x01127
+<4>[    8.524348] sdioh_request_byte: rw=0, func=0, addr=0x01128
+<4>[    8.529858] sdioh_request_byte: rw=0, func=0, addr=0x01129
+<4>[    8.535269] sdioh_request_byte: rw=0, func=0, addr=0x0112a
+<4>[    8.540777] sdioh_request_byte: rw=0, func=0, addr=0x0112b
+<4>[    8.546185] sdioh_request_byte: rw=0, func=0, addr=0x0112c
+<4>[    8.551698] sdioh_request_byte: rw=0, func=0, addr=0x0112d
+<4>[    8.557104] sdioh_request_byte: rw=0, func=0, addr=0x0112e
+<4>[    8.562625] sdioh_request_byte: rw=0, func=0, addr=0x0112f
+<4>[    8.568026] sdioh_request_byte: rw=0, func=0, addr=0x01130
+<4>[    8.573535] sdioh_request_byte: rw=0, func=0, addr=0x01131
+<4>[    8.578941] sdioh_request_byte: rw=0, func=0, addr=0x01132
+<4>[    8.584455] sdioh_request_byte: rw=0, func=0, addr=0x01133
+<4>[    8.589863] sdioh_request_byte: rw=0, func=0, addr=0x01134
+<4>[    8.595370] sdioh_request_byte: rw=0, func=0, addr=0x01135
+<4>[    8.600779] sdioh_request_byte: rw=0, func=0, addr=0x01136
+<4>[    8.606305] sdioh_request_byte: rw=0, func=0, addr=0x01137
+<4>[    8.611699] sdioh_request_byte: rw=0, func=0, addr=0x01138
+<4>[    8.617209] sdioh_request_byte: rw=0, func=0, addr=0x01139
+<4>[    8.622620] sdioh_request_byte: rw=0, func=0, addr=0x0113a
+<4>[    8.628128] sdioh_request_byte: rw=0, func=0, addr=0x0113b
+<4>[    8.633535] sdioh_request_byte: rw=0, func=0, addr=0x0113c
+<4>[    8.639047] sdioh_request_byte: rw=0, func=0, addr=0x0113d
+<4>[    8.644457] sdioh_request_byte: rw=0, func=0, addr=0x0113e
+<4>[    8.649978] sdioh_request_byte: rw=0, func=0, addr=0x0113f
+<4>[    8.655375] sdioh_request_byte: rw=0, func=0, addr=0x01140
+<4>[    8.660888] sdioh_request_byte: rw=0, func=0, addr=0x01141
+<4>[    8.666292] sdioh_request_byte: rw=0, func=0, addr=0x01142
+<4>[    8.671802] sdioh_request_byte: rw=0, func=0, addr=0x01143
+<4>[    8.677212] sdioh_request_byte: rw=0, func=0, addr=0x01144
+<4>[    8.682721] sdioh_request_byte: rw=0, func=0, addr=0x01145
+<4>[    8.688129] sdioh_request_byte: rw=0, func=0, addr=0x01146
+<4>[    8.693603] sdioh_request_byte: rw=0, func=0, addr=0x01147
+<4>[    8.699099] sdioh_request_byte: rw=0, func=0, addr=0x01148
+<4>[    8.704506] sdioh_request_byte: rw=0, func=0, addr=0x01149
+<4>[    8.710018] sdioh_request_byte: rw=0, func=0, addr=0x0114a
+<4>[    8.715429] sdioh_request_byte: rw=0, func=0, addr=0x0114b
+<4>[    8.720938] sdioh_request_byte: rw=0, func=0, addr=0x0114c
+<4>[    8.726344] sdioh_request_byte: rw=0, func=0, addr=0x0114d
+<4>[    8.731858] sdioh_request_byte: rw=0, func=0, addr=0x0114e
+<4>[    8.737277] sdioh_request_byte: rw=0, func=0, addr=0x0114f
+<4>[    8.742775] sdioh_request_byte: rw=0, func=0, addr=0x01150
+<4>[    8.748186] sdioh_request_byte: rw=0, func=0, addr=0x01151
+<4>[    8.753694] sdioh_request_byte: rw=0, func=0, addr=0x01152
+<4>[    8.759101] sdioh_request_byte: rw=0, func=0, addr=0x01153
+<4>[    8.764613] sdioh_request_byte: rw=0, func=0, addr=0x01154
+<4>[    8.770020] sdioh_request_byte: rw=0, func=0, addr=0x01155
+<4>[    8.775531] sdioh_request_byte: rw=0, func=0, addr=0x01156
+<4>[    8.780951] sdioh_request_byte: rw=0, func=0, addr=0x01157
+<4>[    8.786454] sdioh_request_byte: rw=0, func=0, addr=0x01158
+<4>[    8.791858] sdioh_request_byte: rw=0, func=0, addr=0x01159
+<4>[    8.797367] sdioh_request_byte: rw=0, func=0, addr=0x0115a
+<4>[    8.802778] sdioh_request_byte: rw=0, func=0, addr=0x0115b
+<4>[    8.808287] sdioh_request_byte: rw=0, func=0, addr=0x0115c
+<4>[    8.813694] sdioh_request_byte: rw=0, func=0, addr=0x0115d
+<4>[    8.819210] sdioh_request_byte: rw=0, func=0, addr=0x0115e
+<4>[    8.824626] sdioh_request_byte: rw=0, func=0, addr=0x0115f
+<4>[    8.830126] sdioh_request_byte: rw=0, func=0, addr=0x01160
+<4>[    8.835532] sdioh_request_byte: rw=0, func=0, addr=0x01161
+<4>[    8.841045] sdioh_request_byte: rw=0, func=0, addr=0x01162
+<4>[    8.846451] sdioh_request_byte: rw=0, func=0, addr=0x01163
+<4>[    8.851961] sdioh_request_byte: rw=0, func=0, addr=0x01164
+<4>[    8.857371] sdioh_request_byte: rw=0, func=0, addr=0x01165
+<4>[    8.862882] sdioh_request_byte: rw=0, func=0, addr=0x01166
+<4>[    8.868301] sdioh_request_byte: rw=0, func=0, addr=0x01167
+<4>[    8.873751] sdioh_request_byte: rw=0, func=0, addr=0x01168
+<4>[    8.879257] sdioh_request_byte: rw=0, func=0, addr=0x01169
+<4>[    8.884666] sdioh_request_byte: rw=0, func=0, addr=0x0116a
+<4>[    8.890176] sdioh_request_byte: rw=0, func=0, addr=0x0116b
+<4>[    8.895587] sdioh_request_byte: rw=0, func=0, addr=0x0116c
+<4>[    8.901097] sdioh_request_byte: rw=0, func=0, addr=0x0116d
+<4>[    8.906503] sdioh_request_byte: rw=0, func=0, addr=0x0116e
+<4>[    8.912030] sdioh_request_byte: rw=0, func=0, addr=0x0116f
+<4>[    8.917423] sdioh_request_byte: rw=0, func=0, addr=0x01170
+<4>[    8.922935] sdioh_request_byte: rw=0, func=0, addr=0x01171
+<4>[    8.928345] sdioh_request_byte: rw=0, func=0, addr=0x01172
+<4>[    8.933853] sdioh_request_byte: rw=0, func=0, addr=0x01173
+<4>[    8.939259] sdioh_request_byte: rw=0, func=0, addr=0x01174
+<4>[    8.944774] sdioh_request_byte: rw=0, func=0, addr=0x01175
+<4>[    8.950178] sdioh_request_byte: rw=0, func=0, addr=0x01176
+<4>[    8.955702] sdioh_request_byte: rw=0, func=0, addr=0x01177
+<4>[    8.961098] sdioh_request_byte: rw=0, func=0, addr=0x01178
+<4>[    8.966612] sdioh_request_byte: rw=0, func=0, addr=0x01179
+<4>[    8.972018] sdioh_request_byte: rw=0, func=0, addr=0x0117a
+<4>[    8.977528] sdioh_request_byte: rw=0, func=0, addr=0x0117b
+<4>[    8.982939] sdioh_request_byte: rw=0, func=0, addr=0x0117c
+<4>[    8.988446] sdioh_request_byte: rw=0, func=0, addr=0x0117d
+<4>[    8.993853] sdioh_request_byte: rw=0, func=0, addr=0x0117e
+<4>[    8.999381] sdioh_request_byte: rw=0, func=0, addr=0x0117f
+<4>[    9.004774] sdioh_request_byte: rw=0, func=0, addr=0x01180
+<4>[    9.010283] sdioh_request_byte: rw=0, func=0, addr=0x01181
+<4>[    9.015690] sdioh_request_byte: rw=0, func=0, addr=0x01182
+<4>[    9.021204] sdioh_request_byte: rw=0, func=0, addr=0x01183
+<4>[    9.026610] sdioh_request_byte: rw=0, func=0, addr=0x01184
+<4>[    9.032120] sdioh_request_byte: rw=0, func=0, addr=0x01185
+<4>[    9.037533] sdioh_request_byte: rw=0, func=0, addr=0x01186
+<4>[    9.043001] sdioh_request_byte: rw=0, func=0, addr=0x01187
+<4>[    9.048500] sdioh_request_byte: rw=0, func=0, addr=0x01188
+<4>[    9.053910] sdioh_request_byte: rw=0, func=0, addr=0x01189
+<4>[    9.059417] sdioh_request_byte: rw=0, func=0, addr=0x0118a
+<4>[    9.064826] sdioh_request_byte: rw=0, func=0, addr=0x0118b
+<4>[    9.070339] sdioh_request_byte: rw=0, func=0, addr=0x0118c
+<4>[    9.075743] sdioh_request_byte: rw=0, func=0, addr=0x0118d
+<4>[    9.081257] sdioh_request_byte: rw=0, func=0, addr=0x0118e
+<4>[    9.086675] sdioh_request_byte: rw=0, func=0, addr=0x0118f
+<4>[    9.092178] sdioh_request_byte: rw=0, func=0, addr=0x01190
+<4>[    9.097583] sdioh_request_byte: rw=0, func=0, addr=0x01191
+<4>[    9.103094] sdioh_request_byte: rw=0, func=0, addr=0x01192
+<4>[    9.108504] sdioh_request_byte: rw=0, func=0, addr=0x01193
+<4>[    9.114010] sdioh_request_byte: rw=0, func=0, addr=0x01194
+<4>[    9.119419] sdioh_request_byte: rw=0, func=0, addr=0x01195
+<4>[    9.124934] sdioh_request_byte: rw=0, func=0, addr=0x01196
+<4>[    9.130351] sdioh_request_byte: rw=0, func=0, addr=0x01197
+<4>[    9.135851] sdioh_request_byte: rw=0, func=0, addr=0x01198
+<4>[    9.141257] sdioh_request_byte: rw=0, func=0, addr=0x01199
+<4>[    9.146770] sdioh_request_byte: rw=0, func=0, addr=0x0119a
+<4>[    9.152174] sdioh_request_byte: rw=0, func=0, addr=0x0119b
+<4>[    9.157686] sdioh_request_byte: rw=0, func=0, addr=0x0119c
+<4>[    9.163097] sdioh_request_byte: rw=0, func=0, addr=0x0119d
+<4>[    9.168604] sdioh_request_byte: rw=0, func=0, addr=0x0119e
+<4>[    9.174026] sdioh_request_byte: rw=0, func=0, addr=0x0119f
+<4>[    9.179526] sdioh_request_byte: rw=0, func=0, addr=0x011a0
+<4>[    9.184931] sdioh_request_byte: rw=0, func=0, addr=0x011a1
+<4>[    9.190443] sdioh_request_byte: rw=0, func=0, addr=0x011a2
+<4>[    9.195853] sdioh_request_byte: rw=0, func=0, addr=0x011a3
+<4>[    9.201363] sdioh_request_byte: rw=0, func=0, addr=0x011a4
+<4>[    9.206768] sdioh_request_byte: rw=0, func=0, addr=0x011a5
+<4>[    9.212280] sdioh_request_byte: rw=0, func=0, addr=0x011a6
+<4>[    9.217704] sdioh_request_byte: rw=0, func=0, addr=0x011a7
+<4>[    9.223148] sdioh_request_byte: rw=0, func=0, addr=0x011a8
+<4>[    9.228658] sdioh_request_byte: rw=0, func=0, addr=0x011a9
+<4>[    9.234068] sdioh_request_byte: rw=0, func=0, addr=0x011aa
+<4>[    9.239577] sdioh_request_byte: rw=0, func=0, addr=0x011ab
+<4>[    9.244985] sdioh_request_byte: rw=0, func=0, addr=0x011ac
+<4>[    9.250498] sdioh_request_byte: rw=0, func=0, addr=0x011ad
+<4>[    9.255904] sdioh_request_byte: rw=0, func=0, addr=0x011ae
+<4>[    9.261427] sdioh_request_byte: rw=0, func=0, addr=0x011af
+<4>[    9.266822] sdioh_request_byte: rw=0, func=0, addr=0x011b0
+<4>[    9.272336] sdioh_request_byte: rw=0, func=0, addr=0x011b1
+<4>[    9.277741] sdioh_request_byte: rw=0, func=0, addr=0x011b2
+<4>[    9.283252] sdioh_request_byte: rw=0, func=0, addr=0x011b3
+<4>[    9.288662] sdioh_request_byte: rw=0, func=0, addr=0x011b4
+<4>[    9.294169] sdioh_request_byte: rw=0, func=0, addr=0x011b5
+<4>[    9.299578] sdioh_request_byte: rw=0, func=0, addr=0x011b6
+<4>[    9.305104] sdioh_request_byte: rw=0, func=0, addr=0x011b7
+<4>[    9.310497] sdioh_request_byte: rw=0, func=0, addr=0x011b8
+<4>[    9.316006] sdioh_request_byte: rw=0, func=0, addr=0x011b9
+<4>[    9.321419] sdioh_request_byte: rw=0, func=0, addr=0x011ba
+<4>[    9.326927] sdioh_request_byte: rw=0, func=0, addr=0x011bb
+<4>[    9.332334] sdioh_request_byte: rw=0, func=0, addr=0x011bc
+<4>[    9.337845] sdioh_request_byte: rw=0, func=0, addr=0x011bd
+<4>[    9.343255] sdioh_request_byte: rw=0, func=0, addr=0x011be
+<4>[    9.348777] sdioh_request_byte: rw=0, func=0, addr=0x011bf
+<4>[    9.354174] sdioh_request_byte: rw=0, func=0, addr=0x011c0
+<4>[    9.359687] sdioh_request_byte: rw=0, func=0, addr=0x011c1
+<4>[    9.365090] sdioh_request_byte: rw=0, func=0, addr=0x011c2
+<4>[    9.370603] sdioh_request_byte: rw=0, func=0, addr=0x011c3
+<4>[    9.376011] sdioh_request_byte: rw=0, func=0, addr=0x011c4
+<4>[    9.381521] sdioh_request_byte: rw=0, func=0, addr=0x011c5
+<4>[    9.386927] sdioh_request_byte: rw=0, func=0, addr=0x011c6
+<4>[    9.392399] sdioh_request_byte: rw=0, func=0, addr=0x011c7
+<4>[    9.397902] sdioh_request_byte: rw=0, func=0, addr=0x011c8
+<4>[    9.403305] sdioh_request_byte: rw=0, func=0, addr=0x011c9
+<4>[    9.408817] sdioh_request_byte: rw=0, func=0, addr=0x011ca
+<4>[    9.414228] sdioh_request_byte: rw=0, func=0, addr=0x011cb
+<4>[    9.419737] sdioh_request_byte: rw=0, func=0, addr=0x011cc
+<4>[    9.425144] sdioh_request_byte: rw=0, func=0, addr=0x011cd
+<4>[    9.430656] sdioh_request_byte: rw=0, func=0, addr=0x011ce
+<4>[    9.436076] sdioh_request_byte: rw=0, func=0, addr=0x011cf
+<4>[    9.441574] sdioh_request_byte: rw=0, func=0, addr=0x011d0
+<4>[    9.446984] sdioh_request_byte: rw=0, func=0, addr=0x011d1
+<4>[    9.452493] sdioh_request_byte: rw=0, func=0, addr=0x011d2
+<4>[    9.457899] sdioh_request_byte: rw=0, func=0, addr=0x011d3
+<4>[    9.463411] sdioh_request_byte: rw=0, func=0, addr=0x011d4
+<4>[    9.468821] sdioh_request_byte: rw=0, func=0, addr=0x011d5
+<4>[    9.474329] sdioh_request_byte: rw=0, func=0, addr=0x011d6
+<4>[    9.479751] sdioh_request_byte: rw=0, func=0, addr=0x011d7
+<4>[    9.485251] sdioh_request_byte: rw=0, func=0, addr=0x011d8
+<4>[    9.490657] sdioh_request_byte: rw=0, func=0, addr=0x011d9
+<4>[    9.496167] sdioh_request_byte: rw=0, func=0, addr=0x011da
+<4>[    9.501578] sdioh_request_byte: rw=0, func=0, addr=0x011db
+<4>[    9.507087] sdioh_request_byte: rw=0, func=0, addr=0x011dc
+<4>[    9.512494] sdioh_request_byte: rw=0, func=0, addr=0x011dd
+<4>[    9.518004] sdioh_request_byte: rw=0, func=0, addr=0x011de
+<4>[    9.523428] sdioh_request_byte: rw=0, func=0, addr=0x011df
+<4>[    9.528923] sdioh_request_byte: rw=0, func=0, addr=0x011e0
+<4>[    9.534332] sdioh_request_byte: rw=0, func=0, addr=0x011e1
+<4>[    9.539845] sdioh_request_byte: rw=0, func=0, addr=0x011e2
+<4>[    9.545249] sdioh_request_byte: rw=0, func=0, addr=0x011e3
+<4>[    9.550761] sdioh_request_byte: rw=0, func=0, addr=0x011e4
+<4>[    9.556171] sdioh_request_byte: rw=0, func=0, addr=0x011e5
+<4>[    9.561680] sdioh_request_byte: rw=0, func=0, addr=0x011e6
+<4>[    9.567100] sdioh_request_byte: rw=0, func=0, addr=0x011e7
+<4>[    9.572552] sdioh_request_byte: rw=0, func=0, addr=0x011e8
+<4>[    9.578058] sdioh_request_byte: rw=0, func=0, addr=0x011e9
+<4>[    9.583465] sdioh_request_byte: rw=0, func=0, addr=0x011ea
+<4>[    9.588975] sdioh_request_byte: rw=0, func=0, addr=0x011eb
+<4>[    9.594386] sdioh_request_byte: rw=0, func=0, addr=0x011ec
+<4>[    9.599895] sdioh_request_byte: rw=0, func=0, addr=0x011ed
+<4>[    9.605303] sdioh_request_byte: rw=0, func=0, addr=0x011ee
+<4>[    9.610831] sdioh_request_byte: rw=0, func=0, addr=0x011ef
+<4>[    9.616223] sdioh_request_byte: rw=0, func=0, addr=0x011f0
+<4>[    9.621733] sdioh_request_byte: rw=0, func=0, addr=0x011f1
+<4>[    9.627144] sdioh_request_byte: rw=0, func=0, addr=0x011f2
+<4>[    9.632651] sdioh_request_byte: rw=0, func=0, addr=0x011f3
+<4>[    9.638059] sdioh_request_byte: rw=0, func=0, addr=0x011f4
+<4>[    9.643570] sdioh_request_byte: rw=0, func=0, addr=0x011f5
+<4>[    9.648979] sdioh_request_byte: rw=0, func=0, addr=0x011f6
+<4>[    9.654502] sdioh_request_byte: rw=0, func=0, addr=0x011f7
+<4>[    9.659898] sdioh_request_byte: rw=0, func=0, addr=0x011f8
+<4>[    9.665411] sdioh_request_byte: rw=0, func=0, addr=0x011f9
+<4>[    9.670816] sdioh_request_byte: rw=0, func=0, addr=0x011fa
+<4>[    9.676326] sdioh_request_byte: rw=0, func=0, addr=0x011fb
+<4>[    9.681737] sdioh_request_byte: rw=0, func=0, addr=0x011fc
+<4>[    9.687244] sdioh_request_byte: rw=0, func=0, addr=0x011fd
+<4>[    9.692653] sdioh_request_byte: rw=0, func=0, addr=0x011fe
+<4>[    9.698180] sdioh_request_byte: rw=0, func=0, addr=0x011ff
+<4>[    9.703572] sdioh_request_byte: rw=0, func=0, addr=0x01200
+<4>[    9.709084] sdioh_request_byte: rw=0, func=0, addr=0x01201
+<4>[    9.714490] sdioh_request_byte: rw=0, func=0, addr=0x01202
+<4>[    9.720002] Function 1 CIS:
+<4>[    9.722704]     21 02 0c 00 22 2a 01 01 00 00 c5 01 23 00 00 00 
+<4>[    9.728681]     00 00 40 00 00 ff ff 80 00 00 00 00 00 00 00 00 
+<4>[    9.734647]     00 00 c8 00 00 00 00 00 00 00 00 00 00 00 00 00 
+<4>[    9.740628]     ff 
+<4>[    9.742715] sdioh_cis_read: Func = 2
+<4>[    9.746278] sdioh_cis_read: func_cis_ptr[2]=0x1003
+<4>[    9.751041] sdioh_request_byte: rw=0, func=0, addr=0x01003
+<4>[    9.756573] sdioh_request_byte: rw=0, func=0, addr=0x01004
+<4>[    9.761978] sdioh_request_byte: rw=0, func=0, addr=0x01005
+<4>[    9.767489] sdioh_request_byte: rw=0, func=0, addr=0x01006
+<4>[    9.772900] sdioh_request_byte: rw=0, func=0, addr=0x01007
+<4>[    9.778407] sdioh_request_byte: rw=0, func=0, addr=0x01008
+<4>[    9.783830] sdioh_request_byte: rw=0, func=0, addr=0x01009
+<4>[    9.789331] sdioh_request_byte: rw=0, func=0, addr=0x0100a
+<4>[    9.794733] sdioh_request_byte: rw=0, func=0, addr=0x0100b
+<4>[    9.800246] sdioh_request_byte: rw=0, func=0, addr=0x0100c
+<4>[    9.805656] sdioh_request_byte: rw=0, func=0, addr=0x0100d
+<4>[    9.811164] sdioh_request_byte: rw=0, func=0, addr=0x0100e
+<4>[    9.816572] sdioh_request_byte: rw=0, func=0, addr=0x0100f
+<4>[    9.822082] sdioh_request_byte: rw=0, func=0, addr=0x01010
+<4>[    9.827507] sdioh_request_byte: rw=0, func=0, addr=0x01011
+<4>[    9.833002] sdioh_request_byte: rw=0, func=0, addr=0x01012
+<4>[    9.838409] sdioh_request_byte: rw=0, func=0, addr=0x01013
+<4>[    9.843923] sdioh_request_byte: rw=0, func=0, addr=0x01014
+<4>[    9.849327] sdioh_request_byte: rw=0, func=0, addr=0x01015
+<4>[    9.854840] sdioh_request_byte: rw=0, func=0, addr=0x01016
+<4>[    9.860249] sdioh_request_byte: rw=0, func=0, addr=0x01017
+<4>[    9.865706] sdioh_request_byte: rw=0, func=0, addr=0x01018
+<4>[    9.871228] sdioh_request_byte: rw=0, func=0, addr=0x01019
+<4>[    9.876625] sdioh_request_byte: rw=0, func=0, addr=0x0101a
+<4>[    9.882138] sdioh_request_byte: rw=0, func=0, addr=0x0101b
+<4>[    9.887543] sdioh_request_byte: rw=0, func=0, addr=0x0101c
+<4>[    9.893055] sdioh_request_byte: rw=0, func=0, addr=0x0101d
+<4>[    9.898465] sdioh_request_byte: rw=0, func=0, addr=0x0101e
+<4>[    9.903972] sdioh_request_byte: rw=0, func=0, addr=0x0101f
+<4>[    9.909381] sdioh_request_byte: rw=0, func=0, addr=0x01020
+<4>[    9.914907] sdioh_request_byte: rw=0, func=0, addr=0x01021
+<4>[    9.920301] sdioh_request_byte: rw=0, func=0, addr=0x01022
+<4>[    9.925811] sdioh_request_byte: rw=0, func=0, addr=0x01023
+<4>[    9.931222] sdioh_request_byte: rw=0, func=0, addr=0x01024
+<4>[    9.936729] sdioh_request_byte: rw=0, func=0, addr=0x01025
+<4>[    9.942137] sdioh_request_byte: rw=0, func=0, addr=0x01026
+<4>[    9.947648] sdioh_request_byte: rw=0, func=0, addr=0x01027
+<4>[    9.953059] sdioh_request_byte: rw=0, func=0, addr=0x01028
+<4>[    9.958585] sdioh_request_byte: rw=0, func=0, addr=0x01029
+<4>[    9.963977] sdioh_request_byte: rw=0, func=0, addr=0x0102a
+<4>[    9.969489] sdioh_request_byte: rw=0, func=0, addr=0x0102b
+<4>[    9.974894] sdioh_request_byte: rw=0, func=0, addr=0x0102c
+<4>[    9.980405] sdioh_request_byte: rw=0, func=0, addr=0x0102d
+<4>[    9.985814] sdioh_request_byte: rw=0, func=0, addr=0x0102e
+<4>[    9.991323] sdioh_request_byte: rw=0, func=0, addr=0x0102f
+<4>[    9.996731] sdioh_request_byte: rw=0, func=0, addr=0x01030
+<4>[   10.002253] sdioh_request_byte: rw=0, func=0, addr=0x01031
+<4>[   10.007653] sdioh_request_byte: rw=0, func=0, addr=0x01032
+<4>[   10.013159] sdioh_request_byte: rw=0, func=0, addr=0x01033
+<4>[   10.018569] sdioh_request_byte: rw=0, func=0, addr=0x01034
+<4>[   10.024080] sdioh_request_byte: rw=0, func=0, addr=0x01035
+<4>[   10.029487] sdioh_request_byte: rw=0, func=0, addr=0x01036
+<4>[   10.034946] sdioh_request_byte: rw=0, func=0, addr=0x01037
+<4>[   10.040460] sdioh_request_byte: rw=0, func=0, addr=0x01038
+<4>[   10.045878] sdioh_request_byte: rw=0, func=0, addr=0x01039
+<4>[   10.051377] sdioh_request_byte: rw=0, func=0, addr=0x0103a
+<4>[   10.056787] sdioh_request_byte: rw=0, func=0, addr=0x0103b
+<4>[   10.062295] sdioh_request_byte: rw=0, func=0, addr=0x0103c
+<4>[   10.067703] sdioh_request_byte: rw=0, func=0, addr=0x0103d
+<4>[   10.073214] sdioh_request_byte: rw=0, func=0, addr=0x0103e
+<4>[   10.078624] sdioh_request_byte: rw=0, func=0, addr=0x0103f
+<4>[   10.084134] sdioh_request_byte: rw=0, func=0, addr=0x01040
+<4>[   10.089552] sdioh_request_byte: rw=0, func=0, addr=0x01041
+<4>[   10.095055] sdioh_request_byte: rw=0, func=0, addr=0x01042
+<4>[   10.100460] sdioh_request_byte: rw=0, func=0, addr=0x01043
+<4>[   10.105969] sdioh_request_byte: rw=0, func=0, addr=0x01044
+<4>[   10.111380] sdioh_request_byte: rw=0, func=0, addr=0x01045
+<4>[   10.116888] sdioh_request_byte: rw=0, func=0, addr=0x01046
+<4>[   10.122296] sdioh_request_byte: rw=0, func=0, addr=0x01047
+<4>[   10.127807] sdioh_request_byte: rw=0, func=0, addr=0x01048
+<4>[   10.133231] sdioh_request_byte: rw=0, func=0, addr=0x01049
+<4>[   10.138728] sdioh_request_byte: rw=0, func=0, addr=0x0104a
+<4>[   10.144134] sdioh_request_byte: rw=0, func=0, addr=0x0104b
+<4>[   10.149646] sdioh_request_byte: rw=0, func=0, addr=0x0104c
+<4>[   10.155053] sdioh_request_byte: rw=0, func=0, addr=0x0104d
+<4>[   10.160563] sdioh_request_byte: rw=0, func=0, addr=0x0104e
+<4>[   10.165974] sdioh_request_byte: rw=0, func=0, addr=0x0104f
+<4>[   10.171489] sdioh_request_byte: rw=0, func=0, addr=0x01050
+<4>[   10.176903] sdioh_request_byte: rw=0, func=0, addr=0x01051
+<4>[   10.182405] sdioh_request_byte: rw=0, func=0, addr=0x01052
+<4>[   10.187809] sdioh_request_byte: rw=0, func=0, addr=0x01053
+<4>[   10.193320] sdioh_request_byte: rw=0, func=0, addr=0x01054
+<4>[   10.198729] sdioh_request_byte: rw=0, func=0, addr=0x01055
+<4>[   10.204242] sdioh_request_byte: rw=0, func=0, addr=0x01056
+<4>[   10.209648] sdioh_request_byte: rw=0, func=0, addr=0x01057
+<4>[   10.215107] sdioh_request_byte: rw=0, func=0, addr=0x01058
+<4>[   10.220634] sdioh_request_byte: rw=0, func=0, addr=0x01059
+<4>[   10.226026] sdioh_request_byte: rw=0, func=0, addr=0x0105a
+<4>[   10.231536] sdioh_request_byte: rw=0, func=0, addr=0x0105b
+<4>[   10.236947] sdioh_request_byte: rw=0, func=0, addr=0x0105c
+<4>[   10.242454] sdioh_request_byte: rw=0, func=0, addr=0x0105d
+<4>[   10.247862] sdioh_request_byte: rw=0, func=0, addr=0x0105e
+<4>[   10.253373] sdioh_request_byte: rw=0, func=0, addr=0x0105f
+<4>[   10.258784] sdioh_request_byte: rw=0, func=0, addr=0x01060
+<4>[   10.264308] sdioh_request_byte: rw=0, func=0, addr=0x01061
+<4>[   10.269702] sdioh_request_byte: rw=0, func=0, addr=0x01062
+<4>[   10.275215] sdioh_request_byte: rw=0, func=0, addr=0x01063
+<4>[   10.280619] sdioh_request_byte: rw=0, func=0, addr=0x01064
+<4>[   10.286129] sdioh_request_byte: rw=0, func=0, addr=0x01065
+<4>[   10.291539] sdioh_request_byte: rw=0, func=0, addr=0x01066
+<4>[   10.297047] sdioh_request_byte: rw=0, func=0, addr=0x01067
+<4>[   10.302454] sdioh_request_byte: rw=0, func=0, addr=0x01068
+<4>[   10.307983] sdioh_request_byte: rw=0, func=0, addr=0x01069
+<4>[   10.313376] sdioh_request_byte: rw=0, func=0, addr=0x0106a
+<4>[   10.318887] sdioh_request_byte: rw=0, func=0, addr=0x0106b
+<4>[   10.324293] sdioh_request_byte: rw=0, func=0, addr=0x0106c
+<4>[   10.329807] sdioh_request_byte: rw=0, func=0, addr=0x0106d
+<4>[   10.335213] sdioh_request_byte: rw=0, func=0, addr=0x0106e
+<4>[   10.340722] sdioh_request_byte: rw=0, func=0, addr=0x0106f
+<4>[   10.346134] sdioh_request_byte: rw=0, func=0, addr=0x01070
+<4>[   10.351654] sdioh_request_byte: rw=0, func=0, addr=0x01071
+<4>[   10.357049] sdioh_request_byte: rw=0, func=0, addr=0x01072
+<4>[   10.362564] sdioh_request_byte: rw=0, func=0, addr=0x01073
+<4>[   10.367968] sdioh_request_byte: rw=0, func=0, addr=0x01074
+<4>[   10.373478] sdioh_request_byte: rw=0, func=0, addr=0x01075
+<4>[   10.378886] sdioh_request_byte: rw=0, func=0, addr=0x01076
+<4>[   10.384347] sdioh_request_byte: rw=0, func=0, addr=0x01077
+<4>[   10.389858] sdioh_request_byte: rw=0, func=0, addr=0x01078
+<4>[   10.395277] sdioh_request_byte: rw=0, func=0, addr=0x01079
+<4>[   10.400780] sdioh_request_byte: rw=0, func=0, addr=0x0107a
+<4>[   10.406183] sdioh_request_byte: rw=0, func=0, addr=0x0107b
+<4>[   10.411695] sdioh_request_byte: rw=0, func=0, addr=0x0107c
+<4>[   10.417106] sdioh_request_byte: rw=0, func=0, addr=0x0107d
+<4>[   10.422613] sdioh_request_byte: rw=0, func=0, addr=0x0107e
+<4>[   10.428022] sdioh_request_byte: rw=0, func=0, addr=0x0107f
+<4>[   10.433534] sdioh_request_byte: rw=0, func=0, addr=0x01080
+<4>[   10.438952] sdioh_request_byte: rw=0, func=0, addr=0x01081
+<4>[   10.444452] sdioh_request_byte: rw=0, func=0, addr=0x01082
+<4>[   10.449858] sdioh_request_byte: rw=0, func=0, addr=0x01083
+<4>[   10.455372] sdioh_request_byte: rw=0, func=0, addr=0x01084
+<4>[   10.460777] sdioh_request_byte: rw=0, func=0, addr=0x01085
+<4>[   10.466287] sdioh_request_byte: rw=0, func=0, addr=0x01086
+<4>[   10.471700] sdioh_request_byte: rw=0, func=0, addr=0x01087
+<4>[   10.477207] sdioh_request_byte: rw=0, func=0, addr=0x01088
+<4>[   10.482628] sdioh_request_byte: rw=0, func=0, addr=0x01089
+<4>[   10.488129] sdioh_request_byte: rw=0, func=0, addr=0x0108a
+<4>[   10.493532] sdioh_request_byte: rw=0, func=0, addr=0x0108b
+<4>[   10.499044] sdioh_request_byte: rw=0, func=0, addr=0x0108c
+<4>[   10.504451] sdioh_request_byte: rw=0, func=0, addr=0x0108d
+<4>[   10.509967] sdioh_request_byte: rw=0, func=0, addr=0x0108e
+<4>[   10.515372] sdioh_request_byte: rw=0, func=0, addr=0x0108f
+<4>[   10.520882] sdioh_request_byte: rw=0, func=0, addr=0x01090
+<4>[   10.526306] sdioh_request_byte: rw=0, func=0, addr=0x01091
+<4>[   10.531803] sdioh_request_byte: rw=0, func=0, addr=0x01092
+<4>[   10.537209] sdioh_request_byte: rw=0, func=0, addr=0x01093
+<4>[   10.542721] sdioh_request_byte: rw=0, func=0, addr=0x01094
+<4>[   10.548127] sdioh_request_byte: rw=0, func=0, addr=0x01095
+<4>[   10.553639] sdioh_request_byte: rw=0, func=0, addr=0x01096
+<4>[   10.559049] sdioh_request_byte: rw=0, func=0, addr=0x01097
+<4>[   10.564505] sdioh_request_byte: rw=0, func=0, addr=0x01098
+<4>[   10.570028] sdioh_request_byte: rw=0, func=0, addr=0x01099
+<4>[   10.575426] sdioh_request_byte: rw=0, func=0, addr=0x0109a
+<4>[   10.580940] sdioh_request_byte: rw=0, func=0, addr=0x0109b
+<4>[   10.586343] sdioh_request_byte: rw=0, func=0, addr=0x0109c
+<4>[   10.591854] sdioh_request_byte: rw=0, func=0, addr=0x0109d
+<4>[   10.597265] sdioh_request_byte: rw=0, func=0, addr=0x0109e
+<4>[   10.602773] sdioh_request_byte: rw=0, func=0, addr=0x0109f
+<4>[   10.608181] sdioh_request_byte: rw=0, func=0, addr=0x010a0
+<4>[   10.613708] sdioh_request_byte: rw=0, func=0, addr=0x010a1
+<4>[   10.619100] sdioh_request_byte: rw=0, func=0, addr=0x010a2
+<4>[   10.624616] sdioh_request_byte: rw=0, func=0, addr=0x010a3
+<4>[   10.630017] sdioh_request_byte: rw=0, func=0, addr=0x010a4
+<4>[   10.635531] sdioh_request_byte: rw=0, func=0, addr=0x010a5
+<4>[   10.640936] sdioh_request_byte: rw=0, func=0, addr=0x010a6
+<4>[   10.646446] sdioh_request_byte: rw=0, func=0, addr=0x010a7
+<4>[   10.651865] sdioh_request_byte: rw=0, func=0, addr=0x010a8
+<4>[   10.657380] sdioh_request_byte: rw=0, func=0, addr=0x010a9
+<4>[   10.662777] sdioh_request_byte: rw=0, func=0, addr=0x010aa
+<4>[   10.668288] sdioh_request_byte: rw=0, func=0, addr=0x010ab
+<4>[   10.673693] sdioh_request_byte: rw=0, func=0, addr=0x010ac
+<4>[   10.679204] sdioh_request_byte: rw=0, func=0, addr=0x010ad
+<4>[   10.684614] sdioh_request_byte: rw=0, func=0, addr=0x010ae
+<4>[   10.690123] sdioh_request_byte: rw=0, func=0, addr=0x010af
+<4>[   10.695530] sdioh_request_byte: rw=0, func=0, addr=0x010b0
+<4>[   10.701053] sdioh_request_byte: rw=0, func=0, addr=0x010b1
+<4>[   10.706453] sdioh_request_byte: rw=0, func=0, addr=0x010b2
+<4>[   10.711961] sdioh_request_byte: rw=0, func=0, addr=0x010b3
+<4>[   10.717367] sdioh_request_byte: rw=0, func=0, addr=0x010b4
+<4>[   10.722895] sdioh_request_byte: rw=0, func=0, addr=0x010b5
+<4>[   10.728287] sdioh_request_byte: rw=0, func=0, addr=0x010b6
+<4>[   10.733745] sdioh_request_byte: rw=0, func=0, addr=0x010b7
+<4>[   10.739258] sdioh_request_byte: rw=0, func=0, addr=0x010b8
+<4>[   10.744677] sdioh_request_byte: rw=0, func=0, addr=0x010b9
+<4>[   10.750175] sdioh_request_byte: rw=0, func=0, addr=0x010ba
+<4>[   10.755584] sdioh_request_byte: rw=0, func=0, addr=0x010bb
+<4>[   10.761094] sdioh_request_byte: rw=0, func=0, addr=0x010bc
+<4>[   10.766502] sdioh_request_byte: rw=0, func=0, addr=0x010bd
+<4>[   10.772014] sdioh_request_byte: rw=0, func=0, addr=0x010be
+<4>[   10.777424] sdioh_request_byte: rw=0, func=0, addr=0x010bf
+<4>[   10.782932] sdioh_request_byte: rw=0, func=0, addr=0x010c0
+<4>[   10.788351] sdioh_request_byte: rw=0, func=0, addr=0x010c1
+<4>[   10.793855] sdioh_request_byte: rw=0, func=0, addr=0x010c2
+<4>[   10.799258] sdioh_request_byte: rw=0, func=0, addr=0x010c3
+<4>[   10.804768] sdioh_request_byte: rw=0, func=0, addr=0x010c4
+<4>[   10.810178] sdioh_request_byte: rw=0, func=0, addr=0x010c5
+<4>[   10.815688] sdioh_request_byte: rw=0, func=0, addr=0x010c6
+<4>[   10.821096] sdioh_request_byte: rw=0, func=0, addr=0x010c7
+<4>[   10.826607] sdioh_request_byte: rw=0, func=0, addr=0x010c8
+<4>[   10.832031] sdioh_request_byte: rw=0, func=0, addr=0x010c9
+<4>[   10.837527] sdioh_request_byte: rw=0, func=0, addr=0x010ca
+<4>[   10.842934] sdioh_request_byte: rw=0, func=0, addr=0x010cb
+<4>[   10.848446] sdioh_request_byte: rw=0, func=0, addr=0x010cc
+<4>[   10.853852] sdioh_request_byte: rw=0, func=0, addr=0x010cd
+<4>[   10.859363] sdioh_request_byte: rw=0, func=0, addr=0x010ce
+<4>[   10.864772] sdioh_request_byte: rw=0, func=0, addr=0x010cf
+<4>[   10.870281] sdioh_request_byte: rw=0, func=0, addr=0x010d0
+<4>[   10.875702] sdioh_request_byte: rw=0, func=0, addr=0x010d1
+<4>[   10.881204] sdioh_request_byte: rw=0, func=0, addr=0x010d2
+<4>[   10.886608] sdioh_request_byte: rw=0, func=0, addr=0x010d3
+<4>[   10.892119] sdioh_request_byte: rw=0, func=0, addr=0x010d4
+<4>[   10.897527] sdioh_request_byte: rw=0, func=0, addr=0x010d5
+<4>[   10.903039] sdioh_request_byte: rw=0, func=0, addr=0x010d6
+<4>[   10.908446] sdioh_request_byte: rw=0, func=0, addr=0x010d7
+<4>[   10.913906] sdioh_request_byte: rw=0, func=0, addr=0x010d8
+<4>[   10.919431] sdioh_request_byte: rw=0, func=0, addr=0x010d9
+<4>[   10.924826] sdioh_request_byte: rw=0, func=0, addr=0x010da
+<4>[   10.930334] sdioh_request_byte: rw=0, func=0, addr=0x010db
+<4>[   10.935746] sdioh_request_byte: rw=0, func=0, addr=0x010dc
+<4>[   10.941253] sdioh_request_byte: rw=0, func=0, addr=0x010dd
+<4>[   10.946661] sdioh_request_byte: rw=0, func=0, addr=0x010de
+<4>[   10.952172] sdioh_request_byte: rw=0, func=0, addr=0x010df
+<4>[   10.957582] sdioh_request_byte: rw=0, func=0, addr=0x010e0
+<4>[   10.963105] sdioh_request_byte: rw=0, func=0, addr=0x010e1
+<4>[   10.968500] sdioh_request_byte: rw=0, func=0, addr=0x010e2
+<4>[   10.974012] sdioh_request_byte: rw=0, func=0, addr=0x010e3
+<4>[   10.979418] sdioh_request_byte: rw=0, func=0, addr=0x010e4
+<4>[   10.984926] sdioh_request_byte: rw=0, func=0, addr=0x010e5
+<4>[   10.990338] sdioh_request_byte: rw=0, func=0, addr=0x010e6
+<4>[   10.995846] sdioh_request_byte: rw=0, func=0, addr=0x010e7
+<4>[   11.001254] sdioh_request_byte: rw=0, func=0, addr=0x010e8
+<4>[   11.006783] sdioh_request_byte: rw=0, func=0, addr=0x010e9
+<4>[   11.012175] sdioh_request_byte: rw=0, func=0, addr=0x010ea
+<4>[   11.017686] sdioh_request_byte: rw=0, func=0, addr=0x010eb
+<4>[   11.023092] sdioh_request_byte: rw=0, func=0, addr=0x010ec
+<4>[   11.028605] sdioh_request_byte: rw=0, func=0, addr=0x010ed
+<4>[   11.034012] sdioh_request_byte: rw=0, func=0, addr=0x010ee
+<4>[   11.039522] sdioh_request_byte: rw=0, func=0, addr=0x010ef
+<4>[   11.044932] sdioh_request_byte: rw=0, func=0, addr=0x010f0
+<4>[   11.050460] sdioh_request_byte: rw=0, func=0, addr=0x010f1
+<4>[   11.055849] sdioh_request_byte: rw=0, func=0, addr=0x010f2
+<4>[   11.061362] sdioh_request_byte: rw=0, func=0, addr=0x010f3
+<4>[   11.066766] sdioh_request_byte: rw=0, func=0, addr=0x010f4
+<4>[   11.072277] sdioh_request_byte: rw=0, func=0, addr=0x010f5
+<4>[   11.077687] sdioh_request_byte: rw=0, func=0, addr=0x010f6
+<4>[   11.083148] sdioh_request_byte: rw=0, func=0, addr=0x010f7
+<4>[   11.088658] sdioh_request_byte: rw=0, func=0, addr=0x010f8
+<4>[   11.094077] sdioh_request_byte: rw=0, func=0, addr=0x010f9
+<4>[   11.099580] sdioh_request_byte: rw=0, func=0, addr=0x010fa
+<4>[   11.104989] sdioh_request_byte: rw=0, func=0, addr=0x010fb
+<4>[   11.110494] sdioh_request_byte: rw=0, func=0, addr=0x010fc
+<4>[   11.115905] sdioh_request_byte: rw=0, func=0, addr=0x010fd
+<4>[   11.121412] sdioh_request_byte: rw=0, func=0, addr=0x010fe
+<4>[   11.126820] sdioh_request_byte: rw=0, func=0, addr=0x010ff
+<4>[   11.132335] sdioh_request_byte: rw=0, func=0, addr=0x01100
+<4>[   11.137752] sdioh_request_byte: rw=0, func=0, addr=0x01101
+<4>[   11.143252] sdioh_request_byte: rw=0, func=0, addr=0x01102
+<4>[   11.148658] sdioh_request_byte: rw=0, func=0, addr=0x01103
+<4>[   11.154171] sdioh_request_byte: rw=0, func=0, addr=0x01104
+<4>[   11.159577] sdioh_request_byte: rw=0, func=0, addr=0x01105
+<4>[   11.165087] sdioh_request_byte: rw=0, func=0, addr=0x01106
+<4>[   11.170499] sdioh_request_byte: rw=0, func=0, addr=0x01107
+<4>[   11.176007] sdioh_request_byte: rw=0, func=0, addr=0x01108
+<4>[   11.181424] sdioh_request_byte: rw=0, func=0, addr=0x01109
+<4>[   11.186929] sdioh_request_byte: rw=0, func=0, addr=0x0110a
+<4>[   11.192334] sdioh_request_byte: rw=0, func=0, addr=0x0110b
+<4>[   11.197845] sdioh_request_byte: rw=0, func=0, addr=0x0110c
+<4>[   11.203252] sdioh_request_byte: rw=0, func=0, addr=0x0110d
+<4>[   11.208765] sdioh_request_byte: rw=0, func=0, addr=0x0110e
+<4>[   11.214171] sdioh_request_byte: rw=0, func=0, addr=0x0110f
+<4>[   11.219680] sdioh_request_byte: rw=0, func=0, addr=0x01110
+<4>[   11.225103] sdioh_request_byte: rw=0, func=0, addr=0x01111
+<4>[   11.230601] sdioh_request_byte: rw=0, func=0, addr=0x01112
+<4>[   11.236007] sdioh_request_byte: rw=0, func=0, addr=0x01113
+<4>[   11.241524] sdioh_request_byte: rw=0, func=0, addr=0x01114
+<4>[   11.246927] sdioh_request_byte: rw=0, func=0, addr=0x01115
+<4>[   11.252439] sdioh_request_byte: rw=0, func=0, addr=0x01116
+<4>[   11.257848] sdioh_request_byte: rw=0, func=0, addr=0x01117
+<4>[   11.263305] sdioh_request_byte: rw=0, func=0, addr=0x01118
+<4>[   11.268828] sdioh_request_byte: rw=0, func=0, addr=0x01119
+<4>[   11.274224] sdioh_request_byte: rw=0, func=0, addr=0x0111a
+<4>[   11.279739] sdioh_request_byte: rw=0, func=0, addr=0x0111b
+<4>[   11.285142] sdioh_request_byte: rw=0, func=0, addr=0x0111c
+<4>[   11.290652] sdioh_request_byte: rw=0, func=0, addr=0x0111d
+<4>[   11.296065] sdioh_request_byte: rw=0, func=0, addr=0x0111e
+<4>[   11.301573] sdioh_request_byte: rw=0, func=0, addr=0x0111f
+<4>[   11.306980] sdioh_request_byte: rw=0, func=0, addr=0x01120
+<4>[   11.312506] sdioh_request_byte: rw=0, func=0, addr=0x01121
+<4>[   11.317900] sdioh_request_byte: rw=0, func=0, addr=0x01122
+<4>[   11.323410] sdioh_request_byte: rw=0, func=0, addr=0x01123
+<4>[   11.328816] sdioh_request_byte: rw=0, func=0, addr=0x01124
+<4>[   11.334330] sdioh_request_byte: rw=0, func=0, addr=0x01125
+<4>[   11.339735] sdioh_request_byte: rw=0, func=0, addr=0x01126
+<4>[   11.345246] sdioh_request_byte: rw=0, func=0, addr=0x01127
+<4>[   11.350658] sdioh_request_byte: rw=0, func=0, addr=0x01128
+<4>[   11.356179] sdioh_request_byte: rw=0, func=0, addr=0x01129
+<4>[   11.361574] sdioh_request_byte: rw=0, func=0, addr=0x0112a
+<4>[   11.367086] sdioh_request_byte: rw=0, func=0, addr=0x0112b
+<4>[   11.372492] sdioh_request_byte: rw=0, func=0, addr=0x0112c
+<4>[   11.378003] sdioh_request_byte: rw=0, func=0, addr=0x0112d
+<4>[   11.383413] sdioh_request_byte: rw=0, func=0, addr=0x0112e
+<4>[   11.388922] sdioh_request_byte: rw=0, func=0, addr=0x0112f
+<4>[   11.394330] sdioh_request_byte: rw=0, func=0, addr=0x01130
+<4>[   11.399855] sdioh_request_byte: rw=0, func=0, addr=0x01131
+<4>[   11.405252] sdioh_request_byte: rw=0, func=0, addr=0x01132
+<4>[   11.410759] sdioh_request_byte: rw=0, func=0, addr=0x01133
+<4>[   11.416168] sdioh_request_byte: rw=0, func=0, addr=0x01134
+<4>[   11.421680] sdioh_request_byte: rw=0, func=0, addr=0x01135
+<4>[   11.427086] sdioh_request_byte: rw=0, func=0, addr=0x01136
+<4>[   11.432546] sdioh_request_byte: rw=0, func=0, addr=0x01137
+<4>[   11.438059] sdioh_request_byte: rw=0, func=0, addr=0x01138
+<4>[   11.443477] sdioh_request_byte: rw=0, func=0, addr=0x01139
+<4>[   11.448976] sdioh_request_byte: rw=0, func=0, addr=0x0113a
+<4>[   11.454382] sdioh_request_byte: rw=0, func=0, addr=0x0113b
+<4>[   11.459897] sdioh_request_byte: rw=0, func=0, addr=0x0113c
+<4>[   11.465301] sdioh_request_byte: rw=0, func=0, addr=0x0113d
+<4>[   11.470812] sdioh_request_byte: rw=0, func=0, addr=0x0113e
+<4>[   11.476222] sdioh_request_byte: rw=0, func=0, addr=0x0113f
+<4>[   11.481732] sdioh_request_byte: rw=0, func=0, addr=0x01140
+<4>[   11.487153] sdioh_request_byte: rw=0, func=0, addr=0x01141
+<4>[   11.492654] sdioh_request_byte: rw=0, func=0, addr=0x01142
+<4>[   11.498058] sdioh_request_byte: rw=0, func=0, addr=0x01143
+<4>[   11.503574] sdioh_request_byte: rw=0, func=0, addr=0x01144
+<4>[   11.508979] sdioh_request_byte: rw=0, func=0, addr=0x01145
+<4>[   11.514488] sdioh_request_byte: rw=0, func=0, addr=0x01146
+<4>[   11.519895] sdioh_request_byte: rw=0, func=0, addr=0x01147
+<4>[   11.525410] sdioh_request_byte: rw=0, func=0, addr=0x01148
+<4>[   11.530828] sdioh_request_byte: rw=0, func=0, addr=0x01149
+<4>[   11.536324] sdioh_request_byte: rw=0, func=0, addr=0x0114a
+<4>[   11.541733] sdioh_request_byte: rw=0, func=0, addr=0x0114b
+<4>[   11.547245] sdioh_request_byte: rw=0, func=0, addr=0x0114c
+<4>[   11.552651] sdioh_request_byte: rw=0, func=0, addr=0x0114d
+<4>[   11.558162] sdioh_request_byte: rw=0, func=0, addr=0x0114e
+<4>[   11.563573] sdioh_request_byte: rw=0, func=0, addr=0x0114f
+<4>[   11.569082] sdioh_request_byte: rw=0, func=0, addr=0x01150
+<4>[   11.574501] sdioh_request_byte: rw=0, func=0, addr=0x01151
+<4>[   11.579999] sdioh_request_byte: rw=0, func=0, addr=0x01152
+<4>[   11.585411] sdioh_request_byte: rw=0, func=0, addr=0x01153
+<4>[   11.590918] sdioh_request_byte: rw=0, func=0, addr=0x01154
+<4>[   11.596327] sdioh_request_byte: rw=0, func=0, addr=0x01155
+<4>[   11.601838] sdioh_request_byte: rw=0, func=0, addr=0x01156
+<4>[   11.607244] sdioh_request_byte: rw=0, func=0, addr=0x01157
+<4>[   11.612705] sdioh_request_byte: rw=0, func=0, addr=0x01158
+<4>[   11.618231] sdioh_request_byte: rw=0, func=0, addr=0x01159
+<4>[   11.623624] sdioh_request_byte: rw=0, func=0, addr=0x0115a
+<4>[   11.629134] sdioh_request_byte: rw=0, func=0, addr=0x0115b
+<4>[   11.634544] sdioh_request_byte: rw=0, func=0, addr=0x0115c
+<4>[   11.640052] sdioh_request_byte: rw=0, func=0, addr=0x0115d
+<4>[   11.645460] sdioh_request_byte: rw=0, func=0, addr=0x0115e
+<4>[   11.650972] sdioh_request_byte: rw=0, func=0, addr=0x0115f
+<4>[   11.656382] sdioh_request_byte: rw=0, func=0, addr=0x01160
+<4>[   11.661904] sdioh_request_byte: rw=0, func=0, addr=0x01161
+<4>[   11.667300] sdioh_request_byte: rw=0, func=0, addr=0x01162
+<4>[   11.672812] sdioh_request_byte: rw=0, func=0, addr=0x01163
+<4>[   11.678217] sdioh_request_byte: rw=0, func=0, addr=0x01164
+<4>[   11.683727] sdioh_request_byte: rw=0, func=0, addr=0x01165
+<4>[   11.689138] sdioh_request_byte: rw=0, func=0, addr=0x01166
+<4>[   11.694646] sdioh_request_byte: rw=0, func=0, addr=0x01167
+<4>[   11.700054] sdioh_request_byte: rw=0, func=0, addr=0x01168
+<4>[   11.705576] sdioh_request_byte: rw=0, func=0, addr=0x01169
+<4>[   11.710977] sdioh_request_byte: rw=0, func=0, addr=0x0116a
+<4>[   11.716484] sdioh_request_byte: rw=0, func=0, addr=0x0116b
+<4>[   11.721892] sdioh_request_byte: rw=0, func=0, addr=0x0116c
+<4>[   11.727404] sdioh_request_byte: rw=0, func=0, addr=0x0116d
+<4>[   11.732810] sdioh_request_byte: rw=0, func=0, addr=0x0116e
+<4>[   11.738321] sdioh_request_byte: rw=0, func=0, addr=0x0116f
+<4>[   11.743732] sdioh_request_byte: rw=0, func=0, addr=0x01170
+<4>[   11.749253] sdioh_request_byte: rw=0, func=0, addr=0x01171
+<4>[   11.754649] sdioh_request_byte: rw=0, func=0, addr=0x01172
+<4>[   11.760162] sdioh_request_byte: rw=0, func=0, addr=0x01173
+<4>[   11.765566] sdioh_request_byte: rw=0, func=0, addr=0x01174
+<4>[   11.771076] sdioh_request_byte: rw=0, func=0, addr=0x01175
+<4>[   11.776485] sdioh_request_byte: rw=0, func=0, addr=0x01176
+<4>[   11.781947] sdioh_request_byte: rw=0, func=0, addr=0x01177
+<4>[   11.787456] sdioh_request_byte: rw=0, func=0, addr=0x01178
+<4>[   11.792876] sdioh_request_byte: rw=0, func=0, addr=0x01179
+<4>[   11.798379] sdioh_request_byte: rw=0, func=0, addr=0x0117a
+<4>[   11.803783] sdioh_request_byte: rw=0, func=0, addr=0x0117b
+<4>[   11.809292] sdioh_request_byte: rw=0, func=0, addr=0x0117c
+<4>[   11.814704] sdioh_request_byte: rw=0, func=0, addr=0x0117d
+<4>[   11.820212] sdioh_request_byte: rw=0, func=0, addr=0x0117e
+<4>[   11.825620] sdioh_request_byte: rw=0, func=0, addr=0x0117f
+<4>[   11.831130] sdioh_request_byte: rw=0, func=0, addr=0x01180
+<4>[   11.836554] sdioh_request_byte: rw=0, func=0, addr=0x01181
+<4>[   11.842051] sdioh_request_byte: rw=0, func=0, addr=0x01182
+<4>[   11.847456] sdioh_request_byte: rw=0, func=0, addr=0x01183
+<4>[   11.852970] sdioh_request_byte: rw=0, func=0, addr=0x01184
+<4>[   11.858375] sdioh_request_byte: rw=0, func=0, addr=0x01185
+<4>[   11.863885] sdioh_request_byte: rw=0, func=0, addr=0x01186
+<4>[   11.869298] sdioh_request_byte: rw=0, func=0, addr=0x01187
+<4>[   11.874807] sdioh_request_byte: rw=0, func=0, addr=0x01188
+<4>[   11.880226] sdioh_request_byte: rw=0, func=0, addr=0x01189
+<4>[   11.885730] sdioh_request_byte: rw=0, func=0, addr=0x0118a
+<4>[   11.891132] sdioh_request_byte: rw=0, func=0, addr=0x0118b
+<4>[   11.896643] sdioh_request_byte: rw=0, func=0, addr=0x0118c
+<4>[   11.902050] sdioh_request_byte: rw=0, func=0, addr=0x0118d
+<4>[   11.907564] sdioh_request_byte: rw=0, func=0, addr=0x0118e
+<4>[   11.912970] sdioh_request_byte: rw=0, func=0, addr=0x0118f
+<4>[   11.918480] sdioh_request_byte: rw=0, func=0, addr=0x01190
+<4>[   11.923904] sdioh_request_byte: rw=0, func=0, addr=0x01191
+<4>[   11.929400] sdioh_request_byte: rw=0, func=0, addr=0x01192
+<4>[   11.934807] sdioh_request_byte: rw=0, func=0, addr=0x01193
+<4>[   11.940321] sdioh_request_byte: rw=0, func=0, addr=0x01194
+<4>[   11.945725] sdioh_request_byte: rw=0, func=0, addr=0x01195
+<4>[   11.951236] sdioh_request_byte: rw=0, func=0, addr=0x01196
+<4>[   11.956644] sdioh_request_byte: rw=0, func=0, addr=0x01197
+<4>[   11.962106] sdioh_request_byte: rw=0, func=0, addr=0x01198
+<4>[   11.967628] sdioh_request_byte: rw=0, func=0, addr=0x01199
+<4>[   11.973024] sdioh_request_byte: rw=0, func=0, addr=0x0119a
+<4>[   11.978541] sdioh_request_byte: rw=0, func=0, addr=0x0119b
+<4>[   11.983941] sdioh_request_byte: rw=0, func=0, addr=0x0119c
+<4>[   11.989453] sdioh_request_byte: rw=0, func=0, addr=0x0119d
+<4>[   11.994864] sdioh_request_byte: rw=0, func=0, addr=0x0119e
+<4>[   12.000370] sdioh_request_byte: rw=0, func=0, addr=0x0119f
+<4>[   12.005777] sdioh_request_byte: rw=0, func=0, addr=0x011a0
+<4>[   12.011306] sdioh_request_byte: rw=0, func=0, addr=0x011a1
+<4>[   12.016699] sdioh_request_byte: rw=0, func=0, addr=0x011a2
+<4>[   12.022209] sdioh_request_byte: rw=0, func=0, addr=0x011a3
+<4>[   12.027615] sdioh_request_byte: rw=0, func=0, addr=0x011a4
+<4>[   12.033129] sdioh_request_byte: rw=0, func=0, addr=0x011a5
+<4>[   12.038534] sdioh_request_byte: rw=0, func=0, addr=0x011a6
+<4>[   12.044045] sdioh_request_byte: rw=0, func=0, addr=0x011a7
+<4>[   12.049456] sdioh_request_byte: rw=0, func=0, addr=0x011a8
+<4>[   12.054977] sdioh_request_byte: rw=0, func=0, addr=0x011a9
+<4>[   12.060374] sdioh_request_byte: rw=0, func=0, addr=0x011aa
+<4>[   12.065886] sdioh_request_byte: rw=0, func=0, addr=0x011ab
+<4>[   12.071291] sdioh_request_byte: rw=0, func=0, addr=0x011ac
+<4>[   12.076803] sdioh_request_byte: rw=0, func=0, addr=0x011ad
+<4>[   12.082209] sdioh_request_byte: rw=0, func=0, addr=0x011ae
+<4>[   12.087722] sdioh_request_byte: rw=0, func=0, addr=0x011af
+<4>[   12.093130] sdioh_request_byte: rw=0, func=0, addr=0x011b0
+<4>[   12.098652] sdioh_request_byte: rw=0, func=0, addr=0x011b1
+<4>[   12.104052] sdioh_request_byte: rw=0, func=0, addr=0x011b2
+<4>[   12.109558] sdioh_request_byte: rw=0, func=0, addr=0x011b3
+<4>[   12.114977] sdioh_request_byte: rw=0, func=0, addr=0x011b4
+<4>[   12.120482] sdioh_request_byte: rw=0, func=0, addr=0x011b5
+<4>[   12.125885] sdioh_request_byte: rw=0, func=0, addr=0x011b6
+<4>[   12.131344] sdioh_request_byte: rw=0, func=0, addr=0x011b7
+<4>[   12.136858] sdioh_request_byte: rw=0, func=0, addr=0x011b8
+<4>[   12.142277] sdioh_request_byte: rw=0, func=0, addr=0x011b9
+<4>[   12.147777] sdioh_request_byte: rw=0, func=0, addr=0x011ba
+<4>[   12.153182] sdioh_request_byte: rw=0, func=0, addr=0x011bb
+<4>[   12.158696] sdioh_request_byte: rw=0, func=0, addr=0x011bc
+<4>[   12.164100] sdioh_request_byte: rw=0, func=0, addr=0x011bd
+<4>[   12.169611] sdioh_request_byte: rw=0, func=0, addr=0x011be
+<4>[   12.175023] sdioh_request_byte: rw=0, func=0, addr=0x011bf
+<4>[   12.180531] sdioh_request_byte: rw=0, func=0, addr=0x011c0
+<4>[   12.185950] sdioh_request_byte: rw=0, func=0, addr=0x011c1
+<4>[   12.191452] sdioh_request_byte: rw=0, func=0, addr=0x011c2
+<4>[   12.196856] sdioh_request_byte: rw=0, func=0, addr=0x011c3
+<4>[   12.202367] sdioh_request_byte: rw=0, func=0, addr=0x011c4
+<4>[   12.207774] sdioh_request_byte: rw=0, func=0, addr=0x011c5
+<4>[   12.213290] sdioh_request_byte: rw=0, func=0, addr=0x011c6
+<4>[   12.218694] sdioh_request_byte: rw=0, func=0, addr=0x011c7
+<4>[   12.224205] sdioh_request_byte: rw=0, func=0, addr=0x011c8
+<4>[   12.229629] sdioh_request_byte: rw=0, func=0, addr=0x011c9
+<4>[   12.235124] sdioh_request_byte: rw=0, func=0, addr=0x011ca
+<4>[   12.240532] sdioh_request_byte: rw=0, func=0, addr=0x011cb
+<4>[   12.246043] sdioh_request_byte: rw=0, func=0, addr=0x011cc
+<4>[   12.251450] sdioh_request_byte: rw=0, func=0, addr=0x011cd
+<4>[   12.256962] sdioh_request_byte: rw=0, func=0, addr=0x011ce
+<4>[   12.262372] sdioh_request_byte: rw=0, func=0, addr=0x011cf
+<4>[   12.267880] sdioh_request_byte: rw=0, func=0, addr=0x011d0
+<4>[   12.273301] sdioh_request_byte: rw=0, func=0, addr=0x011d1
+<4>[   12.278799] sdioh_request_byte: rw=0, func=0, addr=0x011d2
+<4>[   12.284210] sdioh_request_byte: rw=0, func=0, addr=0x011d3
+<4>[   12.289719] sdioh_request_byte: rw=0, func=0, addr=0x011d4
+<4>[   12.295126] sdioh_request_byte: rw=0, func=0, addr=0x011d5
+<4>[   12.300639] sdioh_request_byte: rw=0, func=0, addr=0x011d6
+<4>[   12.306043] sdioh_request_byte: rw=0, func=0, addr=0x011d7
+<4>[   12.311503] sdioh_request_byte: rw=0, func=0, addr=0x011d8
+<4>[   12.317030] sdioh_request_byte: rw=0, func=0, addr=0x011d9
+<4>[   12.322424] sdioh_request_byte: rw=0, func=0, addr=0x011da
+<4>[   12.327934] sdioh_request_byte: rw=0, func=0, addr=0x011db
+<4>[   12.333340] sdioh_request_byte: rw=0, func=0, addr=0x011dc
+<4>[   12.338856] sdioh_request_byte: rw=0, func=0, addr=0x011dd
+<4>[   12.344259] sdioh_request_byte: rw=0, func=0, addr=0x011de
+<4>[   12.349771] sdioh_request_byte: rw=0, func=0, addr=0x011df
+<4>[   12.355180] sdioh_request_byte: rw=0, func=0, addr=0x011e0
+<4>[   12.360702] sdioh_request_byte: rw=0, func=0, addr=0x011e1
+<4>[   12.366099] sdioh_request_byte: rw=0, func=0, addr=0x011e2
+<4>[   12.371611] sdioh_request_byte: rw=0, func=0, addr=0x011e3
+<4>[   12.377016] sdioh_request_byte: rw=0, func=0, addr=0x011e4
+<4>[   12.382525] sdioh_request_byte: rw=0, func=0, addr=0x011e5
+<4>[   12.387936] sdioh_request_byte: rw=0, func=0, addr=0x011e6
+<4>[   12.393446] sdioh_request_byte: rw=0, func=0, addr=0x011e7
+<4>[   12.398853] sdioh_request_byte: rw=0, func=0, addr=0x011e8
+<4>[   12.404377] sdioh_request_byte: rw=0, func=0, addr=0x011e9
+<4>[   12.409776] sdioh_request_byte: rw=0, func=0, addr=0x011ea
+<4>[   12.415283] sdioh_request_byte: rw=0, func=0, addr=0x011eb
+<4>[   12.420691] sdioh_request_byte: rw=0, func=0, addr=0x011ec
+<4>[   12.426203] sdioh_request_byte: rw=0, func=0, addr=0x011ed
+<4>[   12.431609] sdioh_request_byte: rw=0, func=0, addr=0x011ee
+<4>[   12.437126] sdioh_request_byte: rw=0, func=0, addr=0x011ef
+<4>[   12.442530] sdioh_request_byte: rw=0, func=0, addr=0x011f0
+<4>[   12.448052] sdioh_request_byte: rw=0, func=0, addr=0x011f1
+<4>[   12.453448] sdioh_request_byte: rw=0, func=0, addr=0x011f2
+<4>[   12.458957] sdioh_request_byte: rw=0, func=0, addr=0x011f3
+<4>[   12.464369] sdioh_request_byte: rw=0, func=0, addr=0x011f4
+<4>[   12.469877] sdioh_request_byte: rw=0, func=0, addr=0x011f5
+<4>[   12.475285] sdioh_request_byte: rw=0, func=0, addr=0x011f6
+<4>[   12.480746] sdioh_request_byte: rw=0, func=0, addr=0x011f7
+<4>[   12.486255] sdioh_request_byte: rw=0, func=0, addr=0x011f8
+<4>[   12.491675] sdioh_request_byte: rw=0, func=0, addr=0x011f9
+<4>[   12.497176] sdioh_request_byte: rw=0, func=0, addr=0x011fa
+<4>[   12.502582] sdioh_request_byte: rw=0, func=0, addr=0x011fb
+<4>[   12.508091] sdioh_request_byte: rw=0, func=0, addr=0x011fc
+<4>[   12.513502] sdioh_request_byte: rw=0, func=0, addr=0x011fd
+<4>[   12.519011] sdioh_request_byte: rw=0, func=0, addr=0x011fe
+<4>[   12.524418] sdioh_request_byte: rw=0, func=0, addr=0x011ff
+<4>[   12.529930] sdioh_request_byte: rw=0, func=0, addr=0x01200
+<4>[   12.535351] sdioh_request_byte: rw=0, func=0, addr=0x01201
+<4>[   12.540848] sdioh_request_byte: rw=0, func=0, addr=0x01202
+<4>[   12.546256] Function 2 CIS:
+<4>[   12.549066]     21 02 0c 00 22 2a 01 01 00 00 c5 01 23 00 00 00 
+<4>[   12.554975]     00 00 40 00 00 ff ff 80 00 00 00 00 00 00 00 00 
+<4>[   12.560954]     00 00 c8 00 00 00 00 00 00 00 00 00 00 00 00 00 
+<4>[   12.566933]     ff 
+<4>[   12.569022] sdioh_request_byte: rw=1, func=1, addr=0x1000e
+<4>[   12.574559] sdioh_request_byte: rw=0, func=1, addr=0x1000e
+<4>[   12.579981] sdioh_request_byte: rw=0, func=1, addr=0x1000e
+<4>[   12.585481] sdioh_request_byte: rw=1, func=1, addr=0x1000e
+<4>[   12.590950] sdioh_request_byte: rw=1, func=1, addr=0x1000f
+<4>[   12.596399] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x08000, nbytes=4
+<4>[   12.603728] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x08ff8, nbytes=4
+<4>[   12.611140] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x08ffc, nbytes=4
+<4>[   12.618505] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x08ffc, nbytes=4
+<4>[   12.625833] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x08000, nbytes=4
+<4>[   12.633236] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x09ffc, nbytes=4
+<4>[   12.640604] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0affc, nbytes=4
+<4>[   12.647914] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bffc, nbytes=4
+<4>[   12.655332] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0cffc, nbytes=4
+<4>[   12.662701] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0cf70, nbytes=4
+<4>[   12.670024] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0cf9c, nbytes=4
+<4>[   12.677431] sdioh_request_byte: rw=1, func=1, addr=0x1000a
+<4>[   12.682828] sdioh_request_byte: rw=1, func=1, addr=0x1000b
+<4>[   12.688337] sdioh_request_byte: rw=1, func=1, addr=0x1000c
+<4>[   12.693751] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x08ffc, nbytes=4
+<4>[   12.701173] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x08f70, nbytes=4
+<4>[   12.708547] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x09ffc, nbytes=4
+<4>[   12.715868] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0affc, nbytes=4
+<4>[   12.723272] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bffc, nbytes=4
+<4>[   12.730640] sdioh_request_byte: rw=1, func=1, addr=0x1000a
+<4>[   12.736035] sdioh_request_byte: rw=1, func=1, addr=0x1000b
+<4>[   12.741547] sdioh_request_byte: rw=1, func=1, addr=0x1000c
+<4>[   12.746958] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x08ffc, nbytes=4
+<4>[   12.754382] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0802c, nbytes=4
+<4>[   12.761708] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x08004, nbytes=4
+<4>[   12.769116] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x08604, nbytes=4
+<4>[   12.776479] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x08ffc, nbytes=4
+<4>[   12.783795] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x09ffc, nbytes=4
+<4>[   12.791210] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0affc, nbytes=4
+<4>[   12.798576] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bffc, nbytes=4
+<4>[   12.805904] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0cffc, nbytes=4
+<4>[   12.813306] sdioh_request_byte: rw=1, func=1, addr=0x1000a
+<4>[   12.818761] sdioh_request_byte: rw=1, func=1, addr=0x1000b
+<4>[   12.824165] sdioh_request_byte: rw=1, func=1, addr=0x1000c
+<4>[   12.829676] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x08ffc, nbytes=4
+<4>[   12.837002] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x09ffc, nbytes=4
+<4>[   12.844418] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0affc, nbytes=4
+<4>[   12.851744] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bffc, nbytes=4
+<4>[   12.859153] sdioh_request_byte: rw=1, func=1, addr=0x1000a
+<4>[   12.864599] sdioh_request_byte: rw=1, func=1, addr=0x1000b
+<4>[   12.870007] sdioh_request_byte: rw=1, func=1, addr=0x1000c
+<4>[   12.875520] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0af98, nbytes=4
+<4>[   12.882841] sdioh_request_word: cmd_type=0, rw=1, func=1, addr=0x08058, nbytes=4
+<4>[   12.890260] bcmsdh_sdmmc: Failed to Write word, Err: 0xffffffac
+<4>[   12.896086] sdioh_request_word: cmd_type=0, rw=1, func=1, addr=0x0805c, nbytes=4
+<4>[   12.903515] bcmsdh_sdmmc: Failed to Write word, Err: 0xffffffac
+<4>[   12.909392] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0affc, nbytes=4
+<4>[   12.916726] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bf98, nbytes=4
+<4>[   12.924142] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bf98, nbytes=4
+<4>[   12.931510] sdioh_request_word: cmd_type=0, rw=1, func=1, addr=0x0bf98, nbytes=4
+<4>[   12.938831] bcmsdh_sdmmc: Failed to Write word, Err: 0xffffffac
+<4>[   12.944746] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bf98, nbytes=4
+<4>[   12.952081] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bf9c, nbytes=4
+<4>[   12.959499] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bf90, nbytes=4
+<4>[   12.966866] sdioh_request_word: cmd_type=0, rw=1, func=1, addr=0x0bf98, nbytes=4
+<4>[   12.974174] bcmsdh_sdmmc: Failed to Write word, Err: 0xffffffac
+<4>[   12.980112] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bf98, nbytes=4
+<4>[   12.987489] sdioh_request_word: cmd_type=0, rw=1, func=1, addr=0x0bf98, nbytes=4
+<4>[   12.994799] bcmsdh_sdmmc: Failed to Write word, Err: 0xffffffac
+<4>[   13.000724] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bf98, nbytes=4
+<4>[   13.008061] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bffc, nbytes=4
+<4>[   13.015480] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0b000, nbytes=4
+<4>[   13.023539] bcmsdh_sdmmc: Failed to Read word, Err: 0xffffffac
+<4>[   13.028574] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bf98, nbytes=4
+<4>[   13.036020] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bf98, nbytes=4
+<4>[   13.043381] sdioh_request_word: cmd_type=0, rw=1, func=1, addr=0x0bf98, nbytes=4
+<4>[   13.050696] bcmsdh_sdmmc: Failed to Write word, Err: 0xffffffac
+<4>[   13.056618] DHD: dongle ram size is set to -805306368(orig -805306368)
+<4>[   13.063061] sdioh_request_byte: rw=1, func=1, addr=0x1000a
+<4>[   13.068598] sdioh_request_byte: rw=1, func=1, addr=0x1000b
+<4>[   13.073999] sdioh_request_byte: rw=1, func=1, addr=0x1000c
+<4>[   13.079508] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x09ffc, nbytes=4
+<4>[   13.086834] sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x09000, nbytes=4
+<4>[   13.094247] sdioh_request_word: cmd_type=0, rw=1, func=1, addr=0x09000, nbytes=4
+<4>[   13.101613] bcmsdh_sdmmc: Failed to Write word, Err: 0xffffffac
+<4>[   13.107432] dhd_attach: Enter
+<4>[   13.110385] dhd_add_if: idx 0, handle->e7009c00
+<3>[   13.114959] CFG80211-TRACE) wl_cfg80211_attach :In
+<3>[   13.119631] CFG80211-DEBUG) wl_cfg80211_attach :func e7b76900
+<3>[   13.125459] CFG80211-DEBUG) wl_alloc_wdev :Registering custom regulatory)
+<3>[   13.132348] CFG80211-DEBUG) wl_init_priv_mem :Enter 
+<3>[   13.137080] CFG80211-DEBUG) wl_create_event_handler :Enter 
+<4>[   13.142659] wl_create_event_handler thr:41 started
+<3>[   13.147435] CFG80211-DEBUG) wl_init_conf :Enter 
+<3>[   13.151955] CFG80211-DEBUG) wl_link_down :In
+<3>[   13.156200] CFG80211-DEBUG) wl_setup_rfkill :Enter 
+<3>[   13.161149] CFG80211-DEBUG) wl_rfkill_set :Enter 
+<3>[   13.165733] CFG80211-DEBUG) wl_rfkill_set :dhd_attach thr:42 started
+<4>[   13.172115] dhd_attach thr:43 started
+<4>[   13.175719] RF unblocked
+<4>[   13.178287] dhd_attach thr:44 started
+<4>[   13.181876] dhdsdio_probe_malloc: Enter
+<4>[   13.185682] dhdsdio_probe_init: Enter
+<4>[   13.189306] sdioh_request_byte: rw=1, func=0, addr=0x00002
+<4>[   13.194870] sdioh_request_byte: rw=1, func=1, addr=0x1000e
+<4>[   13.200267] sdioh_iovar_op: Enter (get sd_divisor)
+<4>[   13.205059] dhdsdio_probe_init: Initial value for sd_divisor is 2
+<4>[   13.211075] sdioh_iovar_op: Enter (get sd_mode)
+<4>[   13.215630] dhdsdio_probe_init: Initial value for sd_mode is 2
+<4>[   13.221381] sdioh_iovar_op: Enter (get sd_blocksize)
+<4>[   13.226373] dhdsdio_probe_init: Initial value for sd_blocksize is 512
+<4>[   13.232734] sdioh_iovar_op: Enter (get sd_rxchain)
+<4>[   13.237549] dhdsdio_probe_init: bus module (through bcmsdh API) does not support chaining
+<4>[   13.245657] sdioh_interrupt_set: Disabling
+<4>[   13.249773] sdioh_sdmmc_devintr_off: 1
+<4>[   13.253442] sdioh_interrupt_register: Entering
+<4>[   13.257946] dhdsdio_probe: completed!!
+<4>[   13.261590] wifi_get_mac_addr
+<4>[   13.264535] dhd_net_attach: ifidx 0
+<4>[   13.270078] dhd_get_stats: Enter
+<4>[   13.271973] Broadcom Dongle Host Driver: register interface [wlan0] MAC: 00:90:4c:11:22:33
+<4>[   13.280139] wifi_set_power = 0
+<4>[   13.283314] =========== WLAN placed in RESET ========
+<4>[   13.288234] bcmsdh_sdmmc: probe of mmc0:0001:3 failed with error -110
+<6>[   13.294842] input: cypress-touchkey as /devices/virtual/input/input8
+<6>[   13.331712] cypress_touchkey_driver 10-0020: cypress_touchkey_probe: hardware rev1 = 0xf, rev2 = 0x3
+<6>[   13.340428] s3c-rtc s3c2410-rtc: rtc disabled, re-enabling
+<6>[   13.345188] s3c-rtc s3c2410-rtc: setting system clock to 2012-08-24 23:01:02 UTC (1345849262)
+<6>[   13.355193] FIMC0 registered successfully
+<6>[   13.359419] FIMC1 registered successfully
+<6>[   13.363500] FIMC2 registered successfully
+<6>[   13.366291] S5P TVOUT Driver, (c) 2010 Samsung Electronics
+<4>[   13.372458] clk_get: could not find clock mout_vpll_src for dev s5p_device_tvout+0x8/0xd8 (s5p-tvout)
+<3>[   13.381724] failed to find clock "mout_vpll_src"
+<6>[   13.385409] s5p-tvout s5p-tvout: hpd status: cable removed/not connected
+<6>[   13.392268] s5p_tv_probe TV Probing is done
+<6>[   13.396238] max8998_charger_probe : MAX8998 Charger Driver Loading
+<6>[   13.404077] max8998_charger_probe : pmic interrupt registered
+<6>[   13.409189] check_lpm_charging_mode : lpm_charging_mode(0)
+<6>[   13.415305] wake enabled for irq 39
+<6>[   13.417888] max8998_int_work_func : pmic interrupt
+<6>[   13.423420] s3c_cable_status_update : battery status discharging : 1
+<4>[   13.429020] Warning: unable to open an initial console.
+<6>[   13.435438] s3c_cable_status_update : battery status discharging : 1
+<6>[   13.440551] Freeing init memory: 768K
+<6>[   15.799231] yaffs: dev is 32505858 name is "mtdblock2" rw
+<6>[   15.803306] yaffs: passed flags ""
+<7>[   15.806589] yaffs: Attempting MTD mount of 31.2,"mtdblock2"
+<3>[   15.852342] onenand_wait: ECC error = 0x0001
+<7>[   15.883998] yaffs: yaffs_read_super: is_checkpointed 1
+<6>[   15.889044] yaffs: dev is 32505861 name is "mtdblock5" rw
+<6>[   15.893172] yaffs: passed flags ""
+<7>[   15.896475] yaffs: Attempting MTD mount of 31.5,"mtdblock5"
+<7>[   15.902668] yaffs: yaffs_read_super: is_checkpointed 1
+<3>[   15.974310] init: could not import file /system/etc/init.local.rc
+<4>[   15.980464] init (1): /proc/1/oom_adj is deprecated, please use /proc/1/oom_score_adj instead.
+<6>[   16.059069] keychord: using input dev aries-keypad for fevent
+<3>[   16.068577] init: cannot open '/initlogo.rle'
+<6>[   16.084577] init: command 'loglevel' r=0
+<6>[   16.087143] init: command 'export' r=0
+<6>[   16.090833] init: command 'export' r=0
+<6>[   16.095420] init: command 'mkdir' r=0
+<6>[   16.098300] init: command 'symlink' r=0
+<6>[   16.102049] init: command 'mkdir' r=0
+<6>[   16.105688] init: command 'stop' r=0
+<6>[   16.109280] init: processing action 0x2a1a0 (fs)
+<6>[   16.113878] init: mtd partition 0, boot
+<6>[   16.117628] init: mtd partition 1, recovery
+<6>[   16.121842] init: mtd partition 2, system
+<6>[   16.125765] init: mtd partition 3, userdata
+<6>[   16.129925] init: mtd partition 4, efs
+<6>[   16.133713] init: mtd partition 5, cache
+<6>[   16.138158] init: mtd partition 6, radio
+<6>[   16.141435] init: mtd partition 7, reservoir
+<6>[   16.145799] yaffs: dev is 32505858 name is "mtdblock2" rw
+<6>[   16.151049] yaffs: passed flags ""
+<7>[   16.154479] yaffs: Attempting MTD mount of 31.2,"mtdblock2"
+<3>[   16.200040] onenand_wait: ECC error = 0x0001
+<7>[   16.231710] yaffs: yaffs_read_super: is_checkpointed 1
+<6>[   16.235551] init: command 'mount' r=0
+<6>[   16.239180] init: command 'mount' r=0
+<6>[   16.242845] yaffs: dev is 32505859 name is "mtdblock3" rw
+<6>[   16.248096] yaffs: passed flags ""
+<7>[   16.251458] yaffs: Attempting MTD mount of 31.3,"mtdblock3"
+<3>[   16.266679] onenand_wait: ECC error = 0x0001
+<3>[   16.275027] onenand_wait: ECC error = 0x0001
+<3>[   16.292314] onenand_wait: ECC error = 0x0001
+<3>[   16.295505] onenand_wait: ECC error = 0x0001
+<3>[   16.310719] onenand_wait: ECC error = 0x0001
+<3>[   16.315157] onenand_wait: ECC error = 0x0001
+<3>[   16.319542] onenand_wait: ECC error = 0x0001
+<3>[   16.324546] onenand_wait: ECC error = 0x0001
+<3>[   16.330056] onenand_wait: ECC error = 0x0001
+<3>[   16.333180] onenand_wait: ECC error = 0x0001
+<3>[   16.343161] onenand_wait: ECC error = 0x0001
+<3>[   16.346558] onenand_wait: ECC error = 0x0001
+<3>[   16.352343] onenand_wait: ECC error = 0x0001
+<3>[   16.357053] onenand_wait: ECC error = 0x0001
+<3>[   16.361389] onenand_wait: ECC error = 0x0001
+<3>[   16.364514] onenand_wait: ECC error = 0x0001
+<3>[   16.368823] onenand_wait: ECC error = 0x0001
+<3>[   16.373015] onenand_wait: ECC error = 0x0001
+<3>[   16.377370] onenand_wait: ECC error = 0x0001
+<3>[   16.385912] onenand_wait: ECC error = 0x0001
+<3>[   16.389513] onenand_wait: ECC error = 0x0001
+<3>[   16.397160] onenand_wait: ECC error = 0x0001
+<3>[   16.409441] onenand_wait: ECC error = 0x0001
+<3>[   16.415567] onenand_wait: ECC error = 0x0001
+<3>[   16.419208] onenand_wait: ECC error = 0x0001
+<3>[   16.424622] onenand_wait: ECC error = 0x0001
+<3>[   16.430862] onenand_wait: ECC error = 0x0001
+<3>[   16.446051] onenand_wait: ECC error = 0x0001
+<3>[   16.455739] onenand_wait: ECC error = 0x0001
+<3>[   16.466132] onenand_wait: ECC error = 0x0001
+<3>[   16.475336] onenand_wait: ECC error = 0x0001
+<3>[   16.479782] onenand_wait: ECC error = 0x0001
+<3>[   16.489636] onenand_wait: ECC error = 0x0001
+<3>[   16.493222] onenand_wait: ECC error = 0x0001
+<3>[   16.502413] onenand_wait: ECC error = 0x0001
+<7>[   16.515943] yaffs: block 142 is bad
+<7>[   16.523586] yaffs: block 224 is bad
+<7>[   16.540397] yaffs: block 439 is bad
+<7>[   16.542748] yaffs: block 444 is bad
+<7>[   16.557464] yaffs: block 613 is bad
+<7>[   16.561030] yaffs: block 636 is bad
+<7>[   16.564658] yaffs: block 659 is bad
+<7>[   16.568864] yaffs: block 691 is bad
+<7>[   16.573531] yaffs: block 730 is bad
+<7>[   16.575845] yaffs: block 734 is bad
+<7>[   16.585112] yaffs: block 823 is bad
+<7>[   16.587653] yaffs: block 831 is bad
+<7>[   16.592766] yaffs: block 862 is bad
+<7>[   16.596621] yaffs: block 889 is bad
+<7>[   16.600121] yaffs: block 911 is bad
+<7>[   16.602391] yaffs: block 915 is bad
+<7>[   16.605920] yaffs: block 919 is bad
+<7>[   16.609348] yaffs: block 923 is bad
+<7>[   16.612871] yaffs: block 928 is bad
+<7>[   16.620844] yaffs: block 998 is bad
+<7>[   16.623595] yaffs: block 1009 is bad
+<7>[   16.630571] yaffs: block 1070 is bad
+<7>[   16.642390] yaffs: block 1211 is bad
+<7>[   16.647847] yaffs: block 1260 is bad
+<7>[   16.650708] yaffs: block 1271 is bad
+<7>[   16.655522] yaffs: block 1300 is bad
+<7>[   16.661038] yaffs: block 1350 is bad
+<7>[   16.675745] yaffs: block 1534 is bad
+<7>[   16.684821] yaffs: block 1636 is bad
+<7>[   16.694644] yaffs: block 1748 is bad
+<7>[   16.703256] yaffs: block 1843 is bad
+<7>[   16.706998] yaffs: block 1867 is bad
+<7>[   16.716268] yaffs: block 1971 is bad
+<7>[   16.719115] yaffs: block 1982 is bad
+<7>[   16.727679] yaffs: block 2066 is bad
+<7>[   17.422600] onenand_wait: correctable ECC error = 0x0002
+<7>[   17.459695] yaffs: yaffs_read_super: is_checkpointed 0
+<6>[   17.463550] init: command 'mount' r=0
+<6>[   17.470037] yaffs: dev is 32505861 name is "mtdblock5" rw
+<6>[   17.474028] yaffs: passed flags ""
+<7>[   17.477454] yaffs: Attempting MTD mount of 31.5,"mtdblock5"
+<7>[   17.483510] yaffs: yaffs_read_super: is_checkpointed 1
+<6>[   17.488139] init: command 'mount' r=0
+<6>[   17.491720] init: processing action 0x30818 (fs)
+<6>[   17.496338] init: command 'mkdir' r=0
+<6>[   17.500034] yaffs: dev is 32505862 name is "mtdblock6" rw
+<6>[   17.505307] yaffs: passed flags ""
+<7>[   17.508684] yaffs: Attempting MTD mount of 31.6,"mtdblock6"
+<7>[   17.516571] yaffs: yaffs_read_super: is_checkpointed 1
+<6>[   17.520322] init: command 'mount' r=0
+<6>[   17.524044] init: command 'mount' r=-1
+<6>[   17.529430] init: command 'chown' r=0
+<6>[   17.531687] init: command 'mkdir' r=0
+<6>[   17.535408] yaffs: dev is 32505860 name is "mtdblock4" rw
+<6>[   17.540689] yaffs: passed flags ""
+<7>[   17.544066] yaffs: Attempting MTD mount of 31.4,"mtdblock4"
+<7>[   17.574817] yaffs: yaffs_read_super: is_checkpointed 0
+<6>[   17.578566] init: command 'mount' r=0
+<6>[   17.585636] init: command 'chown' r=0
+<6>[   17.588348] init: command 'chmod' r=-2
+<6>[   17.592143] init: command 'chmod' r=0
+<6>[   17.595313] init: command 'chown' r=0
+<6>[   17.598913] init: command 'chmod' r=0
+<6>[   17.602663] init: command 'chmod' r=0
+<6>[   17.606295] init: command 'chown' r=0
+<6>[   17.609878] init: command 'chown' r=0
+<6>[   17.613535] init: command 'chown' r=0
+<6>[   17.617265] init: command 'chown' r=0
+<6>[   17.620809] init: command 'chmod' r=0
+<6>[   17.624384] init: processing action 0x2a288 (post-fs)
+<6>[   17.629468] init: command 'mount' r=0
+<6>[   17.634561] init: command 'chown' r=0
+<6>[   17.637341] init: command 'chmod' r=0
+<6>[   17.641365] init: command 'chown' r=0
+<6>[   17.644641] init: command 'chmod' r=0
+<6>[   17.647785] init: command 'chown' r=0
+<6>[   17.651453] init: command 'chmod' r=0
+<6>[   17.655037] init: command 'chown' r=0
+<6>[   17.658673] init: command 'chmod' r=0
+<6>[   17.662369] init: command 'chown' r=0
+<6>[   17.665938] init: command 'chmod' r=0
+<6>[   17.670634] init: command 'mkdir' r=0
+<6>[   17.673247] init: processing action 0x30b00 (post-fs)
+<6>[   17.678765] init: command 'chown' r=0
+<6>[   17.682400] init: command 'chmod' r=0
+<6>[   17.685603] init: command 'symlink' r=0
+<6>[   17.689350] init: command 'chown' r=0
+<6>[   17.692993] init: command 'chmod' r=0
+<6>[   17.696690] init: command 'chown' r=0
+<6>[   17.700271] init: command 'chmod' r=0
+<6>[   17.703915] init: command 'chown' r=0
+<6>[   17.707601] init: command 'chmod' r=0
+<6>[   17.711167] init: processing action 0x2a4a8 (post-fs-data)
+<6>[   17.717159] init: command 'chown' r=0
+<6>[   17.720826] init: command 'chmod' r=0
+<6>[   17.725270] init: command 'mkdir' r=0
+<6>[   17.727543] init: command 'copy' r=-1
+<6>[   17.731266] init: command 'chown' r=-2
+<6>[   17.734915] init: command 'chmod' r=-2
+<6>[   17.738643] init: command 'copy' r=-1
+<6>[   17.742336] init: command 'chown' r=-2
+<6>[   17.746006] init: command 'chmod' r=-2
+<6>[   17.749748] init: command 'write' r=-2
+<6>[   17.754676] init: command 'mkdir' r=0
+<6>[   17.758262] init: command 'mkdir' r=0
+<6>[   17.761899] init: command 'mkdir' r=0
+<6>[   17.765591] init: command 'mkdir' r=0
+<6>[   17.769203] init: command 'mkdir' r=0
+<6>[   17.772837] init: command 'mkdir' r=0
+<6>[   17.776516] init: command 'mkdir' r=0
+<6>[   17.780084] init: command 'mkdir' r=0
+<6>[   17.782781] init: command 'chmod' r=-2
+<6>[   17.787520] init: command 'mkdir' r=0
+<6>[   17.791105] init: command 'mkdir' r=0
+<6>[   17.794731] init: command 'mkdir' r=0
+<6>[   17.798383] init: command 'mkdir' r=0
+<6>[   17.802071] init: command 'mkdir' r=0
+<6>[   17.806510] init: command 'mkdir' r=0
+<6>[   17.809825] init: command 'mkdir' r=0
+<6>[   17.813518] init: command 'mkdir' r=0
+<6>[   17.816590] init: command 'chown' r=0
+<6>[   17.820213] init: command 'chmod' r=0
+<6>[   17.824440] init: command 'mkdir' r=0
+<6>[   17.827493] init: command 'chown' r=0
+<6>[   17.831133] init: command 'chmod' r=0
+<6>[   17.835367] init: command 'mkdir' r=0
+<6>[   17.838405] init: command 'chown' r=0
+<6>[   17.842034] init: command 'chmod' r=0
+<6>[   17.846581] init: command 'mkdir' r=0
+<6>[   17.849883] init: command 'mkdir' r=0
+<6>[   17.852574] init: command 'chown' r=0
+<6>[   17.856254] init: command 'chmod' r=0
+<6>[   17.859832] init: command 'chown' r=0
+<6>[   17.863446] init: command 'chmod' r=0
+<6>[   17.867089] init: processing action 0x30438 (post-fs-data)
+<6>[   17.873566] init: command 'mkdir' r=0
+<6>[   17.876648] init: command 'chown' r=0
+<6>[   17.879911] init: command 'chown' r=0
+<6>[   17.883480] init: command 'chmod' r=0
+<6>[   17.887056] init: processing action 0x30c98 (post-fs-data)
+<6>[   17.893647] init: command 'mkdir' r=0
+<6>[   17.897306] init: command 'mkdir' r=0
+<6>[   17.900853] init: command 'mkdir' r=0
+<6>[   17.904535] init: command 'mkdir' r=0
+<6>[   17.907869] init: command 'chmod' r=0
+<6>[   17.910737] init: command 'setprop' r=0
+<6>[   17.914578] init: processing action 0x31bf0 (property_service_init)
+<6>[   17.924286] init: Created socket '/dev/socket/property_service' with mode '666', user '0', group '0'
+<6>[   17.932078] init: command 'property_service_init' r=0
+<6>[   17.937092] init: processing action 0x31c38 (signal_init)
+<6>[   17.942438] init: command 'signal_init' r=0
+<6>[   17.946597] init: processing action 0x31c80 (check_startup)
+<6>[   17.952187] init: command 'check_startup' r=0
+<6>[   17.956451] init: processing action 0x2abe8 (boot)
+<6>[   17.961646] init: command 'ifup' r=0
+<6>[   17.964835] init: command 'hostname' r=0
+<6>[   17.968696] init: command 'domainname' r=0
+<6>[   17.972797] init: command 'setrlimit' r=0
+<6>[   17.976753] init: command 'write' r=0
+<6>[   17.980389] init: command 'write' r=0
+<6>[   17.984125] init: command 'chown' r=0
+<6>[   17.987695] init: command 'chmod' r=0
+<6>[   17.991313] init: command 'chown' r=0
+<6>[   17.994995] init: command 'chmod' r=0
+<6>[   17.998587] init: command 'write' r=0
+<6>[   18.002228] init: command 'write' r=0
+<6>[   18.005907] init: command 'chown' r=-2
+<6>[   18.009561] init: command 'chown' r=-2
+<6>[   18.013303] init: command 'chown' r=-2
+<6>[   18.017077] init: command 'chown' r=-2
+<6>[   18.020757] init: command 'chown' r=-2
+<6>[   18.024496] init: command 'chown' r=0
+<6>[   18.028188] init: command 'chown' r=0
+<6>[   18.031790] init: command 'chown' r=0
+<6>[   18.035412] init: command 'chmod' r=0
+<6>[   18.039099] init: command 'chmod' r=0
+<6>[   18.042686] init: command 'chmod' r=0
+<6>[   18.046387] init: command 'chown' r=0
+<6>[   18.050024] init: command 'chown' r=-2
+<6>[   18.053695] init: command 'chown' r=-2
+<6>[   18.057415] init: command 'chown' r=-2
+<6>[   18.061141] init: command 'chown' r=-2
+<6>[   18.064867] init: command 'chown' r=-2
+<6>[   18.068594] init: command 'chown' r=-2
+<6>[   18.072338] init: command 'chown' r=-2
+<6>[   18.076080] init: command 'chown' r=-2
+<6>[   18.079774] init: command 'chown' r=-2
+<6>[   18.083498] init: command 'chown' r=-2
+<6>[   18.087277] init: command 'chown' r=-2
+<6>[   18.090954] init: command 'chown' r=-2
+<6>[   18.094676] init: command 'chown' r=-2
+<6>[   18.098457] init: command 'chown' r=-2
+<6>[   18.102129] init: command 'chown' r=-2
+<6>[   18.105855] init: command 'chown' r=-2
+<6>[   18.109673] init: command 'chown' r=0
+<6>[   18.113269] init: command 'chown' r=-2
+<6>[   18.116987] init: command 'chown' r=0
+<6>[   18.120652] init: command 'chown' r=0
+<6>[   18.124239] init: command 'chown' r=0
+<6>[   18.127881] init: command 'chown' r=0
+<6>[   18.131569] init: command 'chown' r=0
+<6>[   18.135157] init: command 'chown' r=0
+<6>[   18.138815] init: command 'chown' r=0
+<6>[   18.142475] init: command 'chown' r=0
+<6>[   18.146079] init: command 'chmod' r=0
+<6>[   18.149715] init: command 'chown' r=0
+<6>[   18.153404] init: command 'chmod' r=0
+<6>[   18.156991] init: command 'chown' r=0
+<6>[   18.160648] init: command 'chmod' r=0
+<6>[   18.164349] init: command 'setprop' r=0
+<6>[   18.168097] init: command 'setprop' r=0
+<6>[   18.171908] init: command 'setprop' r=0
+<6>[   18.175772] init: command 'setprop' r=0
+<6>[   18.179536] init: command 'setprop' r=0
+<6>[   18.183347] init: command 'setprop' r=0
+<6>[   18.187212] init: command 'setprop' r=0
+<6>[   18.190958] init: command 'chown' r=-2
+<6>[   18.194678] init: command 'chmod' r=-2
+<6>[   18.198458] init: command 'chown' r=-2
+<6>[   18.202144] init: command 'chmod' r=-2
+<6>[   18.205856] init: command 'chown' r=-2
+<6>[   18.209631] init: command 'chmod' r=-2
+<6>[   18.213312] init: command 'write' r=-2
+<6>[   18.217038] init: command 'write' r=-2
+<6>[   18.220814] init: command 'setprop' r=0
+<6>[   18.351384] init: command 'exec' r=0
+<5>[   18.353694] init: starting 'servicemanager'
+<5>[   18.358110] init: starting 'vold'
+<5>[   18.361258] init: starting 'aries-ril-daemon'
+<6>[   18.367970] init: Created socket '/dev/socket/vold' with mode '660', user '0', group '1009'
+<5>[   18.375856] init: starting 'pvrsrvinit'
+<6>[   18.378984] init: Created socket '/dev/socket/rild-debug' with mode '660', user '1001', group '1000'
+<6>[   18.388109] init: command 'class_start' r=0
+<5>[   18.400527] init: starting 'netd'
+<5>[   18.402689] init: starting 'debuggerd'
+<6>[   18.412338] init: Created socket '/dev/socket/rild' with mode '660', user '0', group '1001'
+<6>[   18.419608] init: Created socket '/dev/socket/dnsproxyd' with mode '660', user '0', group '3003'
+<5>[   18.435747] init: starting 'surfaceflinger'
+<5>[   18.438768] init: starting 'zygote'
+<6>[   18.456094] init: Created socket '/dev/socket/netd' with mode '660', user '0', group '1000'
+<6>[   18.463389] init: Created socket '/dev/socket/zygote' with mode '660', user '0', group '1000'
+<5>[   18.478722] init: starting 'drm'
+<5>[   18.480789] init: starting 'media'
+<6>[   18.491012] PVR_K:(Warning): SysFinalise: Version string: SGX540 S5PC110 [529, /home/jeff/Android/build/cm9-aries/kernel/samsung/aries/drivers/gpu/pvr/s5pc110/sysconfig.c]
+<5>[   18.518341] init: starting 'dbus'
+<5>[   18.520523] init: starting 'installd'
+<6>[   18.550225] init: Created socket '/dev/socket/dbus' with mode '660', user '1002', group '1002'
+<6>[   18.557806] init: Created socket '/dev/socket/installd' with mode '600', user '1000', group '1000'
+<5>[   18.585169] init: starting 'keystore'
+<6>[   18.587705] init: command 'class_start' r=0
+<6>[   18.601135] init: Created socket '/dev/socket/keystore' with mode '666', user '0', group '0'
+<6>[   18.632376] init: processing action 0x2f5b0 (boot)
+<6>[   18.654584] init: command 'write' r=0
+<6>[   18.656908] init: waitpid returned pid 124, status = 00000000
+<5>[   18.709282] init: process 'pvrsrvinit', pid 124 exited
+<6>[   18.713179] init: command 'write' r=0
+<6>[   18.716665] init: processing action 0x30658 (boot)
+<6>[   18.787317] init: command 'mount' r=0
+<6>[   18.789602] init: command 'setprop' r=0
+<6>[   18.838066] init: command 'setprop' r=0
+<6>[   18.840578] init: command 'setprop' r=0
+<6>[   18.869312] init: command 'setprop' r=0
+<6>[   18.871755] init: command 'setprop' r=0
+<6>[   18.912300] init: command 'setprop' r=0
+<6>[   18.914754] init: command 'setprop' r=0
+<6>[   18.947438] init: command 'setprop' r=0
+<6>[   18.949944] init: command 'setprop' r=0
+<6>[   18.974777] init: processing action 0x31cc8 (queue_property_triggers)
+<6>[   19.018331] init: command 'queue_property_triggers' r=0
+<6>[   19.037251] init: processing action 0x2b778 (nonencrypted)
+<4>[   19.058774] dhd_get_stats: Enter
+<4>[   19.060711] dhd_get_stats: Enter
+<5>[   19.076358] init: starting 'gpsd'
+<5>[   19.078674] init: starting 'geomagneticd'
+<6>[   19.082654] init: Created socket '/dev/socket/gps' with mode '660', user '1021', group '1000'
+<5>[   19.107930] init: starting 'tvout'
+<6>[   19.110169] init: command 'class_start' r=0
+<6>[   19.146652] init: processing action 0x2bea0 (property:persist.sys.usb.config=*)
+<6>[   19.201408] init: command 'setprop' r=0
+<6>[   19.203851] init: processing action 0x2c068 (property:ro.debuggable=1)
+<5>[   19.271724] init: starting 'console'
+<6>[   19.274228] init: command 'start' r=0
+<6>[   19.310720] init: processing action 0x2fec0 (property:sys.usb.config=mass_storage,adb)
+<3>[   19.357660] android_usb: already disabled
+<6>[   19.360328] init: command 'write' r=0
+<6>[   19.412417] init: command 'write' r=0
+<6>[   19.416159] init: command 'write' r=0
+<6>[   19.418541] init: command 'write' r=0
+<6>[   19.467047] adb_bind_config
+<6>[   19.470592] init: command 'write' r=0
+<6>[   19.474500] android_work: did not send uevent (0 0   (null))
+<5>[   19.502163] init: starting 'adbd'
+<6>[   19.504375] init: command 'start' r=0
+<6>[   19.518040] warning: `adbd' uses 32-bit capabilities (legacy support in use)
+<6>[   19.533534] init: command 'setprop' r=0
+<6>[   19.580194] adb_open
+<6>[   19.737011] android_work: sent uevent USB_STATE=CONNECTED
+<6>[   19.745550] android_usb gadget: high speed config #1: android
+<6>[   19.763955] android_work: sent uevent USB_STATE=CONFIGURED
+<6>[   19.808150] s3cfb s3cfb: [fb0] dma: 0x4c45a000, cpu: 0xeb800000, size: 0x00465000
+<5>[   19.845868] init: starting 'bootanim'
+<6>[   19.848516] init: processing action 0x315a8 (property:init.svc.bootanim=running)
+<5>[   19.896938] init: starting 'bdaddr'
+<6>[   19.899308] init: command 'start' r=0
+<6>[   19.960428] init: waitpid returned pid 175, status = 00000000
+<5>[   19.964862] init: process 'bdaddr', pid 175 exited
+<4>[   20.047981] m5720_off
+<4>[   20.048970] m5720_off, GPIO_CP_PWR_RST is high
+<6>[   24.744841] init: waitpid returned pid 197, status = 00000100
+<3>[   24.767733] init: untracked pid 197 exited
+<4>[   25.082507] [STE][mc_int_resout_work] mc->gpio_phone_on is [0] 
+<4>[   25.087179] [STE][mc_int_cp_pwr_rst_work] mc->gpio_phone_on is [0] 
+<6>[   25.432377] wake enabled for irq 34
+<3>[   25.436196] gp2a: proximity val = 1
+<6>[   25.624374] wake disabled for irq 34
+<4>[   26.084102] [EN32KhzCP_CTRL]  on = 0 
+<4>[   26.092027] m5720_on
+<4>[   26.226134] [EN32KhzCP_CTRL]  on = 1 
+<7>[   26.626376] onenand_wait: correctable ECC error = 0x0002
+<6>[   28.770132] request_suspend_state: wakeup (3->0) at 28674439300 (2012-08-24 23:01:17.920958492 UTC)
+<6>[   29.127080] wake enabled for irq 165
+<5>[   29.130200] init: starting 'hciattach'
+<6>[   29.456906] acc_open
+<6>[   29.458139] acc_release
+<4>[   30.043654] Get into M5720 Normal modem boot. (By key press) 
+<5>[   31.037847] init: starting 'bluetoothd'
+<6>[   31.052454] init: Created socket '/dev/socket/dbus_bluetooth' with mode '660', user '1002', group '1002'
+<6>[   31.095964] init: Created socket '/dev/socket/bluetooth' with mode '660', user '1002', group '1002'
+<5>[   36.145641] init: service 'bootanim' is being killed
+<6>[   36.434487] init: waitpid returned pid 171, status = 00000009
+<5>[   36.455388] init: process 'bootanim', pid 171 exited
+<6>[   36.532358] [mdnie set] in mdnieset_ui_file_cmd_store, input value = 6 
+<6>[   36.543160] [mDNIe] mDNIe_tuning_initialize: addr(0x84), data(0x0)  
+<6>[   36.551716] [mDNIe] mDNIe_tuning_initialize: addr(0x90), data(0x0)  
+<6>[   36.557415] [mDNIe] mDNIe_tuning_initialize: addr(0x94), data(0xfff)  
+<6>[   36.566911] [mDNIe] mDNIe_tuning_initialize: addr(0x98), data(0x5c)  
+<6>[   36.578751] [mDNIe] mDNIe_tuning_initialize: addr(0x9c), data(0x10)  
+<6>[   36.583892] [mDNIe] mDNIe_tuning_initialize: addr(0xac), data(0x0)  
+<6>[   36.593465] [mDNIe] mDNIe_tuning_initialize: addr(0xb4), data(0x3ff)  
+<4>[   36.599134] [mDNIe] mDNIe_Set_Mode: current_mDNIe_UI(6), current_mDNIe_OutDoor_OnOff(0)  

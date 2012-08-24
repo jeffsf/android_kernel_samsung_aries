@@ -1,0 +1,2093 @@
+sdioh_request_byte: rw=0, func=0, addr=0x01017
+sdioh_request_byte: rw=0, func=0, addr=0x01018
+sdioh_request_byte: rw=0, func=0, addr=0x01019
+sdioh_request_byte: rw=0, func=0, addr=0x0101a
+sdioh_request_byte: rw=0, func=0, addr=0x0101b
+sdioh_request_byte: rw=0, func=0, addr=0x0101c
+sdioh_request_byte: rw=0, func=0, addr=0x0101d
+sdioh_request_byte: rw=0, func=0, addr=0x0101e
+sdioh_request_byte: rw=0, func=0, addr=0x0101f
+sdioh_request_byte: rw=0, func=0, addr=0x01020
+sdioh_request_byte: rw=0, func=0, addr=0x01021
+sdioh_request_byte: rw=0, func=0, addr=0x01022
+sdioh_request_byte: rw=0, func=0, addr=0x01023
+sdioh_request_byte: rw=0, func=0, addr=0x01024
+sdioh_request_byte: rw=0, func=0, addr=0x01025
+sdioh_request_byte: rw=0, func=0, addr=0x01026
+sdioh_request_byte: rw=0, func=0, addr=0x01027
+sdioh_request_byte: rw=0, func=0, addr=0x01028
+sdioh_request_byte: rw=0, func=0, addr=0x01029
+sdioh_request_byte: rw=0, func=0, addr=0x0102a
+sdioh_request_byte: rw=0, func=0, addr=0x0102b
+sdioh_request_byte: rw=0, func=0, addr=0x0102c
+sdioh_request_byte: rw=0, func=0, addr=0x0102d
+sdioh_request_byte: rw=0, func=0, addr=0x0102e
+sdioh_request_byte: rw=0, func=0, addr=0x0102f
+sdioh_request_byte: rw=0, func=0, addr=0x01030
+sdioh_request_byte: rw=0, func=0, addr=0x01031
+sdioh_request_byte: rw=0, func=0, addr=0x01032
+sdioh_request_byte: rw=0, func=0, addr=0x01033
+sdioh_request_byte: rw=0, func=0, addr=0x01034
+sdioh_request_byte: rw=0, func=0, addr=0x01035
+sdioh_request_byte: rw=0, func=0, addr=0x01036
+sdioh_request_byte: rw=0, func=0, addr=0x01037
+sdioh_request_byte: rw=0, func=0, addr=0x01038
+sdioh_request_byte: rw=0, func=0, addr=0x01039
+sdioh_request_byte: rw=0, func=0, addr=0x0103a
+sdioh_request_byte: rw=0, func=0, addr=0x0103b
+sdioh_request_byte: rw=0, func=0, addr=0x0103c
+sdioh_request_byte: rw=0, func=0, addr=0x0103d
+sdioh_request_byte: rw=0, func=0, addr=0x0103e
+sdioh_request_byte: rw=0, func=0, addr=0x0103f
+sdioh_request_byte: rw=0, func=0, addr=0x01040
+sdioh_request_byte: rw=0, func=0, addr=0x01041
+sdioh_request_byte: rw=0, func=0, addr=0x01042
+sdioh_request_byte: rw=0, func=0, addr=0x01043
+sdioh_request_byte: rw=0, func=0, addr=0x01044
+sdioh_request_byte: rw=0, func=0, addr=0x01045
+sdioh_request_byte: rw=0, func=0, addr=0x01046
+sdioh_request_byte: rw=0, func=0, addr=0x01047
+sdioh_request_byte: rw=0, func=0, addr=0x01048
+sdioh_request_byte: rw=0, func=0, addr=0x01049
+sdioh_request_byte: rw=0, func=0, addr=0x0104a
+sdioh_request_byte: rw=0, func=0, addr=0x0104b
+sdioh_request_byte: rw=0, func=0, addr=0x0104c
+sdioh_request_byte: rw=0, func=0, addr=0x0104d
+sdioh_request_byte: rw=0, func=0, addr=0x0104e
+sdioh_request_byte: rw=0, func=0, addr=0x0104f
+sdioh_request_byte: rw=0, func=0, addr=0x01050
+sdioh_request_byte: rw=0, func=0, addr=0x01051
+sdioh_request_byte: rw=0, func=0, addr=0x01052
+sdioh_request_byte: rw=0, func=0, addr=0x01053
+sdioh_request_byte: rw=0, func=0, addr=0x01054
+sdioh_request_byte: rw=0, func=0, addr=0x01055
+sdioh_request_byte: rw=0, func=0, addr=0x01056
+sdioh_request_byte: rw=0, func=0, addr=0x01057
+sdioh_request_byte: rw=0, func=0, addr=0x01058
+sdioh_request_byte: rw=0, func=0, addr=0x01059
+sdioh_request_byte: rw=0, func=0, addr=0x0105a
+sdioh_request_byte: rw=0, func=0, addr=0x0105b
+sdioh_request_byte: rw=0, func=0, addr=0x0105c
+sdioh_request_byte: rw=0, func=0, addr=0x0105d
+sdioh_request_byte: rw=0, func=0, addr=0x0105e
+sdioh_request_byte: rw=0, func=0, addr=0x0105f
+sdioh_request_byte: rw=0, func=0, addr=0x01060
+sdioh_request_byte: rw=0, func=0, addr=0x01061
+sdioh_request_byte: rw=0, func=0, addr=0x01062
+sdioh_request_byte: rw=0, func=0, addr=0x01063
+sdioh_request_byte: rw=0, func=0, addr=0x01064
+sdioh_request_byte: rw=0, func=0, addr=0x01065
+sdioh_request_byte: rw=0, func=0, addr=0x01066
+sdioh_request_byte: rw=0, func=0, addr=0x01067
+sdioh_request_byte: rw=0, func=0, addr=0x01068
+sdioh_request_byte: rw=0, func=0, addr=0x01069
+sdioh_request_byte: rw=0, func=0, addr=0x0106a
+sdioh_request_byte: rw=0, func=0, addr=0x0106b
+sdioh_request_byte: rw=0, func=0, addr=0x0106c
+sdioh_request_byte: rw=0, func=0, addr=0x0106d
+sdioh_request_byte: rw=0, func=0, addr=0x0106e
+sdioh_request_byte: rw=0, func=0, addr=0x0106f
+sdioh_request_byte: rw=0, func=0, addr=0x01070
+sdioh_request_byte: rw=0, func=0, addr=0x01071
+sdioh_request_byte: rw=0, func=0, addr=0x01072
+sdioh_request_byte: rw=0, func=0, addr=0x01073
+sdioh_request_byte: rw=0, func=0, addr=0x01074
+sdioh_request_byte: rw=0, func=0, addr=0x01075
+sdioh_request_byte: rw=0, func=0, addr=0x01076
+sdioh_request_byte: rw=0, func=0, addr=0x01077
+sdioh_request_byte: rw=0, func=0, addr=0x01078
+sdioh_request_byte: rw=0, func=0, addr=0x01079
+sdioh_request_byte: rw=0, func=0, addr=0x0107a
+sdioh_request_byte: rw=0, func=0, addr=0x0107b
+sdioh_request_byte: rw=0, func=0, addr=0x0107c
+sdioh_request_byte: rw=0, func=0, addr=0x0107d
+sdioh_request_byte: rw=0, func=0, addr=0x0107e
+sdioh_request_byte: rw=0, func=0, addr=0x0107f
+sdioh_request_byte: rw=0, func=0, addr=0x01080
+sdioh_request_byte: rw=0, func=0, addr=0x01081
+sdioh_request_byte: rw=0, func=0, addr=0x01082
+sdioh_request_byte: rw=0, func=0, addr=0x01083
+sdioh_request_byte: rw=0, func=0, addr=0x01084
+sdioh_request_byte: rw=0, func=0, addr=0x01085
+sdioh_request_byte: rw=0, func=0, addr=0x01086
+sdioh_request_byte: rw=0, func=0, addr=0x01087
+sdioh_request_byte: rw=0, func=0, addr=0x01088
+sdioh_request_byte: rw=0, func=0, addr=0x01089
+sdioh_request_byte: rw=0, func=0, addr=0x0108a
+sdioh_request_byte: rw=0, func=0, addr=0x0108b
+sdioh_request_byte: rw=0, func=0, addr=0x0108c
+sdioh_request_byte: rw=0, func=0, addr=0x0108d
+sdioh_request_byte: rw=0, func=0, addr=0x0108e
+sdioh_request_byte: rw=0, func=0, addr=0x0108f
+sdioh_request_byte: rw=0, func=0, addr=0x01090
+sdioh_request_byte: rw=0, func=0, addr=0x01091
+sdioh_request_byte: rw=0, func=0, addr=0x01092
+sdioh_request_byte: rw=0, func=0, addr=0x01093
+sdioh_request_byte: rw=0, func=0, addr=0x01094
+sdioh_request_byte: rw=0, func=0, addr=0x01095
+sdioh_request_byte: rw=0, func=0, addr=0x01096
+sdioh_request_byte: rw=0, func=0, addr=0x01097
+sdioh_request_byte: rw=0, func=0, addr=0x01098
+sdioh_request_byte: rw=0, func=0, addr=0x01099
+sdioh_request_byte: rw=0, func=0, addr=0x0109a
+sdioh_request_byte: rw=0, func=0, addr=0x0109b
+sdioh_request_byte: rw=0, func=0, addr=0x0109c
+sdioh_request_byte: rw=0, func=0, addr=0x0109d
+sdioh_request_byte: rw=0, func=0, addr=0x0109e
+sdioh_request_byte: rw=0, func=0, addr=0x0109f
+sdioh_request_byte: rw=0, func=0, addr=0x010a0
+sdioh_request_byte: rw=0, func=0, addr=0x010a1
+sdioh_request_byte: rw=0, func=0, addr=0x010a2
+sdioh_request_byte: rw=0, func=0, addr=0x010a3
+sdioh_request_byte: rw=0, func=0, addr=0x010a4
+sdioh_request_byte: rw=0, func=0, addr=0x010a5
+sdioh_request_byte: rw=0, func=0, addr=0x010a6
+sdioh_request_byte: rw=0, func=0, addr=0x010a7
+sdioh_request_byte: rw=0, func=0, addr=0x010a8
+sdioh_request_byte: rw=0, func=0, addr=0x010a9
+sdioh_request_byte: rw=0, func=0, addr=0x010aa
+sdioh_request_byte: rw=0, func=0, addr=0x010ab
+sdioh_request_byte: rw=0, func=0, addr=0x010ac
+sdioh_request_byte: rw=0, func=0, addr=0x010ad
+sdioh_request_byte: rw=0, func=0, addr=0x010ae
+sdioh_request_byte: rw=0, func=0, addr=0x010af
+sdioh_request_byte: rw=0, func=0, addr=0x010b0
+sdioh_request_byte: rw=0, func=0, addr=0x010b1
+sdioh_request_byte: rw=0, func=0, addr=0x010b2
+sdioh_request_byte: rw=0, func=0, addr=0x010b3
+sdioh_request_byte: rw=0, func=0, addr=0x010b4
+sdioh_request_byte: rw=0, func=0, addr=0x010b5
+sdioh_request_byte: rw=0, func=0, addr=0x010b6
+sdioh_request_byte: rw=0, func=0, addr=0x010b7
+sdioh_request_byte: rw=0, func=0, addr=0x010b8
+sdioh_request_byte: rw=0, func=0, addr=0x010b9
+sdioh_request_byte: rw=0, func=0, addr=0x010ba
+sdioh_request_byte: rw=0, func=0, addr=0x010bb
+sdioh_request_byte: rw=0, func=0, addr=0x010bc
+sdioh_request_byte: rw=0, func=0, addr=0x010bd
+sdioh_request_byte: rw=0, func=0, addr=0x010be
+sdioh_request_byte: rw=0, func=0, addr=0x010bf
+sdioh_request_byte: rw=0, func=0, addr=0x010c0
+sdioh_request_byte: rw=0, func=0, addr=0x010c1
+sdioh_request_byte: rw=0, func=0, addr=0x010c2
+sdioh_request_byte: rw=0, func=0, addr=0x010c3
+sdioh_request_byte: rw=0, func=0, addr=0x010c4
+sdioh_request_byte: rw=0, func=0, addr=0x010c5
+sdioh_request_byte: rw=0, func=0, addr=0x010c6
+sdioh_request_byte: rw=0, func=0, addr=0x010c7
+sdioh_request_byte: rw=0, func=0, addr=0x010c8
+sdioh_request_byte: rw=0, func=0, addr=0x010c9
+sdioh_request_byte: rw=0, func=0, addr=0x010ca
+sdioh_request_byte: rw=0, func=0, addr=0x010cb
+sdioh_request_byte: rw=0, func=0, addr=0x010cc
+sdioh_request_byte: rw=0, func=0, addr=0x010cd
+sdioh_request_byte: rw=0, func=0, addr=0x010ce
+sdioh_request_byte: rw=0, func=0, addr=0x010cf
+sdioh_request_byte: rw=0, func=0, addr=0x010d0
+sdioh_request_byte: rw=0, func=0, addr=0x010d1
+sdioh_request_byte: rw=0, func=0, addr=0x010d2
+sdioh_request_byte: rw=0, func=0, addr=0x010d3
+sdioh_request_byte: rw=0, func=0, addr=0x010d4
+sdioh_request_byte: rw=0, func=0, addr=0x010d5
+sdioh_request_byte: rw=0, func=0, addr=0x010d6
+sdioh_request_byte: rw=0, func=0, addr=0x010d7
+sdioh_request_byte: rw=0, func=0, addr=0x010d8
+sdioh_request_byte: rw=0, func=0, addr=0x010d9
+sdioh_request_byte: rw=0, func=0, addr=0x010da
+sdioh_request_byte: rw=0, func=0, addr=0x010db
+sdioh_request_byte: rw=0, func=0, addr=0x010dc
+sdioh_request_byte: rw=0, func=0, addr=0x010dd
+sdioh_request_byte: rw=0, func=0, addr=0x010de
+sdioh_request_byte: rw=0, func=0, addr=0x010df
+sdioh_request_byte: rw=0, func=0, addr=0x010e0
+sdioh_request_byte: rw=0, func=0, addr=0x010e1
+sdioh_request_byte: rw=0, func=0, addr=0x010e2
+sdioh_request_byte: rw=0, func=0, addr=0x010e3
+sdioh_request_byte: rw=0, func=0, addr=0x010e4
+sdioh_request_byte: rw=0, func=0, addr=0x010e5
+sdioh_request_byte: rw=0, func=0, addr=0x010e6
+sdioh_request_byte: rw=0, func=0, addr=0x010e7
+sdioh_request_byte: rw=0, func=0, addr=0x010e8
+sdioh_request_byte: rw=0, func=0, addr=0x010e9
+sdioh_request_byte: rw=0, func=0, addr=0x010ea
+sdioh_request_byte: rw=0, func=0, addr=0x010eb
+sdioh_request_byte: rw=0, func=0, addr=0x010ec
+sdioh_request_byte: rw=0, func=0, addr=0x010ed
+sdioh_request_byte: rw=0, func=0, addr=0x010ee
+sdioh_request_byte: rw=0, func=0, addr=0x010ef
+sdioh_request_byte: rw=0, func=0, addr=0x010f0
+sdioh_request_byte: rw=0, func=0, addr=0x010f1
+sdioh_request_byte: rw=0, func=0, addr=0x010f2
+sdioh_request_byte: rw=0, func=0, addr=0x010f3
+sdioh_request_byte: rw=0, func=0, addr=0x010f4
+sdioh_request_byte: rw=0, func=0, addr=0x010f5
+sdioh_request_byte: rw=0, func=0, addr=0x010f6
+sdioh_request_byte: rw=0, func=0, addr=0x010f7
+sdioh_request_byte: rw=0, func=0, addr=0x010f8
+sdioh_request_byte: rw=0, func=0, addr=0x010f9
+sdioh_request_byte: rw=0, func=0, addr=0x010fa
+sdioh_request_byte: rw=0, func=0, addr=0x010fb
+sdioh_request_byte: rw=0, func=0, addr=0x010fc
+sdioh_request_byte: rw=0, func=0, addr=0x010fd
+sdioh_request_byte: rw=0, func=0, addr=0x010fe
+sdioh_request_byte: rw=0, func=0, addr=0x010ff
+sdioh_request_byte: rw=0, func=0, addr=0x01100
+sdioh_request_byte: rw=0, func=0, addr=0x01101
+sdioh_request_byte: rw=0, func=0, addr=0x01102
+sdioh_request_byte: rw=0, func=0, addr=0x01103
+sdioh_request_byte: rw=0, func=0, addr=0x01104
+sdioh_request_byte: rw=0, func=0, addr=0x01105
+sdioh_request_byte: rw=0, func=0, addr=0x01106
+sdioh_request_byte: rw=0, func=0, addr=0x01107
+sdioh_request_byte: rw=0, func=0, addr=0x01108
+sdioh_request_byte: rw=0, func=0, addr=0x01109
+sdioh_request_byte: rw=0, func=0, addr=0x0110a
+sdioh_request_byte: rw=0, func=0, addr=0x0110b
+sdioh_request_byte: rw=0, func=0, addr=0x0110c
+sdioh_request_byte: rw=0, func=0, addr=0x0110d
+sdioh_request_byte: rw=0, func=0, addr=0x0110e
+sdioh_request_byte: rw=0, func=0, addr=0x0110f
+sdioh_request_byte: rw=0, func=0, addr=0x01110
+sdioh_request_byte: rw=0, func=0, addr=0x01111
+sdioh_request_byte: rw=0, func=0, addr=0x01112
+sdioh_request_byte: rw=0, func=0, addr=0x01113
+sdioh_request_byte: rw=0, func=0, addr=0x01114
+sdioh_request_byte: rw=0, func=0, addr=0x01115
+sdioh_request_byte: rw=0, func=0, addr=0x01116
+sdioh_request_byte: rw=0, func=0, addr=0x01117
+sdioh_request_byte: rw=0, func=0, addr=0x01118
+sdioh_request_byte: rw=0, func=0, addr=0x01119
+sdioh_request_byte: rw=0, func=0, addr=0x0111a
+sdioh_request_byte: rw=0, func=0, addr=0x0111b
+sdioh_request_byte: rw=0, func=0, addr=0x0111c
+sdioh_request_byte: rw=0, func=0, addr=0x0111d
+sdioh_request_byte: rw=0, func=0, addr=0x0111e
+sdioh_request_byte: rw=0, func=0, addr=0x0111f
+sdioh_request_byte: rw=0, func=0, addr=0x01120
+sdioh_request_byte: rw=0, func=0, addr=0x01121
+sdioh_request_byte: rw=0, func=0, addr=0x01122
+sdioh_request_byte: rw=0, func=0, addr=0x01123
+sdioh_request_byte: rw=0, func=0, addr=0x01124
+sdioh_request_byte: rw=0, func=0, addr=0x01125
+sdioh_request_byte: rw=0, func=0, addr=0x01126
+sdioh_request_byte: rw=0, func=0, addr=0x01127
+sdioh_request_byte: rw=0, func=0, addr=0x01128
+sdioh_request_byte: rw=0, func=0, addr=0x01129
+sdioh_request_byte: rw=0, func=0, addr=0x0112a
+sdioh_request_byte: rw=0, func=0, addr=0x0112b
+sdioh_request_byte: rw=0, func=0, addr=0x0112c
+sdioh_request_byte: rw=0, func=0, addr=0x0112d
+sdioh_request_byte: rw=0, func=0, addr=0x0112e
+sdioh_request_byte: rw=0, func=0, addr=0x0112f
+sdioh_request_byte: rw=0, func=0, addr=0x01130
+sdioh_request_byte: rw=0, func=0, addr=0x01131
+sdioh_request_byte: rw=0, func=0, addr=0x01132
+sdioh_request_byte: rw=0, func=0, addr=0x01133
+sdioh_request_byte: rw=0, func=0, addr=0x01134
+sdioh_request_byte: rw=0, func=0, addr=0x01135
+sdioh_request_byte: rw=0, func=0, addr=0x01136
+sdioh_request_byte: rw=0, func=0, addr=0x01137
+sdioh_request_byte: rw=0, func=0, addr=0x01138
+sdioh_request_byte: rw=0, func=0, addr=0x01139
+sdioh_request_byte: rw=0, func=0, addr=0x0113a
+sdioh_request_byte: rw=0, func=0, addr=0x0113b
+sdioh_request_byte: rw=0, func=0, addr=0x0113c
+sdioh_request_byte: rw=0, func=0, addr=0x0113d
+sdioh_request_byte: rw=0, func=0, addr=0x0113e
+sdioh_request_byte: rw=0, func=0, addr=0x0113f
+sdioh_request_byte: rw=0, func=0, addr=0x01140
+sdioh_request_byte: rw=0, func=0, addr=0x01141
+sdioh_request_byte: rw=0, func=0, addr=0x01142
+sdioh_request_byte: rw=0, func=0, addr=0x01143
+sdioh_request_byte: rw=0, func=0, addr=0x01144
+sdioh_request_byte: rw=0, func=0, addr=0x01145
+sdioh_request_byte: rw=0, func=0, addr=0x01146
+sdioh_request_byte: rw=0, func=0, addr=0x01147
+sdioh_request_byte: rw=0, func=0, addr=0x01148
+sdioh_request_byte: rw=0, func=0, addr=0x01149
+sdioh_request_byte: rw=0, func=0, addr=0x0114a
+sdioh_request_byte: rw=0, func=0, addr=0x0114b
+sdioh_request_byte: rw=0, func=0, addr=0x0114c
+sdioh_request_byte: rw=0, func=0, addr=0x0114d
+sdioh_request_byte: rw=0, func=0, addr=0x0114e
+sdioh_request_byte: rw=0, func=0, addr=0x0114f
+sdioh_request_byte: rw=0, func=0, addr=0x01150
+sdioh_request_byte: rw=0, func=0, addr=0x01151
+sdioh_request_byte: rw=0, func=0, addr=0x01152
+sdioh_request_byte: rw=0, func=0, addr=0x01153
+sdioh_request_byte: rw=0, func=0, addr=0x01154
+sdioh_request_byte: rw=0, func=0, addr=0x01155
+sdioh_request_byte: rw=0, func=0, addr=0x01156
+sdioh_request_byte: rw=0, func=0, addr=0x01157
+sdioh_request_byte: rw=0, func=0, addr=0x01158
+sdioh_request_byte: rw=0, func=0, addr=0x01159
+sdioh_request_byte: rw=0, func=0, addr=0x0115a
+sdioh_request_byte: rw=0, func=0, addr=0x0115b
+sdioh_request_byte: rw=0, func=0, addr=0x0115c
+sdioh_request_byte: rw=0, func=0, addr=0x0115d
+sdioh_request_byte: rw=0, func=0, addr=0x0115e
+sdioh_request_byte: rw=0, func=0, addr=0x0115f
+sdioh_request_byte: rw=0, func=0, addr=0x01160
+sdioh_request_byte: rw=0, func=0, addr=0x01161
+sdioh_request_byte: rw=0, func=0, addr=0x01162
+sdioh_request_byte: rw=0, func=0, addr=0x01163
+sdioh_request_byte: rw=0, func=0, addr=0x01164
+sdioh_request_byte: rw=0, func=0, addr=0x01165
+sdioh_request_byte: rw=0, func=0, addr=0x01166
+sdioh_request_byte: rw=0, func=0, addr=0x01167
+sdioh_request_byte: rw=0, func=0, addr=0x01168
+sdioh_request_byte: rw=0, func=0, addr=0x01169
+sdioh_request_byte: rw=0, func=0, addr=0x0116a
+sdioh_request_byte: rw=0, func=0, addr=0x0116b
+sdioh_request_byte: rw=0, func=0, addr=0x0116c
+sdioh_request_byte: rw=0, func=0, addr=0x0116d
+sdioh_request_byte: rw=0, func=0, addr=0x0116e
+sdioh_request_byte: rw=0, func=0, addr=0x0116f
+sdioh_request_byte: rw=0, func=0, addr=0x01170
+sdioh_request_byte: rw=0, func=0, addr=0x01171
+sdioh_request_byte: rw=0, func=0, addr=0x01172
+sdioh_request_byte: rw=0, func=0, addr=0x01173
+sdioh_request_byte: rw=0, func=0, addr=0x01174
+sdioh_request_byte: rw=0, func=0, addr=0x01175
+sdioh_request_byte: rw=0, func=0, addr=0x01176
+sdioh_request_byte: rw=0, func=0, addr=0x01177
+sdioh_request_byte: rw=0, func=0, addr=0x01178
+sdioh_request_byte: rw=0, func=0, addr=0x01179
+sdioh_request_byte: rw=0, func=0, addr=0x0117a
+sdioh_request_byte: rw=0, func=0, addr=0x0117b
+sdioh_request_byte: rw=0, func=0, addr=0x0117c
+sdioh_request_byte: rw=0, func=0, addr=0x0117d
+sdioh_request_byte: rw=0, func=0, addr=0x0117e
+sdioh_request_byte: rw=0, func=0, addr=0x0117f
+sdioh_request_byte: rw=0, func=0, addr=0x01180
+sdioh_request_byte: rw=0, func=0, addr=0x01181
+sdioh_request_byte: rw=0, func=0, addr=0x01182
+sdioh_request_byte: rw=0, func=0, addr=0x01183
+sdioh_request_byte: rw=0, func=0, addr=0x01184
+sdioh_request_byte: rw=0, func=0, addr=0x01185
+sdioh_request_byte: rw=0, func=0, addr=0x01186
+sdioh_request_byte: rw=0, func=0, addr=0x01187
+sdioh_request_byte: rw=0, func=0, addr=0x01188
+sdioh_request_byte: rw=0, func=0, addr=0x01189
+sdioh_request_byte: rw=0, func=0, addr=0x0118a
+sdioh_request_byte: rw=0, func=0, addr=0x0118b
+sdioh_request_byte: rw=0, func=0, addr=0x0118c
+sdioh_request_byte: rw=0, func=0, addr=0x0118d
+sdioh_request_byte: rw=0, func=0, addr=0x0118e
+sdioh_request_byte: rw=0, func=0, addr=0x0118f
+sdioh_request_byte: rw=0, func=0, addr=0x01190
+sdioh_request_byte: rw=0, func=0, addr=0x01191
+sdioh_request_byte: rw=0, func=0, addr=0x01192
+sdioh_request_byte: rw=0, func=0, addr=0x01193
+sdioh_request_byte: rw=0, func=0, addr=0x01194
+sdioh_request_byte: rw=0, func=0, addr=0x01195
+sdioh_request_byte: rw=0, func=0, addr=0x01196
+sdioh_request_byte: rw=0, func=0, addr=0x01197
+sdioh_request_byte: rw=0, func=0, addr=0x01198
+sdioh_request_byte: rw=0, func=0, addr=0x01199
+sdioh_request_byte: rw=0, func=0, addr=0x0119a
+sdioh_request_byte: rw=0, func=0, addr=0x0119b
+sdioh_request_byte: rw=0, func=0, addr=0x0119c
+sdioh_request_byte: rw=0, func=0, addr=0x0119d
+sdioh_request_byte: rw=0, func=0, addr=0x0119e
+sdioh_request_byte: rw=0, func=0, addr=0x0119f
+sdioh_request_byte: rw=0, func=0, addr=0x011a0
+sdioh_request_byte: rw=0, func=0, addr=0x011a1
+sdioh_request_byte: rw=0, func=0, addr=0x011a2
+sdioh_request_byte: rw=0, func=0, addr=0x011a3
+sdioh_request_byte: rw=0, func=0, addr=0x011a4
+sdioh_request_byte: rw=0, func=0, addr=0x011a5
+sdioh_request_byte: rw=0, func=0, addr=0x011a6
+sdioh_request_byte: rw=0, func=0, addr=0x011a7
+sdioh_request_byte: rw=0, func=0, addr=0x011a8
+sdioh_request_byte: rw=0, func=0, addr=0x011a9
+sdioh_request_byte: rw=0, func=0, addr=0x011aa
+sdioh_request_byte: rw=0, func=0, addr=0x011ab
+sdioh_request_byte: rw=0, func=0, addr=0x011ac
+sdioh_request_byte: rw=0, func=0, addr=0x011ad
+sdioh_request_byte: rw=0, func=0, addr=0x011ae
+sdioh_request_byte: rw=0, func=0, addr=0x011af
+sdioh_request_byte: rw=0, func=0, addr=0x011b0
+sdioh_request_byte: rw=0, func=0, addr=0x011b1
+sdioh_request_byte: rw=0, func=0, addr=0x011b2
+sdioh_request_byte: rw=0, func=0, addr=0x011b3
+sdioh_request_byte: rw=0, func=0, addr=0x011b4
+sdioh_request_byte: rw=0, func=0, addr=0x011b5
+sdioh_request_byte: rw=0, func=0, addr=0x011b6
+sdioh_request_byte: rw=0, func=0, addr=0x011b7
+sdioh_request_byte: rw=0, func=0, addr=0x011b8
+sdioh_request_byte: rw=0, func=0, addr=0x011b9
+sdioh_request_byte: rw=0, func=0, addr=0x011ba
+sdioh_request_byte: rw=0, func=0, addr=0x011bb
+sdioh_request_byte: rw=0, func=0, addr=0x011bc
+sdioh_request_byte: rw=0, func=0, addr=0x011bd
+sdioh_request_byte: rw=0, func=0, addr=0x011be
+sdioh_request_byte: rw=0, func=0, addr=0x011bf
+sdioh_request_byte: rw=0, func=0, addr=0x011c0
+sdioh_request_byte: rw=0, func=0, addr=0x011c1
+sdioh_request_byte: rw=0, func=0, addr=0x011c2
+sdioh_request_byte: rw=0, func=0, addr=0x011c3
+sdioh_request_byte: rw=0, func=0, addr=0x011c4
+sdioh_request_byte: rw=0, func=0, addr=0x011c5
+sdioh_request_byte: rw=0, func=0, addr=0x011c6
+sdioh_request_byte: rw=0, func=0, addr=0x011c7
+sdioh_request_byte: rw=0, func=0, addr=0x011c8
+sdioh_request_byte: rw=0, func=0, addr=0x011c9
+sdioh_request_byte: rw=0, func=0, addr=0x011ca
+sdioh_request_byte: rw=0, func=0, addr=0x011cb
+sdioh_request_byte: rw=0, func=0, addr=0x011cc
+sdioh_request_byte: rw=0, func=0, addr=0x011cd
+sdioh_request_byte: rw=0, func=0, addr=0x011ce
+sdioh_request_byte: rw=0, func=0, addr=0x011cf
+sdioh_request_byte: rw=0, func=0, addr=0x011d0
+sdioh_request_byte: rw=0, func=0, addr=0x011d1
+sdioh_request_byte: rw=0, func=0, addr=0x011d2
+sdioh_request_byte: rw=0, func=0, addr=0x011d3
+sdioh_request_byte: rw=0, func=0, addr=0x011d4
+sdioh_request_byte: rw=0, func=0, addr=0x011d5
+sdioh_request_byte: rw=0, func=0, addr=0x011d6
+sdioh_request_byte: rw=0, func=0, addr=0x011d7
+sdioh_request_byte: rw=0, func=0, addr=0x011d8
+sdioh_request_byte: rw=0, func=0, addr=0x011d9
+sdioh_request_byte: rw=0, func=0, addr=0x011da
+sdioh_request_byte: rw=0, func=0, addr=0x011db
+sdioh_request_byte: rw=0, func=0, addr=0x011dc
+sdioh_request_byte: rw=0, func=0, addr=0x011dd
+sdioh_request_byte: rw=0, func=0, addr=0x011de
+sdioh_request_byte: rw=0, func=0, addr=0x011df
+sdioh_request_byte: rw=0, func=0, addr=0x011e0
+sdioh_request_byte: rw=0, func=0, addr=0x011e1
+sdioh_request_byte: rw=0, func=0, addr=0x011e2
+sdioh_request_byte: rw=0, func=0, addr=0x011e3
+sdioh_request_byte: rw=0, func=0, addr=0x011e4
+sdioh_request_byte: rw=0, func=0, addr=0x011e5
+sdioh_request_byte: rw=0, func=0, addr=0x011e6
+sdioh_request_byte: rw=0, func=0, addr=0x011e7
+sdioh_request_byte: rw=0, func=0, addr=0x011e8
+sdioh_request_byte: rw=0, func=0, addr=0x011e9
+sdioh_request_byte: rw=0, func=0, addr=0x011ea
+sdioh_request_byte: rw=0, func=0, addr=0x011eb
+sdioh_request_byte: rw=0, func=0, addr=0x011ec
+sdioh_request_byte: rw=0, func=0, addr=0x011ed
+sdioh_request_byte: rw=0, func=0, addr=0x011ee
+sdioh_request_byte: rw=0, func=0, addr=0x011ef
+sdioh_request_byte: rw=0, func=0, addr=0x011f0
+sdioh_request_byte: rw=0, func=0, addr=0x011f1
+sdioh_request_byte: rw=0, func=0, addr=0x011f2
+sdioh_request_byte: rw=0, func=0, addr=0x011f3
+sdioh_request_byte: rw=0, func=0, addr=0x011f4
+sdioh_request_byte: rw=0, func=0, addr=0x011f5
+sdioh_request_byte: rw=0, func=0, addr=0x011f6
+sdioh_request_byte: rw=0, func=0, addr=0x011f7
+sdioh_request_byte: rw=0, func=0, addr=0x011f8
+sdioh_request_byte: rw=0, func=0, addr=0x011f9
+sdioh_request_byte: rw=0, func=0, addr=0x011fa
+sdioh_request_byte: rw=0, func=0, addr=0x011fb
+sdioh_request_byte: rw=0, func=0, addr=0x011fc
+sdioh_request_byte: rw=0, func=0, addr=0x011fd
+sdioh_request_byte: rw=0, func=0, addr=0x011fe
+sdioh_request_byte: rw=0, func=0, addr=0x011ff
+Function 0 CIS:
+    80 32 fe 21 02 0c 00 22 2a 01 01 00 00 c5 01 23 
+    00 00 00 00 00 40 00 00 ff ff 80 00 00 00 00 00 
+    00 00 00 00 00 c8 00 00 00 00 00 00 00 00 00 00 
+    00 00 00 ff 20 04 d0 02 29 43 21 02 0c 00 22 04 
+    00 20 00 5a 80 07 19 78 d6 f0 3a 7f 52 00 00 00 
+    00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+    00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+    00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+    00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+    00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+    00 00 00 80 03 81 33 33 ff 
+sdioh_cis_read: Func = 1
+sdioh_cis_read: func_cis_ptr[1]=0x1003
+sdioh_request_byte: rw=0, func=0, addr=0x01003
+sdioh_request_byte: rw=0, func=0, addr=0x01004
+sdioh_request_byte: rw=0, func=0, addr=0x01005
+sdioh_request_byte: rw=0, func=0, addr=0x01006
+sdioh_request_byte: rw=0, func=0, addr=0x01007
+sdioh_request_byte: rw=0, func=0, addr=0x01008
+sdioh_request_byte: rw=0, func=0, addr=0x01009
+sdioh_request_byte: rw=0, func=0, addr=0x0100a
+sdioh_request_byte: rw=0, func=0, addr=0x0100b
+sdioh_request_byte: rw=0, func=0, addr=0x0100c
+sdioh_request_byte: rw=0, func=0, addr=0x0100d
+sdioh_request_byte: rw=0, func=0, addr=0x0100e
+sdioh_request_byte: rw=0, func=0, addr=0x0100f
+sdioh_request_byte: rw=0, func=0, addr=0x01010
+sdioh_request_byte: rw=0, func=0, addr=0x01011
+sdioh_request_byte: rw=0, func=0, addr=0x01012
+sdioh_request_byte: rw=0, func=0, addr=0x01013
+sdioh_request_byte: rw=0, func=0, addr=0x01014
+sdioh_request_byte: rw=0, func=0, addr=0x01015
+sdioh_request_byte: rw=0, func=0, addr=0x01016
+sdioh_request_byte: rw=0, func=0, addr=0x01017
+sdioh_request_byte: rw=0, func=0, addr=0x01018
+sdioh_request_byte: rw=0, func=0, addr=0x01019
+sdioh_request_byte: rw=0, func=0, addr=0x0101a
+sdioh_request_byte: rw=0, func=0, addr=0x0101b
+sdioh_request_byte: rw=0, func=0, addr=0x0101c
+sdioh_request_byte: rw=0, func=0, addr=0x0101d
+sdioh_request_byte: rw=0, func=0, addr=0x0101e
+sdioh_request_byte: rw=0, func=0, addr=0x0101f
+sdioh_request_byte: rw=0, func=0, addr=0x01020
+sdioh_request_byte: rw=0, func=0, addr=0x01021
+sdioh_request_byte: rw=0, func=0, addr=0x01022
+sdioh_request_byte: rw=0, func=0, addr=0x01023
+sdioh_request_byte: rw=0, func=0, addr=0x01024
+sdioh_request_byte: rw=0, func=0, addr=0x01025
+sdioh_request_byte: rw=0, func=0, addr=0x01026
+sdioh_request_byte: rw=0, func=0, addr=0x01027
+sdioh_request_byte: rw=0, func=0, addr=0x01028
+sdioh_request_byte: rw=0, func=0, addr=0x01029
+sdioh_request_byte: rw=0, func=0, addr=0x0102a
+sdioh_request_byte: rw=0, func=0, addr=0x0102b
+sdioh_request_byte: rw=0, func=0, addr=0x0102c
+sdioh_request_byte: rw=0, func=0, addr=0x0102d
+sdioh_request_byte: rw=0, func=0, addr=0x0102e
+sdioh_request_byte: rw=0, func=0, addr=0x0102f
+sdioh_request_byte: rw=0, func=0, addr=0x01030
+sdioh_request_byte: rw=0, func=0, addr=0x01031
+sdioh_request_byte: rw=0, func=0, addr=0x01032
+sdioh_request_byte: rw=0, func=0, addr=0x01033
+sdioh_request_byte: rw=0, func=0, addr=0x01034
+sdioh_request_byte: rw=0, func=0, addr=0x01035
+sdioh_request_byte: rw=0, func=0, addr=0x01036
+sdioh_request_byte: rw=0, func=0, addr=0x01037
+sdioh_request_byte: rw=0, func=0, addr=0x01038
+sdioh_request_byte: rw=0, func=0, addr=0x01039
+sdioh_request_byte: rw=0, func=0, addr=0x0103a
+sdioh_request_byte: rw=0, func=0, addr=0x0103b
+sdioh_request_byte: rw=0, func=0, addr=0x0103c
+sdioh_request_byte: rw=0, func=0, addr=0x0103d
+sdioh_request_byte: rw=0, func=0, addr=0x0103e
+sdioh_request_byte: rw=0, func=0, addr=0x0103f
+sdioh_request_byte: rw=0, func=0, addr=0x01040
+sdioh_request_byte: rw=0, func=0, addr=0x01041
+sdioh_request_byte: rw=0, func=0, addr=0x01042
+sdioh_request_byte: rw=0, func=0, addr=0x01043
+sdioh_request_byte: rw=0, func=0, addr=0x01044
+sdioh_request_byte: rw=0, func=0, addr=0x01045
+sdioh_request_byte: rw=0, func=0, addr=0x01046
+sdioh_request_byte: rw=0, func=0, addr=0x01047
+sdioh_request_byte: rw=0, func=0, addr=0x01048
+sdioh_request_byte: rw=0, func=0, addr=0x01049
+sdioh_request_byte: rw=0, func=0, addr=0x0104a
+sdioh_request_byte: rw=0, func=0, addr=0x0104b
+sdioh_request_byte: rw=0, func=0, addr=0x0104c
+sdioh_request_byte: rw=0, func=0, addr=0x0104d
+sdioh_request_byte: rw=0, func=0, addr=0x0104e
+sdioh_request_byte: rw=0, func=0, addr=0x0104f
+sdioh_request_byte: rw=0, func=0, addr=0x01050
+sdioh_request_byte: rw=0, func=0, addr=0x01051
+sdioh_request_byte: rw=0, func=0, addr=0x01052
+sdioh_request_byte: rw=0, func=0, addr=0x01053
+sdioh_request_byte: rw=0, func=0, addr=0x01054
+sdioh_request_byte: rw=0, func=0, addr=0x01055
+sdioh_request_byte: rw=0, func=0, addr=0x01056
+sdioh_request_byte: rw=0, func=0, addr=0x01057
+sdioh_request_byte: rw=0, func=0, addr=0x01058
+sdioh_request_byte: rw=0, func=0, addr=0x01059
+sdioh_request_byte: rw=0, func=0, addr=0x0105a
+sdioh_request_byte: rw=0, func=0, addr=0x0105b
+sdioh_request_byte: rw=0, func=0, addr=0x0105c
+sdioh_request_byte: rw=0, func=0, addr=0x0105d
+sdioh_request_byte: rw=0, func=0, addr=0x0105e
+sdioh_request_byte: rw=0, func=0, addr=0x0105f
+sdioh_request_byte: rw=0, func=0, addr=0x01060
+sdioh_request_byte: rw=0, func=0, addr=0x01061
+sdioh_request_byte: rw=0, func=0, addr=0x01062
+sdioh_request_byte: rw=0, func=0, addr=0x01063
+sdioh_request_byte: rw=0, func=0, addr=0x01064
+sdioh_request_byte: rw=0, func=0, addr=0x01065
+sdioh_request_byte: rw=0, func=0, addr=0x01066
+sdioh_request_byte: rw=0, func=0, addr=0x01067
+sdioh_request_byte: rw=0, func=0, addr=0x01068
+sdioh_request_byte: rw=0, func=0, addr=0x01069
+sdioh_request_byte: rw=0, func=0, addr=0x0106a
+sdioh_request_byte: rw=0, func=0, addr=0x0106b
+sdioh_request_byte: rw=0, func=0, addr=0x0106c
+sdioh_request_byte: rw=0, func=0, addr=0x0106d
+sdioh_request_byte: rw=0, func=0, addr=0x0106e
+sdioh_request_byte: rw=0, func=0, addr=0x0106f
+sdioh_request_byte: rw=0, func=0, addr=0x01070
+sdioh_request_byte: rw=0, func=0, addr=0x01071
+sdioh_request_byte: rw=0, func=0, addr=0x01072
+sdioh_request_byte: rw=0, func=0, addr=0x01073
+sdioh_request_byte: rw=0, func=0, addr=0x01074
+sdioh_request_byte: rw=0, func=0, addr=0x01075
+sdioh_request_byte: rw=0, func=0, addr=0x01076
+sdioh_request_byte: rw=0, func=0, addr=0x01077
+sdioh_request_byte: rw=0, func=0, addr=0x01078
+sdioh_request_byte: rw=0, func=0, addr=0x01079
+sdioh_request_byte: rw=0, func=0, addr=0x0107a
+sdioh_request_byte: rw=0, func=0, addr=0x0107b
+sdioh_request_byte: rw=0, func=0, addr=0x0107c
+sdioh_request_byte: rw=0, func=0, addr=0x0107d
+sdioh_request_byte: rw=0, func=0, addr=0x0107e
+sdioh_request_byte: rw=0, func=0, addr=0x0107f
+sdioh_request_byte: rw=0, func=0, addr=0x01080
+sdioh_request_byte: rw=0, func=0, addr=0x01081
+sdioh_request_byte: rw=0, func=0, addr=0x01082
+sdioh_request_byte: rw=0, func=0, addr=0x01083
+sdioh_request_byte: rw=0, func=0, addr=0x01084
+sdioh_request_byte: rw=0, func=0, addr=0x01085
+sdioh_request_byte: rw=0, func=0, addr=0x01086
+sdioh_request_byte: rw=0, func=0, addr=0x01087
+sdioh_request_byte: rw=0, func=0, addr=0x01088
+sdioh_request_byte: rw=0, func=0, addr=0x01089
+sdioh_request_byte: rw=0, func=0, addr=0x0108a
+sdioh_request_byte: rw=0, func=0, addr=0x0108b
+sdioh_request_byte: rw=0, func=0, addr=0x0108c
+sdioh_request_byte: rw=0, func=0, addr=0x0108d
+sdioh_request_byte: rw=0, func=0, addr=0x0108e
+sdioh_request_byte: rw=0, func=0, addr=0x0108f
+sdioh_request_byte: rw=0, func=0, addr=0x01090
+sdioh_request_byte: rw=0, func=0, addr=0x01091
+sdioh_request_byte: rw=0, func=0, addr=0x01092
+sdioh_request_byte: rw=0, func=0, addr=0x01093
+sdioh_request_byte: rw=0, func=0, addr=0x01094
+sdioh_request_byte: rw=0, func=0, addr=0x01095
+sdioh_request_byte: rw=0, func=0, addr=0x01096
+sdioh_request_byte: rw=0, func=0, addr=0x01097
+sdioh_request_byte: rw=0, func=0, addr=0x01098
+sdioh_request_byte: rw=0, func=0, addr=0x01099
+sdioh_request_byte: rw=0, func=0, addr=0x0109a
+sdioh_request_byte: rw=0, func=0, addr=0x0109b
+sdioh_request_byte: rw=0, func=0, addr=0x0109c
+sdioh_request_byte: rw=0, func=0, addr=0x0109d
+sdioh_request_byte: rw=0, func=0, addr=0x0109e
+sdioh_request_byte: rw=0, func=0, addr=0x0109f
+sdioh_request_byte: rw=0, func=0, addr=0x010a0
+sdioh_request_byte: rw=0, func=0, addr=0x010a1
+sdioh_request_byte: rw=0, func=0, addr=0x010a2
+sdioh_request_byte: rw=0, func=0, addr=0x010a3
+sdioh_request_byte: rw=0, func=0, addr=0x010a4
+sdioh_request_byte: rw=0, func=0, addr=0x010a5
+sdioh_request_byte: rw=0, func=0, addr=0x010a6
+sdioh_request_byte: rw=0, func=0, addr=0x010a7
+sdioh_request_byte: rw=0, func=0, addr=0x010a8
+sdioh_request_byte: rw=0, func=0, addr=0x010a9
+sdioh_request_byte: rw=0, func=0, addr=0x010aa
+sdioh_request_byte: rw=0, func=0, addr=0x010ab
+sdioh_request_byte: rw=0, func=0, addr=0x010ac
+sdioh_request_byte: rw=0, func=0, addr=0x010ad
+sdioh_request_byte: rw=0, func=0, addr=0x010ae
+sdioh_request_byte: rw=0, func=0, addr=0x010af
+sdioh_request_byte: rw=0, func=0, addr=0x010b0
+sdioh_request_byte: rw=0, func=0, addr=0x010b1
+sdioh_request_byte: rw=0, func=0, addr=0x010b2
+sdioh_request_byte: rw=0, func=0, addr=0x010b3
+sdioh_request_byte: rw=0, func=0, addr=0x010b4
+sdioh_request_byte: rw=0, func=0, addr=0x010b5
+sdioh_request_byte: rw=0, func=0, addr=0x010b6
+sdioh_request_byte: rw=0, func=0, addr=0x010b7
+sdioh_request_byte: rw=0, func=0, addr=0x010b8
+sdioh_request_byte: rw=0, func=0, addr=0x010b9
+sdioh_request_byte: rw=0, func=0, addr=0x010ba
+sdioh_request_byte: rw=0, func=0, addr=0x010bb
+sdioh_request_byte: rw=0, func=0, addr=0x010bc
+sdioh_request_byte: rw=0, func=0, addr=0x010bd
+sdioh_request_byte: rw=0, func=0, addr=0x010be
+sdioh_request_byte: rw=0, func=0, addr=0x010bf
+sdioh_request_byte: rw=0, func=0, addr=0x010c0
+sdioh_request_byte: rw=0, func=0, addr=0x010c1
+sdioh_request_byte: rw=0, func=0, addr=0x010c2
+sdioh_request_byte: rw=0, func=0, addr=0x010c3
+sdioh_request_byte: rw=0, func=0, addr=0x010c4
+sdioh_request_byte: rw=0, func=0, addr=0x010c5
+sdioh_request_byte: rw=0, func=0, addr=0x010c6
+sdioh_request_byte: rw=0, func=0, addr=0x010c7
+sdioh_request_byte: rw=0, func=0, addr=0x010c8
+sdioh_request_byte: rw=0, func=0, addr=0x010c9
+sdioh_request_byte: rw=0, func=0, addr=0x010ca
+sdioh_request_byte: rw=0, func=0, addr=0x010cb
+sdioh_request_byte: rw=0, func=0, addr=0x010cc
+sdioh_request_byte: rw=0, func=0, addr=0x010cd
+sdioh_request_byte: rw=0, func=0, addr=0x010ce
+sdioh_request_byte: rw=0, func=0, addr=0x010cf
+sdioh_request_byte: rw=0, func=0, addr=0x010d0
+sdioh_request_byte: rw=0, func=0, addr=0x010d1
+sdioh_request_byte: rw=0, func=0, addr=0x010d2
+sdioh_request_byte: rw=0, func=0, addr=0x010d3
+sdioh_request_byte: rw=0, func=0, addr=0x010d4
+sdioh_request_byte: rw=0, func=0, addr=0x010d5
+sdioh_request_byte: rw=0, func=0, addr=0x010d6
+sdioh_request_byte: rw=0, func=0, addr=0x010d7
+sdioh_request_byte: rw=0, func=0, addr=0x010d8
+sdioh_request_byte: rw=0, func=0, addr=0x010d9
+sdioh_request_byte: rw=0, func=0, addr=0x010da
+sdioh_request_byte: rw=0, func=0, addr=0x010db
+sdioh_request_byte: rw=0, func=0, addr=0x010dc
+sdioh_request_byte: rw=0, func=0, addr=0x010dd
+sdioh_request_byte: rw=0, func=0, addr=0x010de
+sdioh_request_byte: rw=0, func=0, addr=0x010df
+sdioh_request_byte: rw=0, func=0, addr=0x010e0
+sdioh_request_byte: rw=0, func=0, addr=0x010e1
+sdioh_request_byte: rw=0, func=0, addr=0x010e2
+sdioh_request_byte: rw=0, func=0, addr=0x010e3
+sdioh_request_byte: rw=0, func=0, addr=0x010e4
+sdioh_request_byte: rw=0, func=0, addr=0x010e5
+sdioh_request_byte: rw=0, func=0, addr=0x010e6
+sdioh_request_byte: rw=0, func=0, addr=0x010e7
+sdioh_request_byte: rw=0, func=0, addr=0x010e8
+sdioh_request_byte: rw=0, func=0, addr=0x010e9
+sdioh_request_byte: rw=0, func=0, addr=0x010ea
+sdioh_request_byte: rw=0, func=0, addr=0x010eb
+sdioh_request_byte: rw=0, func=0, addr=0x010ec
+sdioh_request_byte: rw=0, func=0, addr=0x010ed
+sdioh_request_byte: rw=0, func=0, addr=0x010ee
+sdioh_request_byte: rw=0, func=0, addr=0x010ef
+sdioh_request_byte: rw=0, func=0, addr=0x010f0
+sdioh_request_byte: rw=0, func=0, addr=0x010f1
+sdioh_request_byte: rw=0, func=0, addr=0x010f2
+sdioh_request_byte: rw=0, func=0, addr=0x010f3
+sdioh_request_byte: rw=0, func=0, addr=0x010f4
+sdioh_request_byte: rw=0, func=0, addr=0x010f5
+sdioh_request_byte: rw=0, func=0, addr=0x010f6
+sdioh_request_byte: rw=0, func=0, addr=0x010f7
+sdioh_request_byte: rw=0, func=0, addr=0x010f8
+sdioh_request_byte: rw=0, func=0, addr=0x010f9
+sdioh_request_byte: rw=0, func=0, addr=0x010fa
+sdioh_request_byte: rw=0, func=0, addr=0x010fb
+sdioh_request_byte: rw=0, func=0, addr=0x010fc
+sdioh_request_byte: rw=0, func=0, addr=0x010fd
+sdioh_request_byte: rw=0, func=0, addr=0x010fe
+sdioh_request_byte: rw=0, func=0, addr=0x010ff
+sdioh_request_byte: rw=0, func=0, addr=0x01100
+sdioh_request_byte: rw=0, func=0, addr=0x01101
+sdioh_request_byte: rw=0, func=0, addr=0x01102
+sdioh_request_byte: rw=0, func=0, addr=0x01103
+sdioh_request_byte: rw=0, func=0, addr=0x01104
+sdioh_request_byte: rw=0, func=0, addr=0x01105
+sdioh_request_byte: rw=0, func=0, addr=0x01106
+sdioh_request_byte: rw=0, func=0, addr=0x01107
+sdioh_request_byte: rw=0, func=0, addr=0x01108
+sdioh_request_byte: rw=0, func=0, addr=0x01109
+sdioh_request_byte: rw=0, func=0, addr=0x0110a
+sdioh_request_byte: rw=0, func=0, addr=0x0110b
+sdioh_request_byte: rw=0, func=0, addr=0x0110c
+sdioh_request_byte: rw=0, func=0, addr=0x0110d
+sdioh_request_byte: rw=0, func=0, addr=0x0110e
+sdioh_request_byte: rw=0, func=0, addr=0x0110f
+sdioh_request_byte: rw=0, func=0, addr=0x01110
+sdioh_request_byte: rw=0, func=0, addr=0x01111
+sdioh_request_byte: rw=0, func=0, addr=0x01112
+sdioh_request_byte: rw=0, func=0, addr=0x01113
+sdioh_request_byte: rw=0, func=0, addr=0x01114
+sdioh_request_byte: rw=0, func=0, addr=0x01115
+sdioh_request_byte: rw=0, func=0, addr=0x01116
+sdioh_request_byte: rw=0, func=0, addr=0x01117
+sdioh_request_byte: rw=0, func=0, addr=0x01118
+sdioh_request_byte: rw=0, func=0, addr=0x01119
+sdioh_request_byte: rw=0, func=0, addr=0x0111a
+sdioh_request_byte: rw=0, func=0, addr=0x0111b
+sdioh_request_byte: rw=0, func=0, addr=0x0111c
+sdioh_request_byte: rw=0, func=0, addr=0x0111d
+sdioh_request_byte: rw=0, func=0, addr=0x0111e
+sdioh_request_byte: rw=0, func=0, addr=0x0111f
+sdioh_request_byte: rw=0, func=0, addr=0x01120
+sdioh_request_byte: rw=0, func=0, addr=0x01121
+sdioh_request_byte: rw=0, func=0, addr=0x01122
+sdioh_request_byte: rw=0, func=0, addr=0x01123
+sdioh_request_byte: rw=0, func=0, addr=0x01124
+sdioh_request_byte: rw=0, func=0, addr=0x01125
+sdioh_request_byte: rw=0, func=0, addr=0x01126
+sdioh_request_byte: rw=0, func=0, addr=0x01127
+sdioh_request_byte: rw=0, func=0, addr=0x01128
+sdioh_request_byte: rw=0, func=0, addr=0x01129
+sdioh_request_byte: rw=0, func=0, addr=0x0112a
+sdioh_request_byte: rw=0, func=0, addr=0x0112b
+sdioh_request_byte: rw=0, func=0, addr=0x0112c
+sdioh_request_byte: rw=0, func=0, addr=0x0112d
+sdioh_request_byte: rw=0, func=0, addr=0x0112e
+sdioh_request_byte: rw=0, func=0, addr=0x0112f
+sdioh_request_byte: rw=0, func=0, addr=0x01130
+sdioh_request_byte: rw=0, func=0, addr=0x01131
+sdioh_request_byte: rw=0, func=0, addr=0x01132
+sdioh_request_byte: rw=0, func=0, addr=0x01133
+sdioh_request_byte: rw=0, func=0, addr=0x01134
+sdioh_request_byte: rw=0, func=0, addr=0x01135
+sdioh_request_byte: rw=0, func=0, addr=0x01136
+sdioh_request_byte: rw=0, func=0, addr=0x01137
+sdioh_request_byte: rw=0, func=0, addr=0x01138
+sdioh_request_byte: rw=0, func=0, addr=0x01139
+sdioh_request_byte: rw=0, func=0, addr=0x0113a
+sdioh_request_byte: rw=0, func=0, addr=0x0113b
+sdioh_request_byte: rw=0, func=0, addr=0x0113c
+sdioh_request_byte: rw=0, func=0, addr=0x0113d
+sdioh_request_byte: rw=0, func=0, addr=0x0113e
+sdioh_request_byte: rw=0, func=0, addr=0x0113f
+sdioh_request_byte: rw=0, func=0, addr=0x01140
+sdioh_request_byte: rw=0, func=0, addr=0x01141
+sdioh_request_byte: rw=0, func=0, addr=0x01142
+sdioh_request_byte: rw=0, func=0, addr=0x01143
+sdioh_request_byte: rw=0, func=0, addr=0x01144
+sdioh_request_byte: rw=0, func=0, addr=0x01145
+sdioh_request_byte: rw=0, func=0, addr=0x01146
+sdioh_request_byte: rw=0, func=0, addr=0x01147
+sdioh_request_byte: rw=0, func=0, addr=0x01148
+sdioh_request_byte: rw=0, func=0, addr=0x01149
+sdioh_request_byte: rw=0, func=0, addr=0x0114a
+sdioh_request_byte: rw=0, func=0, addr=0x0114b
+sdioh_request_byte: rw=0, func=0, addr=0x0114c
+sdioh_request_byte: rw=0, func=0, addr=0x0114d
+sdioh_request_byte: rw=0, func=0, addr=0x0114e
+sdioh_request_byte: rw=0, func=0, addr=0x0114f
+sdioh_request_byte: rw=0, func=0, addr=0x01150
+sdioh_request_byte: rw=0, func=0, addr=0x01151
+sdioh_request_byte: rw=0, func=0, addr=0x01152
+sdioh_request_byte: rw=0, func=0, addr=0x01153
+sdioh_request_byte: rw=0, func=0, addr=0x01154
+sdioh_request_byte: rw=0, func=0, addr=0x01155
+sdioh_request_byte: rw=0, func=0, addr=0x01156
+sdioh_request_byte: rw=0, func=0, addr=0x01157
+sdioh_request_byte: rw=0, func=0, addr=0x01158
+sdioh_request_byte: rw=0, func=0, addr=0x01159
+sdioh_request_byte: rw=0, func=0, addr=0x0115a
+sdioh_request_byte: rw=0, func=0, addr=0x0115b
+sdioh_request_byte: rw=0, func=0, addr=0x0115c
+sdioh_request_byte: rw=0, func=0, addr=0x0115d
+sdioh_request_byte: rw=0, func=0, addr=0x0115e
+sdioh_request_byte: rw=0, func=0, addr=0x0115f
+sdioh_request_byte: rw=0, func=0, addr=0x01160
+sdioh_request_byte: rw=0, func=0, addr=0x01161
+sdioh_request_byte: rw=0, func=0, addr=0x01162
+sdioh_request_byte: rw=0, func=0, addr=0x01163
+sdioh_request_byte: rw=0, func=0, addr=0x01164
+sdioh_request_byte: rw=0, func=0, addr=0x01165
+sdioh_request_byte: rw=0, func=0, addr=0x01166
+sdioh_request_byte: rw=0, func=0, addr=0x01167
+sdioh_request_byte: rw=0, func=0, addr=0x01168
+sdioh_request_byte: rw=0, func=0, addr=0x01169
+sdioh_request_byte: rw=0, func=0, addr=0x0116a
+sdioh_request_byte: rw=0, func=0, addr=0x0116b
+sdioh_request_byte: rw=0, func=0, addr=0x0116c
+sdioh_request_byte: rw=0, func=0, addr=0x0116d
+sdioh_request_byte: rw=0, func=0, addr=0x0116e
+sdioh_request_byte: rw=0, func=0, addr=0x0116f
+sdioh_request_byte: rw=0, func=0, addr=0x01170
+sdioh_request_byte: rw=0, func=0, addr=0x01171
+sdioh_request_byte: rw=0, func=0, addr=0x01172
+sdioh_request_byte: rw=0, func=0, addr=0x01173
+sdioh_request_byte: rw=0, func=0, addr=0x01174
+sdioh_request_byte: rw=0, func=0, addr=0x01175
+sdioh_request_byte: rw=0, func=0, addr=0x01176
+sdioh_request_byte: rw=0, func=0, addr=0x01177
+sdioh_request_byte: rw=0, func=0, addr=0x01178
+sdioh_request_byte: rw=0, func=0, addr=0x01179
+sdioh_request_byte: rw=0, func=0, addr=0x0117a
+sdioh_request_byte: rw=0, func=0, addr=0x0117b
+sdioh_request_byte: rw=0, func=0, addr=0x0117c
+sdioh_request_byte: rw=0, func=0, addr=0x0117d
+sdioh_request_byte: rw=0, func=0, addr=0x0117e
+sdioh_request_byte: rw=0, func=0, addr=0x0117f
+sdioh_request_byte: rw=0, func=0, addr=0x01180
+sdioh_request_byte: rw=0, func=0, addr=0x01181
+sdioh_request_byte: rw=0, func=0, addr=0x01182
+sdioh_request_byte: rw=0, func=0, addr=0x01183
+sdioh_request_byte: rw=0, func=0, addr=0x01184
+sdioh_request_byte: rw=0, func=0, addr=0x01185
+sdioh_request_byte: rw=0, func=0, addr=0x01186
+sdioh_request_byte: rw=0, func=0, addr=0x01187
+sdioh_request_byte: rw=0, func=0, addr=0x01188
+sdioh_request_byte: rw=0, func=0, addr=0x01189
+sdioh_request_byte: rw=0, func=0, addr=0x0118a
+sdioh_request_byte: rw=0, func=0, addr=0x0118b
+sdioh_request_byte: rw=0, func=0, addr=0x0118c
+sdioh_request_byte: rw=0, func=0, addr=0x0118d
+sdioh_request_byte: rw=0, func=0, addr=0x0118e
+sdioh_request_byte: rw=0, func=0, addr=0x0118f
+sdioh_request_byte: rw=0, func=0, addr=0x01190
+sdioh_request_byte: rw=0, func=0, addr=0x01191
+sdioh_request_byte: rw=0, func=0, addr=0x01192
+sdioh_request_byte: rw=0, func=0, addr=0x01193
+sdioh_request_byte: rw=0, func=0, addr=0x01194
+sdioh_request_byte: rw=0, func=0, addr=0x01195
+sdioh_request_byte: rw=0, func=0, addr=0x01196
+sdioh_request_byte: rw=0, func=0, addr=0x01197
+sdioh_request_byte: rw=0, func=0, addr=0x01198
+sdioh_request_byte: rw=0, func=0, addr=0x01199
+sdioh_request_byte: rw=0, func=0, addr=0x0119a
+sdioh_request_byte: rw=0, func=0, addr=0x0119b
+sdioh_request_byte: rw=0, func=0, addr=0x0119c
+sdioh_request_byte: rw=0, func=0, addr=0x0119d
+sdioh_request_byte: rw=0, func=0, addr=0x0119e
+sdioh_request_byte: rw=0, func=0, addr=0x0119f
+sdioh_request_byte: rw=0, func=0, addr=0x011a0
+sdioh_request_byte: rw=0, func=0, addr=0x011a1
+sdioh_request_byte: rw=0, func=0, addr=0x011a2
+sdioh_request_byte: rw=0, func=0, addr=0x011a3
+sdioh_request_byte: rw=0, func=0, addr=0x011a4
+sdioh_request_byte: rw=0, func=0, addr=0x011a5
+sdioh_request_byte: rw=0, func=0, addr=0x011a6
+sdioh_request_byte: rw=0, func=0, addr=0x011a7
+sdioh_request_byte: rw=0, func=0, addr=0x011a8
+sdioh_request_byte: rw=0, func=0, addr=0x011a9
+sdioh_request_byte: rw=0, func=0, addr=0x011aa
+sdioh_request_byte: rw=0, func=0, addr=0x011ab
+sdioh_request_byte: rw=0, func=0, addr=0x011ac
+sdioh_request_byte: rw=0, func=0, addr=0x011ad
+sdioh_request_byte: rw=0, func=0, addr=0x011ae
+sdioh_request_byte: rw=0, func=0, addr=0x011af
+sdioh_request_byte: rw=0, func=0, addr=0x011b0
+sdioh_request_byte: rw=0, func=0, addr=0x011b1
+sdioh_request_byte: rw=0, func=0, addr=0x011b2
+sdioh_request_byte: rw=0, func=0, addr=0x011b3
+sdioh_request_byte: rw=0, func=0, addr=0x011b4
+sdioh_request_byte: rw=0, func=0, addr=0x011b5
+sdioh_request_byte: rw=0, func=0, addr=0x011b6
+sdioh_request_byte: rw=0, func=0, addr=0x011b7
+sdioh_request_byte: rw=0, func=0, addr=0x011b8
+sdioh_request_byte: rw=0, func=0, addr=0x011b9
+sdioh_request_byte: rw=0, func=0, addr=0x011ba
+sdioh_request_byte: rw=0, func=0, addr=0x011bb
+sdioh_request_byte: rw=0, func=0, addr=0x011bc
+sdioh_request_byte: rw=0, func=0, addr=0x011bd
+sdioh_request_byte: rw=0, func=0, addr=0x011be
+sdioh_request_byte: rw=0, func=0, addr=0x011bf
+sdioh_request_byte: rw=0, func=0, addr=0x011c0
+sdioh_request_byte: rw=0, func=0, addr=0x011c1
+sdioh_request_byte: rw=0, func=0, addr=0x011c2
+sdioh_request_byte: rw=0, func=0, addr=0x011c3
+sdioh_request_byte: rw=0, func=0, addr=0x011c4
+sdioh_request_byte: rw=0, func=0, addr=0x011c5
+sdioh_request_byte: rw=0, func=0, addr=0x011c6
+sdioh_request_byte: rw=0, func=0, addr=0x011c7
+sdioh_request_byte: rw=0, func=0, addr=0x011c8
+sdioh_request_byte: rw=0, func=0, addr=0x011c9
+sdioh_request_byte: rw=0, func=0, addr=0x011ca
+sdioh_request_byte: rw=0, func=0, addr=0x011cb
+sdioh_request_byte: rw=0, func=0, addr=0x011cc
+sdioh_request_byte: rw=0, func=0, addr=0x011cd
+sdioh_request_byte: rw=0, func=0, addr=0x011ce
+sdioh_request_byte: rw=0, func=0, addr=0x011cf
+sdioh_request_byte: rw=0, func=0, addr=0x011d0
+sdioh_request_byte: rw=0, func=0, addr=0x011d1
+sdioh_request_byte: rw=0, func=0, addr=0x011d2
+sdioh_request_byte: rw=0, func=0, addr=0x011d3
+sdioh_request_byte: rw=0, func=0, addr=0x011d4
+sdioh_request_byte: rw=0, func=0, addr=0x011d5
+sdioh_request_byte: rw=0, func=0, addr=0x011d6
+sdioh_request_byte: rw=0, func=0, addr=0x011d7
+sdioh_request_byte: rw=0, func=0, addr=0x011d8
+sdioh_request_byte: rw=0, func=0, addr=0x011d9
+sdioh_request_byte: rw=0, func=0, addr=0x011da
+sdioh_request_byte: rw=0, func=0, addr=0x011db
+sdioh_request_byte: rw=0, func=0, addr=0x011dc
+sdioh_request_byte: rw=0, func=0, addr=0x011dd
+sdioh_request_byte: rw=0, func=0, addr=0x011de
+sdioh_request_byte: rw=0, func=0, addr=0x011df
+sdioh_request_byte: rw=0, func=0, addr=0x011e0
+sdioh_request_byte: rw=0, func=0, addr=0x011e1
+sdioh_request_byte: rw=0, func=0, addr=0x011e2
+sdioh_request_byte: rw=0, func=0, addr=0x011e3
+sdioh_request_byte: rw=0, func=0, addr=0x011e4
+sdioh_request_byte: rw=0, func=0, addr=0x011e5
+sdioh_request_byte: rw=0, func=0, addr=0x011e6
+sdioh_request_byte: rw=0, func=0, addr=0x011e7
+sdioh_request_byte: rw=0, func=0, addr=0x011e8
+sdioh_request_byte: rw=0, func=0, addr=0x011e9
+sdioh_request_byte: rw=0, func=0, addr=0x011ea
+sdioh_request_byte: rw=0, func=0, addr=0x011eb
+sdioh_request_byte: rw=0, func=0, addr=0x011ec
+sdioh_request_byte: rw=0, func=0, addr=0x011ed
+sdioh_request_byte: rw=0, func=0, addr=0x011ee
+sdioh_request_byte: rw=0, func=0, addr=0x011ef
+sdioh_request_byte: rw=0, func=0, addr=0x011f0
+sdioh_request_byte: rw=0, func=0, addr=0x011f1
+sdioh_request_byte: rw=0, func=0, addr=0x011f2
+sdioh_request_byte: rw=0, func=0, addr=0x011f3
+sdioh_request_byte: rw=0, func=0, addr=0x011f4
+sdioh_request_byte: rw=0, func=0, addr=0x011f5
+sdioh_request_byte: rw=0, func=0, addr=0x011f6
+sdioh_request_byte: rw=0, func=0, addr=0x011f7
+sdioh_request_byte: rw=0, func=0, addr=0x011f8
+sdioh_request_byte: rw=0, func=0, addr=0x011f9
+sdioh_request_byte: rw=0, func=0, addr=0x011fa
+sdioh_request_byte: rw=0, func=0, addr=0x011fb
+sdioh_request_byte: rw=0, func=0, addr=0x011fc
+sdioh_request_byte: rw=0, func=0, addr=0x011fd
+sdioh_request_byte: rw=0, func=0, addr=0x011fe
+sdioh_request_byte: rw=0, func=0, addr=0x011ff
+sdioh_request_byte: rw=0, func=0, addr=0x01200
+sdioh_request_byte: rw=0, func=0, addr=0x01201
+sdioh_request_byte: rw=0, func=0, addr=0x01202
+Function 1 CIS:
+    21 02 0c 00 22 2a 01 01 00 00 c5 01 23 00 00 00 
+    00 00 40 00 00 ff ff 80 00 00 00 00 00 00 00 00 
+    00 00 c8 00 00 00 00 00 00 00 00 00 00 00 00 00 
+    ff 
+sdioh_cis_read: Func = 2
+sdioh_cis_read: func_cis_ptr[2]=0x1003
+sdioh_request_byte: rw=0, func=0, addr=0x01003
+sdioh_request_byte: rw=0, func=0, addr=0x01004
+sdioh_request_byte: rw=0, func=0, addr=0x01005
+sdioh_request_byte: rw=0, func=0, addr=0x01006
+sdioh_request_byte: rw=0, func=0, addr=0x01007
+sdioh_request_byte: rw=0, func=0, addr=0x01008
+sdioh_request_byte: rw=0, func=0, addr=0x01009
+sdioh_request_byte: rw=0, func=0, addr=0x0100a
+sdioh_request_byte: rw=0, func=0, addr=0x0100b
+sdioh_request_byte: rw=0, func=0, addr=0x0100c
+sdioh_request_byte: rw=0, func=0, addr=0x0100d
+sdioh_request_byte: rw=0, func=0, addr=0x0100e
+sdioh_request_byte: rw=0, func=0, addr=0x0100f
+sdioh_request_byte: rw=0, func=0, addr=0x01010
+sdioh_request_byte: rw=0, func=0, addr=0x01011
+sdioh_request_byte: rw=0, func=0, addr=0x01012
+sdioh_request_byte: rw=0, func=0, addr=0x01013
+sdioh_request_byte: rw=0, func=0, addr=0x01014
+sdioh_request_byte: rw=0, func=0, addr=0x01015
+sdioh_request_byte: rw=0, func=0, addr=0x01016
+sdioh_request_byte: rw=0, func=0, addr=0x01017
+sdioh_request_byte: rw=0, func=0, addr=0x01018
+sdioh_request_byte: rw=0, func=0, addr=0x01019
+sdioh_request_byte: rw=0, func=0, addr=0x0101a
+sdioh_request_byte: rw=0, func=0, addr=0x0101b
+sdioh_request_byte: rw=0, func=0, addr=0x0101c
+sdioh_request_byte: rw=0, func=0, addr=0x0101d
+sdioh_request_byte: rw=0, func=0, addr=0x0101e
+sdioh_request_byte: rw=0, func=0, addr=0x0101f
+sdioh_request_byte: rw=0, func=0, addr=0x01020
+sdioh_request_byte: rw=0, func=0, addr=0x01021
+sdioh_request_byte: rw=0, func=0, addr=0x01022
+sdioh_request_byte: rw=0, func=0, addr=0x01023
+sdioh_request_byte: rw=0, func=0, addr=0x01024
+sdioh_request_byte: rw=0, func=0, addr=0x01025
+sdioh_request_byte: rw=0, func=0, addr=0x01026
+sdioh_request_byte: rw=0, func=0, addr=0x01027
+sdioh_request_byte: rw=0, func=0, addr=0x01028
+sdioh_request_byte: rw=0, func=0, addr=0x01029
+sdioh_request_byte: rw=0, func=0, addr=0x0102a
+sdioh_request_byte: rw=0, func=0, addr=0x0102b
+sdioh_request_byte: rw=0, func=0, addr=0x0102c
+sdioh_request_byte: rw=0, func=0, addr=0x0102d
+sdioh_request_byte: rw=0, func=0, addr=0x0102e
+sdioh_request_byte: rw=0, func=0, addr=0x0102f
+sdioh_request_byte: rw=0, func=0, addr=0x01030
+sdioh_request_byte: rw=0, func=0, addr=0x01031
+sdioh_request_byte: rw=0, func=0, addr=0x01032
+sdioh_request_byte: rw=0, func=0, addr=0x01033
+sdioh_request_byte: rw=0, func=0, addr=0x01034
+sdioh_request_byte: rw=0, func=0, addr=0x01035
+sdioh_request_byte: rw=0, func=0, addr=0x01036
+sdioh_request_byte: rw=0, func=0, addr=0x01037
+sdioh_request_byte: rw=0, func=0, addr=0x01038
+sdioh_request_byte: rw=0, func=0, addr=0x01039
+sdioh_request_byte: rw=0, func=0, addr=0x0103a
+sdioh_request_byte: rw=0, func=0, addr=0x0103b
+sdioh_request_byte: rw=0, func=0, addr=0x0103c
+sdioh_request_byte: rw=0, func=0, addr=0x0103d
+sdioh_request_byte: rw=0, func=0, addr=0x0103e
+sdioh_request_byte: rw=0, func=0, addr=0x0103f
+sdioh_request_byte: rw=0, func=0, addr=0x01040
+sdioh_request_byte: rw=0, func=0, addr=0x01041
+sdioh_request_byte: rw=0, func=0, addr=0x01042
+sdioh_request_byte: rw=0, func=0, addr=0x01043
+sdioh_request_byte: rw=0, func=0, addr=0x01044
+sdioh_request_byte: rw=0, func=0, addr=0x01045
+sdioh_request_byte: rw=0, func=0, addr=0x01046
+sdioh_request_byte: rw=0, func=0, addr=0x01047
+sdioh_request_byte: rw=0, func=0, addr=0x01048
+sdioh_request_byte: rw=0, func=0, addr=0x01049
+sdioh_request_byte: rw=0, func=0, addr=0x0104a
+sdioh_request_byte: rw=0, func=0, addr=0x0104b
+sdioh_request_byte: rw=0, func=0, addr=0x0104c
+sdioh_request_byte: rw=0, func=0, addr=0x0104d
+sdioh_request_byte: rw=0, func=0, addr=0x0104e
+sdioh_request_byte: rw=0, func=0, addr=0x0104f
+sdioh_request_byte: rw=0, func=0, addr=0x01050
+sdioh_request_byte: rw=0, func=0, addr=0x01051
+sdioh_request_byte: rw=0, func=0, addr=0x01052
+sdioh_request_byte: rw=0, func=0, addr=0x01053
+sdioh_request_byte: rw=0, func=0, addr=0x01054
+sdioh_request_byte: rw=0, func=0, addr=0x01055
+sdioh_request_byte: rw=0, func=0, addr=0x01056
+sdioh_request_byte: rw=0, func=0, addr=0x01057
+sdioh_request_byte: rw=0, func=0, addr=0x01058
+sdioh_request_byte: rw=0, func=0, addr=0x01059
+sdioh_request_byte: rw=0, func=0, addr=0x0105a
+sdioh_request_byte: rw=0, func=0, addr=0x0105b
+sdioh_request_byte: rw=0, func=0, addr=0x0105c
+sdioh_request_byte: rw=0, func=0, addr=0x0105d
+sdioh_request_byte: rw=0, func=0, addr=0x0105e
+sdioh_request_byte: rw=0, func=0, addr=0x0105f
+sdioh_request_byte: rw=0, func=0, addr=0x01060
+sdioh_request_byte: rw=0, func=0, addr=0x01061
+sdioh_request_byte: rw=0, func=0, addr=0x01062
+sdioh_request_byte: rw=0, func=0, addr=0x01063
+sdioh_request_byte: rw=0, func=0, addr=0x01064
+sdioh_request_byte: rw=0, func=0, addr=0x01065
+sdioh_request_byte: rw=0, func=0, addr=0x01066
+sdioh_request_byte: rw=0, func=0, addr=0x01067
+sdioh_request_byte: rw=0, func=0, addr=0x01068
+sdioh_request_byte: rw=0, func=0, addr=0x01069
+sdioh_request_byte: rw=0, func=0, addr=0x0106a
+sdioh_request_byte: rw=0, func=0, addr=0x0106b
+sdioh_request_byte: rw=0, func=0, addr=0x0106c
+sdioh_request_byte: rw=0, func=0, addr=0x0106d
+sdioh_request_byte: rw=0, func=0, addr=0x0106e
+sdioh_request_byte: rw=0, func=0, addr=0x0106f
+sdioh_request_byte: rw=0, func=0, addr=0x01070
+sdioh_request_byte: rw=0, func=0, addr=0x01071
+sdioh_request_byte: rw=0, func=0, addr=0x01072
+sdioh_request_byte: rw=0, func=0, addr=0x01073
+sdioh_request_byte: rw=0, func=0, addr=0x01074
+sdioh_request_byte: rw=0, func=0, addr=0x01075
+sdioh_request_byte: rw=0, func=0, addr=0x01076
+sdioh_request_byte: rw=0, func=0, addr=0x01077
+sdioh_request_byte: rw=0, func=0, addr=0x01078
+sdioh_request_byte: rw=0, func=0, addr=0x01079
+sdioh_request_byte: rw=0, func=0, addr=0x0107a
+sdioh_request_byte: rw=0, func=0, addr=0x0107b
+sdioh_request_byte: rw=0, func=0, addr=0x0107c
+sdioh_request_byte: rw=0, func=0, addr=0x0107d
+sdioh_request_byte: rw=0, func=0, addr=0x0107e
+sdioh_request_byte: rw=0, func=0, addr=0x0107f
+sdioh_request_byte: rw=0, func=0, addr=0x01080
+sdioh_request_byte: rw=0, func=0, addr=0x01081
+sdioh_request_byte: rw=0, func=0, addr=0x01082
+sdioh_request_byte: rw=0, func=0, addr=0x01083
+sdioh_request_byte: rw=0, func=0, addr=0x01084
+sdioh_request_byte: rw=0, func=0, addr=0x01085
+sdioh_request_byte: rw=0, func=0, addr=0x01086
+sdioh_request_byte: rw=0, func=0, addr=0x01087
+sdioh_request_byte: rw=0, func=0, addr=0x01088
+sdioh_request_byte: rw=0, func=0, addr=0x01089
+sdioh_request_byte: rw=0, func=0, addr=0x0108a
+sdioh_request_byte: rw=0, func=0, addr=0x0108b
+sdioh_request_byte: rw=0, func=0, addr=0x0108c
+sdioh_request_byte: rw=0, func=0, addr=0x0108d
+sdioh_request_byte: rw=0, func=0, addr=0x0108e
+sdioh_request_byte: rw=0, func=0, addr=0x0108f
+sdioh_request_byte: rw=0, func=0, addr=0x01090
+sdioh_request_byte: rw=0, func=0, addr=0x01091
+sdioh_request_byte: rw=0, func=0, addr=0x01092
+sdioh_request_byte: rw=0, func=0, addr=0x01093
+sdioh_request_byte: rw=0, func=0, addr=0x01094
+sdioh_request_byte: rw=0, func=0, addr=0x01095
+sdioh_request_byte: rw=0, func=0, addr=0x01096
+sdioh_request_byte: rw=0, func=0, addr=0x01097
+sdioh_request_byte: rw=0, func=0, addr=0x01098
+sdioh_request_byte: rw=0, func=0, addr=0x01099
+sdioh_request_byte: rw=0, func=0, addr=0x0109a
+sdioh_request_byte: rw=0, func=0, addr=0x0109b
+sdioh_request_byte: rw=0, func=0, addr=0x0109c
+sdioh_request_byte: rw=0, func=0, addr=0x0109d
+sdioh_request_byte: rw=0, func=0, addr=0x0109e
+sdioh_request_byte: rw=0, func=0, addr=0x0109f
+sdioh_request_byte: rw=0, func=0, addr=0x010a0
+sdioh_request_byte: rw=0, func=0, addr=0x010a1
+sdioh_request_byte: rw=0, func=0, addr=0x010a2
+sdioh_request_byte: rw=0, func=0, addr=0x010a3
+sdioh_request_byte: rw=0, func=0, addr=0x010a4
+sdioh_request_byte: rw=0, func=0, addr=0x010a5
+sdioh_request_byte: rw=0, func=0, addr=0x010a6
+sdioh_request_byte: rw=0, func=0, addr=0x010a7
+sdioh_request_byte: rw=0, func=0, addr=0x010a8
+sdioh_request_byte: rw=0, func=0, addr=0x010a9
+sdioh_request_byte: rw=0, func=0, addr=0x010aa
+sdioh_request_byte: rw=0, func=0, addr=0x010ab
+sdioh_request_byte: rw=0, func=0, addr=0x010ac
+sdioh_request_byte: rw=0, func=0, addr=0x010ad
+sdioh_request_byte: rw=0, func=0, addr=0x010ae
+sdioh_request_byte: rw=0, func=0, addr=0x010af
+sdioh_request_byte: rw=0, func=0, addr=0x010b0
+sdioh_request_byte: rw=0, func=0, addr=0x010b1
+sdioh_request_byte: rw=0, func=0, addr=0x010b2
+sdioh_request_byte: rw=0, func=0, addr=0x010b3
+sdioh_request_byte: rw=0, func=0, addr=0x010b4
+sdioh_request_byte: rw=0, func=0, addr=0x010b5
+sdioh_request_byte: rw=0, func=0, addr=0x010b6
+sdioh_request_byte: rw=0, func=0, addr=0x010b7
+sdioh_request_byte: rw=0, func=0, addr=0x010b8
+sdioh_request_byte: rw=0, func=0, addr=0x010b9
+sdioh_request_byte: rw=0, func=0, addr=0x010ba
+sdioh_request_byte: rw=0, func=0, addr=0x010bb
+sdioh_request_byte: rw=0, func=0, addr=0x010bc
+sdioh_request_byte: rw=0, func=0, addr=0x010bd
+sdioh_request_byte: rw=0, func=0, addr=0x010be
+sdioh_request_byte: rw=0, func=0, addr=0x010bf
+sdioh_request_byte: rw=0, func=0, addr=0x010c0
+sdioh_request_byte: rw=0, func=0, addr=0x010c1
+sdioh_request_byte: rw=0, func=0, addr=0x010c2
+sdioh_request_byte: rw=0, func=0, addr=0x010c3
+sdioh_request_byte: rw=0, func=0, addr=0x010c4
+sdioh_request_byte: rw=0, func=0, addr=0x010c5
+sdioh_request_byte: rw=0, func=0, addr=0x010c6
+sdioh_request_byte: rw=0, func=0, addr=0x010c7
+sdioh_request_byte: rw=0, func=0, addr=0x010c8
+sdioh_request_byte: rw=0, func=0, addr=0x010c9
+sdioh_request_byte: rw=0, func=0, addr=0x010ca
+sdioh_request_byte: rw=0, func=0, addr=0x010cb
+sdioh_request_byte: rw=0, func=0, addr=0x010cc
+sdioh_request_byte: rw=0, func=0, addr=0x010cd
+sdioh_request_byte: rw=0, func=0, addr=0x010ce
+sdioh_request_byte: rw=0, func=0, addr=0x010cf
+sdioh_request_byte: rw=0, func=0, addr=0x010d0
+sdioh_request_byte: rw=0, func=0, addr=0x010d1
+sdioh_request_byte: rw=0, func=0, addr=0x010d2
+sdioh_request_byte: rw=0, func=0, addr=0x010d3
+sdioh_request_byte: rw=0, func=0, addr=0x010d4
+sdioh_request_byte: rw=0, func=0, addr=0x010d5
+sdioh_request_byte: rw=0, func=0, addr=0x010d6
+sdioh_request_byte: rw=0, func=0, addr=0x010d7
+sdioh_request_byte: rw=0, func=0, addr=0x010d8
+sdioh_request_byte: rw=0, func=0, addr=0x010d9
+sdioh_request_byte: rw=0, func=0, addr=0x010da
+sdioh_request_byte: rw=0, func=0, addr=0x010db
+sdioh_request_byte: rw=0, func=0, addr=0x010dc
+sdioh_request_byte: rw=0, func=0, addr=0x010dd
+sdioh_request_byte: rw=0, func=0, addr=0x010de
+sdioh_request_byte: rw=0, func=0, addr=0x010df
+sdioh_request_byte: rw=0, func=0, addr=0x010e0
+sdioh_request_byte: rw=0, func=0, addr=0x010e1
+sdioh_request_byte: rw=0, func=0, addr=0x010e2
+sdioh_request_byte: rw=0, func=0, addr=0x010e3
+sdioh_request_byte: rw=0, func=0, addr=0x010e4
+sdioh_request_byte: rw=0, func=0, addr=0x010e5
+sdioh_request_byte: rw=0, func=0, addr=0x010e6
+sdioh_request_byte: rw=0, func=0, addr=0x010e7
+sdioh_request_byte: rw=0, func=0, addr=0x010e8
+sdioh_request_byte: rw=0, func=0, addr=0x010e9
+sdioh_request_byte: rw=0, func=0, addr=0x010ea
+sdioh_request_byte: rw=0, func=0, addr=0x010eb
+sdioh_request_byte: rw=0, func=0, addr=0x010ec
+sdioh_request_byte: rw=0, func=0, addr=0x010ed
+sdioh_request_byte: rw=0, func=0, addr=0x010ee
+sdioh_request_byte: rw=0, func=0, addr=0x010ef
+sdioh_request_byte: rw=0, func=0, addr=0x010f0
+sdioh_request_byte: rw=0, func=0, addr=0x010f1
+sdioh_request_byte: rw=0, func=0, addr=0x010f2
+sdioh_request_byte: rw=0, func=0, addr=0x010f3
+sdioh_request_byte: rw=0, func=0, addr=0x010f4
+sdioh_request_byte: rw=0, func=0, addr=0x010f5
+sdioh_request_byte: rw=0, func=0, addr=0x010f6
+sdioh_request_byte: rw=0, func=0, addr=0x010f7
+sdioh_request_byte: rw=0, func=0, addr=0x010f8
+sdioh_request_byte: rw=0, func=0, addr=0x010f9
+sdioh_request_byte: rw=0, func=0, addr=0x010fa
+sdioh_request_byte: rw=0, func=0, addr=0x010fb
+sdioh_request_byte: rw=0, func=0, addr=0x010fc
+sdioh_request_byte: rw=0, func=0, addr=0x010fd
+sdioh_request_byte: rw=0, func=0, addr=0x010fe
+sdioh_request_byte: rw=0, func=0, addr=0x010ff
+sdioh_request_byte: rw=0, func=0, addr=0x01100
+sdioh_request_byte: rw=0, func=0, addr=0x01101
+sdioh_request_byte: rw=0, func=0, addr=0x01102
+sdioh_request_byte: rw=0, func=0, addr=0x01103
+sdioh_request_byte: rw=0, func=0, addr=0x01104
+sdioh_request_byte: rw=0, func=0, addr=0x01105
+sdioh_request_byte: rw=0, func=0, addr=0x01106
+sdioh_request_byte: rw=0, func=0, addr=0x01107
+sdioh_request_byte: rw=0, func=0, addr=0x01108
+sdioh_request_byte: rw=0, func=0, addr=0x01109
+sdioh_request_byte: rw=0, func=0, addr=0x0110a
+sdioh_request_byte: rw=0, func=0, addr=0x0110b
+sdioh_request_byte: rw=0, func=0, addr=0x0110c
+sdioh_request_byte: rw=0, func=0, addr=0x0110d
+sdioh_request_byte: rw=0, func=0, addr=0x0110e
+sdioh_request_byte: rw=0, func=0, addr=0x0110f
+sdioh_request_byte: rw=0, func=0, addr=0x01110
+sdioh_request_byte: rw=0, func=0, addr=0x01111
+sdioh_request_byte: rw=0, func=0, addr=0x01112
+sdioh_request_byte: rw=0, func=0, addr=0x01113
+sdioh_request_byte: rw=0, func=0, addr=0x01114
+sdioh_request_byte: rw=0, func=0, addr=0x01115
+sdioh_request_byte: rw=0, func=0, addr=0x01116
+sdioh_request_byte: rw=0, func=0, addr=0x01117
+sdioh_request_byte: rw=0, func=0, addr=0x01118
+sdioh_request_byte: rw=0, func=0, addr=0x01119
+sdioh_request_byte: rw=0, func=0, addr=0x0111a
+sdioh_request_byte: rw=0, func=0, addr=0x0111b
+sdioh_request_byte: rw=0, func=0, addr=0x0111c
+sdioh_request_byte: rw=0, func=0, addr=0x0111d
+sdioh_request_byte: rw=0, func=0, addr=0x0111e
+sdioh_request_byte: rw=0, func=0, addr=0x0111f
+sdioh_request_byte: rw=0, func=0, addr=0x01120
+sdioh_request_byte: rw=0, func=0, addr=0x01121
+sdioh_request_byte: rw=0, func=0, addr=0x01122
+sdioh_request_byte: rw=0, func=0, addr=0x01123
+sdioh_request_byte: rw=0, func=0, addr=0x01124
+sdioh_request_byte: rw=0, func=0, addr=0x01125
+sdioh_request_byte: rw=0, func=0, addr=0x01126
+sdioh_request_byte: rw=0, func=0, addr=0x01127
+sdioh_request_byte: rw=0, func=0, addr=0x01128
+sdioh_request_byte: rw=0, func=0, addr=0x01129
+sdioh_request_byte: rw=0, func=0, addr=0x0112a
+sdioh_request_byte: rw=0, func=0, addr=0x0112b
+sdioh_request_byte: rw=0, func=0, addr=0x0112c
+sdioh_request_byte: rw=0, func=0, addr=0x0112d
+sdioh_request_byte: rw=0, func=0, addr=0x0112e
+sdioh_request_byte: rw=0, func=0, addr=0x0112f
+sdioh_request_byte: rw=0, func=0, addr=0x01130
+sdioh_request_byte: rw=0, func=0, addr=0x01131
+sdioh_request_byte: rw=0, func=0, addr=0x01132
+sdioh_request_byte: rw=0, func=0, addr=0x01133
+sdioh_request_byte: rw=0, func=0, addr=0x01134
+sdioh_request_byte: rw=0, func=0, addr=0x01135
+sdioh_request_byte: rw=0, func=0, addr=0x01136
+sdioh_request_byte: rw=0, func=0, addr=0x01137
+sdioh_request_byte: rw=0, func=0, addr=0x01138
+sdioh_request_byte: rw=0, func=0, addr=0x01139
+sdioh_request_byte: rw=0, func=0, addr=0x0113a
+sdioh_request_byte: rw=0, func=0, addr=0x0113b
+sdioh_request_byte: rw=0, func=0, addr=0x0113c
+sdioh_request_byte: rw=0, func=0, addr=0x0113d
+sdioh_request_byte: rw=0, func=0, addr=0x0113e
+sdioh_request_byte: rw=0, func=0, addr=0x0113f
+sdioh_request_byte: rw=0, func=0, addr=0x01140
+sdioh_request_byte: rw=0, func=0, addr=0x01141
+sdioh_request_byte: rw=0, func=0, addr=0x01142
+sdioh_request_byte: rw=0, func=0, addr=0x01143
+sdioh_request_byte: rw=0, func=0, addr=0x01144
+sdioh_request_byte: rw=0, func=0, addr=0x01145
+sdioh_request_byte: rw=0, func=0, addr=0x01146
+sdioh_request_byte: rw=0, func=0, addr=0x01147
+sdioh_request_byte: rw=0, func=0, addr=0x01148
+sdioh_request_byte: rw=0, func=0, addr=0x01149
+sdioh_request_byte: rw=0, func=0, addr=0x0114a
+sdioh_request_byte: rw=0, func=0, addr=0x0114b
+sdioh_request_byte: rw=0, func=0, addr=0x0114c
+sdioh_request_byte: rw=0, func=0, addr=0x0114d
+sdioh_request_byte: rw=0, func=0, addr=0x0114e
+sdioh_request_byte: rw=0, func=0, addr=0x0114f
+sdioh_request_byte: rw=0, func=0, addr=0x01150
+sdioh_request_byte: rw=0, func=0, addr=0x01151
+sdioh_request_byte: rw=0, func=0, addr=0x01152
+sdioh_request_byte: rw=0, func=0, addr=0x01153
+sdioh_request_byte: rw=0, func=0, addr=0x01154
+sdioh_request_byte: rw=0, func=0, addr=0x01155
+sdioh_request_byte: rw=0, func=0, addr=0x01156
+sdioh_request_byte: rw=0, func=0, addr=0x01157
+sdioh_request_byte: rw=0, func=0, addr=0x01158
+sdioh_request_byte: rw=0, func=0, addr=0x01159
+sdioh_request_byte: rw=0, func=0, addr=0x0115a
+sdioh_request_byte: rw=0, func=0, addr=0x0115b
+sdioh_request_byte: rw=0, func=0, addr=0x0115c
+sdioh_request_byte: rw=0, func=0, addr=0x0115d
+sdioh_request_byte: rw=0, func=0, addr=0x0115e
+sdioh_request_byte: rw=0, func=0, addr=0x0115f
+sdioh_request_byte: rw=0, func=0, addr=0x01160
+sdioh_request_byte: rw=0, func=0, addr=0x01161
+sdioh_request_byte: rw=0, func=0, addr=0x01162
+sdioh_request_byte: rw=0, func=0, addr=0x01163
+sdioh_request_byte: rw=0, func=0, addr=0x01164
+sdioh_request_byte: rw=0, func=0, addr=0x01165
+sdioh_request_byte: rw=0, func=0, addr=0x01166
+sdioh_request_byte: rw=0, func=0, addr=0x01167
+sdioh_request_byte: rw=0, func=0, addr=0x01168
+sdioh_request_byte: rw=0, func=0, addr=0x01169
+sdioh_request_byte: rw=0, func=0, addr=0x0116a
+sdioh_request_byte: rw=0, func=0, addr=0x0116b
+sdioh_request_byte: rw=0, func=0, addr=0x0116c
+sdioh_request_byte: rw=0, func=0, addr=0x0116d
+sdioh_request_byte: rw=0, func=0, addr=0x0116e
+sdioh_request_byte: rw=0, func=0, addr=0x0116f
+sdioh_request_byte: rw=0, func=0, addr=0x01170
+sdioh_request_byte: rw=0, func=0, addr=0x01171
+sdioh_request_byte: rw=0, func=0, addr=0x01172
+sdioh_request_byte: rw=0, func=0, addr=0x01173
+sdioh_request_byte: rw=0, func=0, addr=0x01174
+sdioh_request_byte: rw=0, func=0, addr=0x01175
+sdioh_request_byte: rw=0, func=0, addr=0x01176
+sdioh_request_byte: rw=0, func=0, addr=0x01177
+sdioh_request_byte: rw=0, func=0, addr=0x01178
+sdioh_request_byte: rw=0, func=0, addr=0x01179
+sdioh_request_byte: rw=0, func=0, addr=0x0117a
+sdioh_request_byte: rw=0, func=0, addr=0x0117b
+sdioh_request_byte: rw=0, func=0, addr=0x0117c
+sdioh_request_byte: rw=0, func=0, addr=0x0117d
+sdioh_request_byte: rw=0, func=0, addr=0x0117e
+sdioh_request_byte: rw=0, func=0, addr=0x0117f
+sdioh_request_byte: rw=0, func=0, addr=0x01180
+sdioh_request_byte: rw=0, func=0, addr=0x01181
+sdioh_request_byte: rw=0, func=0, addr=0x01182
+sdioh_request_byte: rw=0, func=0, addr=0x01183
+sdioh_request_byte: rw=0, func=0, addr=0x01184
+sdioh_request_byte: rw=0, func=0, addr=0x01185
+sdioh_request_byte: rw=0, func=0, addr=0x01186
+sdioh_request_byte: rw=0, func=0, addr=0x01187
+sdioh_request_byte: rw=0, func=0, addr=0x01188
+sdioh_request_byte: rw=0, func=0, addr=0x01189
+sdioh_request_byte: rw=0, func=0, addr=0x0118a
+sdioh_request_byte: rw=0, func=0, addr=0x0118b
+sdioh_request_byte: rw=0, func=0, addr=0x0118c
+sdioh_request_byte: rw=0, func=0, addr=0x0118d
+sdioh_request_byte: rw=0, func=0, addr=0x0118e
+sdioh_request_byte: rw=0, func=0, addr=0x0118f
+sdioh_request_byte: rw=0, func=0, addr=0x01190
+sdioh_request_byte: rw=0, func=0, addr=0x01191
+sdioh_request_byte: rw=0, func=0, addr=0x01192
+sdioh_request_byte: rw=0, func=0, addr=0x01193
+sdioh_request_byte: rw=0, func=0, addr=0x01194
+sdioh_request_byte: rw=0, func=0, addr=0x01195
+sdioh_request_byte: rw=0, func=0, addr=0x01196
+sdioh_request_byte: rw=0, func=0, addr=0x01197
+sdioh_request_byte: rw=0, func=0, addr=0x01198
+sdioh_request_byte: rw=0, func=0, addr=0x01199
+sdioh_request_byte: rw=0, func=0, addr=0x0119a
+sdioh_request_byte: rw=0, func=0, addr=0x0119b
+sdioh_request_byte: rw=0, func=0, addr=0x0119c
+sdioh_request_byte: rw=0, func=0, addr=0x0119d
+sdioh_request_byte: rw=0, func=0, addr=0x0119e
+sdioh_request_byte: rw=0, func=0, addr=0x0119f
+sdioh_request_byte: rw=0, func=0, addr=0x011a0
+sdioh_request_byte: rw=0, func=0, addr=0x011a1
+sdioh_request_byte: rw=0, func=0, addr=0x011a2
+sdioh_request_byte: rw=0, func=0, addr=0x011a3
+sdioh_request_byte: rw=0, func=0, addr=0x011a4
+sdioh_request_byte: rw=0, func=0, addr=0x011a5
+sdioh_request_byte: rw=0, func=0, addr=0x011a6
+sdioh_request_byte: rw=0, func=0, addr=0x011a7
+sdioh_request_byte: rw=0, func=0, addr=0x011a8
+sdioh_request_byte: rw=0, func=0, addr=0x011a9
+sdioh_request_byte: rw=0, func=0, addr=0x011aa
+sdioh_request_byte: rw=0, func=0, addr=0x011ab
+sdioh_request_byte: rw=0, func=0, addr=0x011ac
+sdioh_request_byte: rw=0, func=0, addr=0x011ad
+sdioh_request_byte: rw=0, func=0, addr=0x011ae
+sdioh_request_byte: rw=0, func=0, addr=0x011af
+sdioh_request_byte: rw=0, func=0, addr=0x011b0
+sdioh_request_byte: rw=0, func=0, addr=0x011b1
+sdioh_request_byte: rw=0, func=0, addr=0x011b2
+sdioh_request_byte: rw=0, func=0, addr=0x011b3
+sdioh_request_byte: rw=0, func=0, addr=0x011b4
+sdioh_request_byte: rw=0, func=0, addr=0x011b5
+sdioh_request_byte: rw=0, func=0, addr=0x011b6
+sdioh_request_byte: rw=0, func=0, addr=0x011b7
+sdioh_request_byte: rw=0, func=0, addr=0x011b8
+sdioh_request_byte: rw=0, func=0, addr=0x011b9
+sdioh_request_byte: rw=0, func=0, addr=0x011ba
+sdioh_request_byte: rw=0, func=0, addr=0x011bb
+sdioh_request_byte: rw=0, func=0, addr=0x011bc
+sdioh_request_byte: rw=0, func=0, addr=0x011bd
+sdioh_request_byte: rw=0, func=0, addr=0x011be
+sdioh_request_byte: rw=0, func=0, addr=0x011bf
+sdioh_request_byte: rw=0, func=0, addr=0x011c0
+sdioh_request_byte: rw=0, func=0, addr=0x011c1
+sdioh_request_byte: rw=0, func=0, addr=0x011c2
+sdioh_request_byte: rw=0, func=0, addr=0x011c3
+sdioh_request_byte: rw=0, func=0, addr=0x011c4
+sdioh_request_byte: rw=0, func=0, addr=0x011c5
+sdioh_request_byte: rw=0, func=0, addr=0x011c6
+sdioh_request_byte: rw=0, func=0, addr=0x011c7
+sdioh_request_byte: rw=0, func=0, addr=0x011c8
+sdioh_request_byte: rw=0, func=0, addr=0x011c9
+sdioh_request_byte: rw=0, func=0, addr=0x011ca
+sdioh_request_byte: rw=0, func=0, addr=0x011cb
+sdioh_request_byte: rw=0, func=0, addr=0x011cc
+sdioh_request_byte: rw=0, func=0, addr=0x011cd
+sdioh_request_byte: rw=0, func=0, addr=0x011ce
+sdioh_request_byte: rw=0, func=0, addr=0x011cf
+sdioh_request_byte: rw=0, func=0, addr=0x011d0
+sdioh_request_byte: rw=0, func=0, addr=0x011d1
+sdioh_request_byte: rw=0, func=0, addr=0x011d2
+sdioh_request_byte: rw=0, func=0, addr=0x011d3
+sdioh_request_byte: rw=0, func=0, addr=0x011d4
+sdioh_request_byte: rw=0, func=0, addr=0x011d5
+sdioh_request_byte: rw=0, func=0, addr=0x011d6
+sdioh_request_byte: rw=0, func=0, addr=0x011d7
+sdioh_request_byte: rw=0, func=0, addr=0x011d8
+sdioh_request_byte: rw=0, func=0, addr=0x011d9
+sdioh_request_byte: rw=0, func=0, addr=0x011da
+sdioh_request_byte: rw=0, func=0, addr=0x011db
+sdioh_request_byte: rw=0, func=0, addr=0x011dc
+sdioh_request_byte: rw=0, func=0, addr=0x011dd
+sdioh_request_byte: rw=0, func=0, addr=0x011de
+sdioh_request_byte: rw=0, func=0, addr=0x011df
+sdioh_request_byte: rw=0, func=0, addr=0x011e0
+sdioh_request_byte: rw=0, func=0, addr=0x011e1
+sdioh_request_byte: rw=0, func=0, addr=0x011e2
+sdioh_request_byte: rw=0, func=0, addr=0x011e3
+sdioh_request_byte: rw=0, func=0, addr=0x011e4
+sdioh_request_byte: rw=0, func=0, addr=0x011e5
+sdioh_request_byte: rw=0, func=0, addr=0x011e6
+sdioh_request_byte: rw=0, func=0, addr=0x011e7
+sdioh_request_byte: rw=0, func=0, addr=0x011e8
+sdioh_request_byte: rw=0, func=0, addr=0x011e9
+sdioh_request_byte: rw=0, func=0, addr=0x011ea
+sdioh_request_byte: rw=0, func=0, addr=0x011eb
+sdioh_request_byte: rw=0, func=0, addr=0x011ec
+sdioh_request_byte: rw=0, func=0, addr=0x011ed
+sdioh_request_byte: rw=0, func=0, addr=0x011ee
+sdioh_request_byte: rw=0, func=0, addr=0x011ef
+sdioh_request_byte: rw=0, func=0, addr=0x011f0
+sdioh_request_byte: rw=0, func=0, addr=0x011f1
+sdioh_request_byte: rw=0, func=0, addr=0x011f2
+sdioh_request_byte: rw=0, func=0, addr=0x011f3
+sdioh_request_byte: rw=0, func=0, addr=0x011f4
+sdioh_request_byte: rw=0, func=0, addr=0x011f5
+sdioh_request_byte: rw=0, func=0, addr=0x011f6
+sdioh_request_byte: rw=0, func=0, addr=0x011f7
+sdioh_request_byte: rw=0, func=0, addr=0x011f8
+sdioh_request_byte: rw=0, func=0, addr=0x011f9
+sdioh_request_byte: rw=0, func=0, addr=0x011fa
+sdioh_request_byte: rw=0, func=0, addr=0x011fb
+sdioh_request_byte: rw=0, func=0, addr=0x011fc
+sdioh_request_byte: rw=0, func=0, addr=0x011fd
+sdioh_request_byte: rw=0, func=0, addr=0x011fe
+sdioh_request_byte: rw=0, func=0, addr=0x011ff
+sdioh_request_byte: rw=0, func=0, addr=0x01200
+sdioh_request_byte: rw=0, func=0, addr=0x01201
+sdioh_request_byte: rw=0, func=0, addr=0x01202
+Function 2 CIS:
+    21 02 0c 00 22 2a 01 01 00 00 c5 01 23 00 00 00 
+    00 00 40 00 00 ff ff 80 00 00 00 00 00 00 00 00 
+    00 00 c8 00 00 00 00 00 00 00 00 00 00 00 00 00 
+    ff 
+sdioh_request_byte: rw=1, func=1, addr=0x1000e
+sdioh_request_byte: rw=0, func=1, addr=0x1000e
+sdioh_request_byte: rw=0, func=1, addr=0x1000e
+sdioh_request_byte: rw=1, func=1, addr=0x1000e
+sdioh_request_byte: rw=1, func=1, addr=0x1000f
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x08000, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x08ff8, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x08ffc, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x08ffc, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x08000, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x09ffc, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0affc, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bffc, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0cffc, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0cf70, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0cf9c, nbytes=4
+sdioh_request_byte: rw=1, func=1, addr=0x1000a
+sdioh_request_byte: rw=1, func=1, addr=0x1000b
+sdioh_request_byte: rw=1, func=1, addr=0x1000c
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x08ffc, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x08f70, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x09ffc, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0affc, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bffc, nbytes=4
+sdioh_request_byte: rw=1, func=1, addr=0x1000a
+sdioh_request_byte: rw=1, func=1, addr=0x1000b
+sdioh_request_byte: rw=1, func=1, addr=0x1000c
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x08ffc, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0802c, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x08004, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x08604, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x08ffc, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x09ffc, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0affc, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bffc, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0cffc, nbytes=4
+sdioh_request_byte: rw=1, func=1, addr=0x1000a
+sdioh_request_byte: rw=1, func=1, addr=0x1000b
+sdioh_request_byte: rw=1, func=1, addr=0x1000c
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x08ffc, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x09ffc, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0affc, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bffc, nbytes=4
+sdioh_request_byte: rw=1, func=1, addr=0x1000a
+sdioh_request_byte: rw=1, func=1, addr=0x1000b
+sdioh_request_byte: rw=1, func=1, addr=0x1000c
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0af98, nbytes=4
+sdioh_request_word: cmd_type=0, rw=1, func=1, addr=0x08058, nbytes=4
+bcmsdh_sdmmc: Failed to Write word, Err: 0xffffffac
+sdioh_request_word: cmd_type=0, rw=1, func=1, addr=0x0805c, nbytes=4
+bcmsdh_sdmmc: Failed to Write word, Err: 0xffffffac
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0affc, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bf98, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bf98, nbytes=4
+sdioh_request_word: cmd_type=0, rw=1, func=1, addr=0x0bf98, nbytes=4
+bcmsdh_sdmmc: Failed to Write word, Err: 0xffffffac
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bf98, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bf9c, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bf90, nbytes=4
+sdioh_request_word: cmd_type=0, rw=1, func=1, addr=0x0bf98, nbytes=4
+bcmsdh_sdmmc: Failed to Write word, Err: 0xffffffac
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bf98, nbytes=4
+sdioh_request_word: cmd_type=0, rw=1, func=1, addr=0x0bf98, nbytes=4
+bcmsdh_sdmmc: Failed to Write word, Err: 0xffffffac
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bf98, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bffc, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0b000, nbytes=4
+bcmsdh_sdmmc: Failed to Read word, Err: 0xffffffac
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bf98, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bf98, nbytes=4
+sdioh_request_word: cmd_type=0, rw=1, func=1, addr=0x0bf98, nbytes=4
+bcmsdh_sdmmc: Failed to Write word, Err: 0xffffffac
+DHD: dongle ram size is set to -805306368(orig -805306368)
+sdioh_request_byte: rw=1, func=1, addr=0x1000a
+sdioh_request_byte: rw=1, func=1, addr=0x1000b
+sdioh_request_byte: rw=1, func=1, addr=0x1000c
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x09ffc, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x09000, nbytes=4
+sdioh_request_word: cmd_type=0, rw=1, func=1, addr=0x09000, nbytes=4
+bcmsdh_sdmmc: Failed to Write word, Err: 0xffffffac
+dhd_attach: Enter
+dhd_add_if: idx 0, handle->e7009c00
+CFG80211-TRACE) wl_cfg80211_attach :In
+CFG80211-DEBUG) wl_cfg80211_attach :func e7b76900
+CFG80211-DEBUG) wl_alloc_wdev :Registering custom regulatory)
+CFG80211-DEBUG) wl_init_priv_mem :Enter 
+CFG80211-DEBUG) wl_create_event_handler :Enter 
+wl_create_event_handler thr:41 started
+CFG80211-DEBUG) wl_init_conf :Enter 
+CFG80211-DEBUG) wl_link_down :In
+CFG80211-DEBUG) wl_setup_rfkill :Enter 
+CFG80211-DEBUG) wl_rfkill_set :Enter 
+CFG80211-DEBUG) wl_rfkill_set :dhd_attach thr:42 started
+dhd_attach thr:43 started
+RF unblocked
+dhd_attach thr:44 started
+dhdsdio_probe_malloc: Enter
+dhdsdio_probe_init: Enter
+sdioh_request_byte: rw=1, func=0, addr=0x00002
+sdioh_request_byte: rw=1, func=1, addr=0x1000e
+sdioh_iovar_op: Enter (get sd_divisor)
+dhdsdio_probe_init: Initial value for sd_divisor is 2
+sdioh_iovar_op: Enter (get sd_mode)
+dhdsdio_probe_init: Initial value for sd_mode is 2
+sdioh_iovar_op: Enter (get sd_blocksize)
+dhdsdio_probe_init: Initial value for sd_blocksize is 512
+sdioh_iovar_op: Enter (get sd_rxchain)
+dhdsdio_probe_init: bus module (through bcmsdh API) does not support chaining
+sdioh_interrupt_set: Disabling
+sdioh_sdmmc_devintr_off: 1
+sdioh_interrupt_register: Entering
+dhdsdio_probe: completed!!
+wifi_get_mac_addr
+dhd_net_attach: ifidx 0
+dhd_get_stats: Enter
+Broadcom Dongle Host Driver: register interface [wlan0] MAC: 00:90:4c:11:22:33
+wifi_set_power = 0
+=========== WLAN placed in RESET ========
+bcmsdh_sdmmc: probe of mmc0:0001:3 failed with error -110
+input: cypress-touchkey as /devices/virtual/input/input8
+cypress_touchkey_driver 10-0020: cypress_touchkey_probe: hardware rev1 = 0xf, rev2 = 0x3
+s3c-rtc s3c2410-rtc: rtc disabled, re-enabling
+s3c-rtc s3c2410-rtc: setting system clock to 2012-08-24 23:01:02 UTC (1345849262)
+FIMC0 registered successfully
+FIMC1 registered successfully
+FIMC2 registered successfully
+S5P TVOUT Driver, (c) 2010 Samsung Electronics
+clk_get: could not find clock mout_vpll_src for dev s5p_device_tvout+0x8/0xd8 (s5p-tvout)
+failed to find clock "mout_vpll_src"
+s5p-tvout s5p-tvout: hpd status: cable removed/not connected
+s5p_tv_probe TV Probing is done
+max8998_charger_probe : MAX8998 Charger Driver Loading
+max8998_charger_probe : pmic interrupt registered
+check_lpm_charging_mode : lpm_charging_mode(0)
+wake enabled for irq 39
+max8998_int_work_func : pmic interrupt
+s3c_cable_status_update : battery status discharging : 1
+Warning: unable to open an initial console.
+s3c_cable_status_update : battery status discharging : 1
+Freeing init memory: 768K
+yaffs: dev is 32505858 name is "mtdblock2" rw
+yaffs: passed flags ""
+yaffs: Attempting MTD mount of 31.2,"mtdblock2"
+onenand_wait: ECC error = 0x0001
+yaffs: yaffs_read_super: is_checkpointed 1
+yaffs: dev is 32505861 name is "mtdblock5" rw
+yaffs: passed flags ""
+yaffs: Attempting MTD mount of 31.5,"mtdblock5"
+yaffs: yaffs_read_super: is_checkpointed 1
+init: could not import file /system/etc/init.local.rc
+init (1): /proc/1/oom_adj is deprecated, please use /proc/1/oom_score_adj instead.
+keychord: using input dev aries-keypad for fevent
+init: cannot open '/initlogo.rle'
+init: command 'loglevel' r=0
+init: command 'export' r=0
+init: command 'export' r=0
+init: command 'mkdir' r=0
+init: command 'symlink' r=0
+init: command 'mkdir' r=0
+init: command 'stop' r=0
+init: processing action 0x2a1a0 (fs)
+init: mtd partition 0, boot
+init: mtd partition 1, recovery
+init: mtd partition 2, system
+init: mtd partition 3, userdata
+init: mtd partition 4, efs
+init: mtd partition 5, cache
+init: mtd partition 6, radio
+init: mtd partition 7, reservoir
+yaffs: dev is 32505858 name is "mtdblock2" rw
+yaffs: passed flags ""
+yaffs: Attempting MTD mount of 31.2,"mtdblock2"
+onenand_wait: ECC error = 0x0001
+yaffs: yaffs_read_super: is_checkpointed 1
+init: command 'mount' r=0
+init: command 'mount' r=0
+yaffs: dev is 32505859 name is "mtdblock3" rw
+yaffs: passed flags ""
+yaffs: Attempting MTD mount of 31.3,"mtdblock3"
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+onenand_wait: ECC error = 0x0001
+yaffs: block 142 is bad
+yaffs: block 224 is bad
+yaffs: block 439 is bad
+yaffs: block 444 is bad
+yaffs: block 613 is bad
+yaffs: block 636 is bad
+yaffs: block 659 is bad
+yaffs: block 691 is bad
+yaffs: block 730 is bad
+yaffs: block 734 is bad
+yaffs: block 823 is bad
+yaffs: block 831 is bad
+yaffs: block 862 is bad
+yaffs: block 889 is bad
+yaffs: block 911 is bad
+yaffs: block 915 is bad
+yaffs: block 919 is bad
+yaffs: block 923 is bad
+yaffs: block 928 is bad
+yaffs: block 998 is bad
+yaffs: block 1009 is bad
+yaffs: block 1070 is bad
+yaffs: block 1211 is bad
+yaffs: block 1260 is bad
+yaffs: block 1271 is bad
+yaffs: block 1300 is bad
+yaffs: block 1350 is bad
+yaffs: block 1534 is bad
+yaffs: block 1636 is bad
+yaffs: block 1748 is bad
+yaffs: block 1843 is bad
+yaffs: block 1867 is bad
+yaffs: block 1971 is bad
+yaffs: block 1982 is bad
+yaffs: block 2066 is bad
+onenand_wait: correctable ECC error = 0x0002
+yaffs: yaffs_read_super: is_checkpointed 0
+init: command 'mount' r=0
+yaffs: dev is 32505861 name is "mtdblock5" rw
+yaffs: passed flags ""
+yaffs: Attempting MTD mount of 31.5,"mtdblock5"
+yaffs: yaffs_read_super: is_checkpointed 1
+init: command 'mount' r=0
+init: processing action 0x30818 (fs)
+init: command 'mkdir' r=0
+yaffs: dev is 32505862 name is "mtdblock6" rw
+yaffs: passed flags ""
+yaffs: Attempting MTD mount of 31.6,"mtdblock6"
+yaffs: yaffs_read_super: is_checkpointed 1
+init: command 'mount' r=0
+init: command 'mount' r=-1
+init: command 'chown' r=0
+init: command 'mkdir' r=0
+yaffs: dev is 32505860 name is "mtdblock4" rw
+yaffs: passed flags ""
+yaffs: Attempting MTD mount of 31.4,"mtdblock4"
+yaffs: yaffs_read_super: is_checkpointed 0
+init: command 'mount' r=0
+init: command 'chown' r=0
+init: command 'chmod' r=-2
+init: command 'chmod' r=0
+init: command 'chown' r=0
+init: command 'chmod' r=0
+init: command 'chmod' r=0
+init: command 'chown' r=0
+init: command 'chown' r=0
+init: command 'chown' r=0
+init: command 'chown' r=0
+init: command 'chmod' r=0
+init: processing action 0x2a288 (post-fs)
+init: command 'mount' r=0
+init: command 'chown' r=0
+init: command 'chmod' r=0
+init: command 'chown' r=0
+init: command 'chmod' r=0
+init: command 'chown' r=0
+init: command 'chmod' r=0
+init: command 'chown' r=0
+init: command 'chmod' r=0
+init: command 'chown' r=0
+init: command 'chmod' r=0
+init: command 'mkdir' r=0
+init: processing action 0x30b00 (post-fs)
+init: command 'chown' r=0
+init: command 'chmod' r=0
+init: command 'symlink' r=0
+init: command 'chown' r=0
+init: command 'chmod' r=0
+init: command 'chown' r=0
+init: command 'chmod' r=0
+init: command 'chown' r=0
+init: command 'chmod' r=0
+init: processing action 0x2a4a8 (post-fs-data)
+init: command 'chown' r=0
+init: command 'chmod' r=0
+init: command 'mkdir' r=0
+init: command 'copy' r=-1
+init: command 'chown' r=-2
+init: command 'chmod' r=-2
+init: command 'copy' r=-1
+init: command 'chown' r=-2
+init: command 'chmod' r=-2
+init: command 'write' r=-2
+init: command 'mkdir' r=0
+init: command 'mkdir' r=0
+init: command 'mkdir' r=0
+init: command 'mkdir' r=0
+init: command 'mkdir' r=0
+init: command 'mkdir' r=0
+init: command 'mkdir' r=0
+init: command 'mkdir' r=0
+init: command 'chmod' r=-2
+init: command 'mkdir' r=0
+init: command 'mkdir' r=0
+init: command 'mkdir' r=0
+init: command 'mkdir' r=0
+init: command 'mkdir' r=0
+init: command 'mkdir' r=0
+init: command 'mkdir' r=0
+init: command 'mkdir' r=0
+init: command 'chown' r=0
+init: command 'chmod' r=0
+init: command 'mkdir' r=0
+init: command 'chown' r=0
+init: command 'chmod' r=0
+init: command 'mkdir' r=0
+init: command 'chown' r=0
+init: command 'chmod' r=0
+init: command 'mkdir' r=0
+init: command 'mkdir' r=0
+init: command 'chown' r=0
+init: command 'chmod' r=0
+init: command 'chown' r=0
+init: command 'chmod' r=0
+init: processing action 0x30438 (post-fs-data)
+init: command 'mkdir' r=0
+init: command 'chown' r=0
+init: command 'chown' r=0
+init: command 'chmod' r=0
+init: processing action 0x30c98 (post-fs-data)
+init: command 'mkdir' r=0
+init: command 'mkdir' r=0
+init: command 'mkdir' r=0
+init: command 'mkdir' r=0
+init: command 'chmod' r=0
+init: command 'setprop' r=0
+init: processing action 0x31bf0 (property_service_init)
+init: Created socket '/dev/socket/property_service' with mode '666', user '0', group '0'
+init: command 'property_service_init' r=0
+init: processing action 0x31c38 (signal_init)
+init: command 'signal_init' r=0
+init: processing action 0x31c80 (check_startup)
+init: command 'check_startup' r=0
+init: processing action 0x2abe8 (boot)
+init: command 'ifup' r=0
+init: command 'hostname' r=0
+init: command 'domainname' r=0
+init: command 'setrlimit' r=0
+init: command 'write' r=0
+init: command 'write' r=0
+init: command 'chown' r=0
+init: command 'chmod' r=0
+init: command 'chown' r=0
+init: command 'chmod' r=0
+init: command 'write' r=0
+init: command 'write' r=0
+init: command 'chown' r=-2
+init: command 'chown' r=-2
+init: command 'chown' r=-2
+init: command 'chown' r=-2
+init: command 'chown' r=-2
+init: command 'chown' r=0
+init: command 'chown' r=0
+init: command 'chown' r=0
+init: command 'chmod' r=0
+init: command 'chmod' r=0
+init: command 'chmod' r=0
+init: command 'chown' r=0
+init: command 'chown' r=-2
+init: command 'chown' r=-2
+init: command 'chown' r=-2
+init: command 'chown' r=-2
+init: command 'chown' r=-2
+init: command 'chown' r=-2
+init: command 'chown' r=-2
+init: command 'chown' r=-2
+init: command 'chown' r=-2
+init: command 'chown' r=-2
+init: command 'chown' r=-2
+init: command 'chown' r=-2
+init: command 'chown' r=-2
+init: command 'chown' r=-2
+init: command 'chown' r=-2
+init: command 'chown' r=-2
+init: command 'chown' r=0
+init: command 'chown' r=-2
+init: command 'chown' r=0
+init: command 'chown' r=0
+init: command 'chown' r=0
+init: command 'chown' r=0
+init: command 'chown' r=0
+init: command 'chown' r=0
+init: command 'chown' r=0
+init: command 'chown' r=0
+init: command 'chmod' r=0
+init: command 'chown' r=0
+init: command 'chmod' r=0
+init: command 'chown' r=0
+init: command 'chmod' r=0
+init: command 'setprop' r=0
+init: command 'setprop' r=0
+init: command 'setprop' r=0
+init: command 'setprop' r=0
+init: command 'setprop' r=0
+init: command 'setprop' r=0
+init: command 'setprop' r=0
+init: command 'chown' r=-2
+init: command 'chmod' r=-2
+init: command 'chown' r=-2
+init: command 'chmod' r=-2
+init: command 'chown' r=-2
+init: command 'chmod' r=-2
+init: command 'write' r=-2
+init: command 'write' r=-2
+init: command 'setprop' r=0
+init: command 'exec' r=0
+init: starting 'servicemanager'
+init: starting 'vold'
+init: starting 'aries-ril-daemon'
+init: Created socket '/dev/socket/vold' with mode '660', user '0', group '1009'
+init: starting 'pvrsrvinit'
+init: Created socket '/dev/socket/rild-debug' with mode '660', user '1001', group '1000'
+init: command 'class_start' r=0
+init: starting 'netd'
+init: starting 'debuggerd'
+init: Created socket '/dev/socket/rild' with mode '660', user '0', group '1001'
+init: Created socket '/dev/socket/dnsproxyd' with mode '660', user '0', group '3003'
+init: starting 'surfaceflinger'
+init: starting 'zygote'
+init: Created socket '/dev/socket/netd' with mode '660', user '0', group '1000'
+init: Created socket '/dev/socket/zygote' with mode '660', user '0', group '1000'
+init: starting 'drm'
+init: starting 'media'
+PVR_K:(Warning): SysFinalise: Version string: SGX540 S5PC110 [529, /home/jeff/Android/build/cm9-aries/kernel/samsung/aries/drivers/gpu/pvr/s5pc110/sysconfig.c]
+init: starting 'dbus'
+init: starting 'installd'
+init: Created socket '/dev/socket/dbus' with mode '660', user '1002', group '1002'
+init: Created socket '/dev/socket/installd' with mode '600', user '1000', group '1000'
+init: starting 'keystore'
+init: command 'class_start' r=0
+init: Created socket '/dev/socket/keystore' with mode '666', user '0', group '0'
+init: processing action 0x2f5b0 (boot)
+init: command 'write' r=0
+init: waitpid returned pid 124, status = 00000000
+init: process 'pvrsrvinit', pid 124 exited
+init: command 'write' r=0
+init: processing action 0x30658 (boot)
+init: command 'mount' r=0
+init: command 'setprop' r=0
+init: command 'setprop' r=0
+init: command 'setprop' r=0
+init: command 'setprop' r=0
+init: command 'setprop' r=0
+init: command 'setprop' r=0
+init: command 'setprop' r=0
+init: command 'setprop' r=0
+init: command 'setprop' r=0
+init: processing action 0x31cc8 (queue_property_triggers)
+init: command 'queue_property_triggers' r=0
+init: processing action 0x2b778 (nonencrypted)
+dhd_get_stats: Enter
+dhd_get_stats: Enter
+init: starting 'gpsd'
+init: starting 'geomagneticd'
+init: Created socket '/dev/socket/gps' with mode '660', user '1021', group '1000'
+init: starting 'tvout'
+init: command 'class_start' r=0
+init: processing action 0x2bea0 (property:persist.sys.usb.config=*)
+init: command 'setprop' r=0
+init: processing action 0x2c068 (property:ro.debuggable=1)
+init: starting 'console'
+init: command 'start' r=0
+init: processing action 0x2fec0 (property:sys.usb.config=mass_storage,adb)
+android_usb: already disabled
+init: command 'write' r=0
+init: command 'write' r=0
+init: command 'write' r=0
+init: command 'write' r=0
+adb_bind_config
+init: command 'write' r=0
+android_work: did not send uevent (0 0   (null))
+init: starting 'adbd'
+init: command 'start' r=0
+warning: `adbd' uses 32-bit capabilities (legacy support in use)
+init: command 'setprop' r=0
+adb_open
+android_work: sent uevent USB_STATE=CONNECTED
+android_usb gadget: high speed config #1: android
+android_work: sent uevent USB_STATE=CONFIGURED
+s3cfb s3cfb: [fb0] dma: 0x4c45a000, cpu: 0xeb800000, size: 0x00465000
+init: starting 'bootanim'
+init: processing action 0x315a8 (property:init.svc.bootanim=running)
+init: starting 'bdaddr'
+init: command 'start' r=0
+init: waitpid returned pid 175, status = 00000000
+init: process 'bdaddr', pid 175 exited
+m5720_off
+m5720_off, GPIO_CP_PWR_RST is high
+init: waitpid returned pid 197, status = 00000100
+init: untracked pid 197 exited
+[STE][mc_int_resout_work] mc->gpio_phone_on is [0] 
+[STE][mc_int_cp_pwr_rst_work] mc->gpio_phone_on is [0] 
+wake enabled for irq 34
+gp2a: proximity val = 1
+wake disabled for irq 34
+[EN32KhzCP_CTRL]  on = 0 
+m5720_on
+[EN32KhzCP_CTRL]  on = 1 
+onenand_wait: correctable ECC error = 0x0002
+request_suspend_state: wakeup (3->0) at 28674439300 (2012-08-24 23:01:17.920958492 UTC)
+wake enabled for irq 165
+init: starting 'hciattach'
+acc_open
+acc_release
+Get into M5720 Normal modem boot. (By key press) 
+init: starting 'bluetoothd'
+init: Created socket '/dev/socket/dbus_bluetooth' with mode '660', user '1002', group '1002'
+init: Created socket '/dev/socket/bluetooth' with mode '660', user '1002', group '1002'
+init: service 'bootanim' is being killed
+init: waitpid returned pid 171, status = 00000009
+init: process 'bootanim', pid 171 exited
+[mdnie set] in mdnieset_ui_file_cmd_store, input value = 6 
+[mDNIe] mDNIe_tuning_initialize: addr(0x84), data(0x0)  
+[mDNIe] mDNIe_tuning_initialize: addr(0x90), data(0x0)  
+[mDNIe] mDNIe_tuning_initialize: addr(0x94), data(0xfff)  
+[mDNIe] mDNIe_tuning_initialize: addr(0x98), data(0x5c)  
+[mDNIe] mDNIe_tuning_initialize: addr(0x9c), data(0x10)  
+[mDNIe] mDNIe_tuning_initialize: addr(0xac), data(0x0)  
+[mDNIe] mDNIe_tuning_initialize: addr(0xb4), data(0x3ff)  
+[mDNIe] mDNIe_Set_Mode: current_mDNIe_UI(6), current_mDNIe_OutDoor_OnOff(0)  
