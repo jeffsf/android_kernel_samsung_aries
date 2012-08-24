@@ -1,5 +1,5 @@
 Initializing cgroup subsys cpu
-Linux version 3.0.8-g8490ece-dirty (jeff@port7) (gcc version 4.4.3 (GCC) ) #17 PREEMPT Fri Aug 24 15:11:03 PDT 2012
+Linux version 3.0.8-gc021bab-dirty (jeff@port7) (gcc version 4.4.3 (GCC) ) #18 PREEMPT Fri Aug 24 15:27:21 PDT 2012
 CPU: ARMv7 Processor [412fc082] revision 2 (ARMv7), cr=10c53c7f
 CPU: VIPT nonaliasing data cache, VIPT aliasing instruction cache
 Machine: aries
@@ -98,7 +98,7 @@ CPU: Testing write buffer coherency: ok
 print_constraints: dummy: 
 NET: Registered protocol family 16
 ram_console: got buffer at 57f00000, size ff000
-ram_console: found existing buffer, size 39769, start 39769
+ram_console: found existing buffer, size 45345, start 45345
 console [ram-1] enabled
 S5PC110 Hardware version : EVT1
 HWREV is 0xd
@@ -484,11 +484,11 @@ ThumbEE CPU extension supported.
 s5pv210_cpufreq_init: S5PV210 cpu-freq driver
 regulator_init_complete: pd_mfc_supply: disabling
 regulator_init_complete: pd_tv_supply: disabling
-mmc1: new high speed SDHC card at address 0001
 regulator_init_complete: pd_cam_supply: disabling
-mmcblk0: mmc1:0001 00000 7.60 GiB 
 ## wifi_probe
 wifi_set_power = 1
+mmc1: new high speed SDHC card at address 0001
+mmcblk0: mmc1:0001 00000 7.60 GiB 
  mmcblk0: p1
 wifi_set_carddetect = 1
 bcmsdh_sdmmc: sdio_function_init Enter
@@ -581,31 +581,39 @@ sdioh_request_byte: rw=1, func=1, addr=0x1000b
 sdioh_request_byte: rw=1, func=1, addr=0x1000c
 sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0af98, nbytes=4
 sdioh_request_word: cmd_type=0, rw=1, func=1, addr=0x08058, nbytes=4
-bcmsdh_sdmmc: Failed to Write word, Err: 0xffffffacsdioh_request_word: cmd_type=0, rw=1, func=1, addr=0x0805c, nbytes=4
-bcmsdh_sdmmc: Failed to Write word, Err: 0xffffffacsdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0affc, nbytes=4
+bcmsdh_sdmmc: Failed to Write word, Err: 0xffffffac
+sdioh_request_word: cmd_type=0, rw=1, func=1, addr=0x0805c, nbytes=4
+bcmsdh_sdmmc: Failed to Write word, Err: 0xffffffac
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0affc, nbytes=4
 sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bf98, nbytes=4
 sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bf98, nbytes=4
 sdioh_request_word: cmd_type=0, rw=1, func=1, addr=0x0bf98, nbytes=4
-bcmsdh_sdmmc: Failed to Write word, Err: 0xffffffacsdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bf98, nbytes=4
+bcmsdh_sdmmc: Failed to Write word, Err: 0xffffffac
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bf98, nbytes=4
 sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bf9c, nbytes=4
 sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bf90, nbytes=4
 sdioh_request_word: cmd_type=0, rw=1, func=1, addr=0x0bf98, nbytes=4
-bcmsdh_sdmmc: Failed to Write word, Err: 0xffffffacsdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bf98, nbytes=4
-sdioh_request_word: cmd_type=0, rw=1, func=1, addr=0x0bf98, nbytes=4
-bcmsdh_sdmmc: Failed to Write word, Err: 0xffffffacsdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bf98, nbytes=4
-sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bffc, nbytes=4
-sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0b000, nbytes=4
-bcmsdh_sdmmc: Failed to Read word, Err: 0xffffffacsdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bf98, nbytes=4
+bcmsdh_sdmmc: Failed to Write word, Err: 0xffffffac
 sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bf98, nbytes=4
 sdioh_request_word: cmd_type=0, rw=1, func=1, addr=0x0bf98, nbytes=4
-bcmsdh_sdmmc: Failed to Write word, Err: 0xffffffacDHD: dongle ram size is set to -805306368(orig -805306368)
+bcmsdh_sdmmc: Failed to Write word, Err: 0xffffffac
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bf98, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bffc, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0b000, nbytes=4
+bcmsdh_sdmmc: Failed to Read word, Err: 0xffffffac
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bf98, nbytes=4
+sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x0bf98, nbytes=4
+sdioh_request_word: cmd_type=0, rw=1, func=1, addr=0x0bf98, nbytes=4
+bcmsdh_sdmmc: Failed to Write word, Err: 0xffffffac
+DHD: dongle ram size is set to -805306368(orig -805306368)
 sdioh_request_byte: rw=1, func=1, addr=0x1000a
 sdioh_request_byte: rw=1, func=1, addr=0x1000b
 sdioh_request_byte: rw=1, func=1, addr=0x1000c
 sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x09ffc, nbytes=4
 sdioh_request_word: cmd_type=0, rw=0, func=1, addr=0x09000, nbytes=4
 sdioh_request_word: cmd_type=0, rw=1, func=1, addr=0x09000, nbytes=4
-bcmsdh_sdmmc: Failed to Write word, Err: 0xffffffacwl_create_event_handler thr:41 started
+bcmsdh_sdmmc: Failed to Write word, Err: 0xffffffac
+wl_create_event_handler thr:41 started
 dhd_attach thr:42 started
 dhd_attach thr:43 started
 dhd_attach thr:44 started
@@ -626,7 +634,7 @@ bcmsdh_sdmmc: probe of mmc0:0001:3 failed with error -110
 input: cypress-touchkey as /devices/virtual/input/input8
 cypress_touchkey_driver 10-0020: cypress_touchkey_probe: hardware rev1 = 0xf, rev2 = 0x3
 s3c-rtc s3c2410-rtc: rtc disabled, re-enabling
-s3c-rtc s3c2410-rtc: setting system clock to 2012-08-24 22:14:02 UTC (1345846442)
+s3c-rtc s3c2410-rtc: setting system clock to 2012-08-24 22:33:27 UTC (1345847607)
 FIMC0 registered successfully
 FIMC1 registered successfully
 FIMC2 registered successfully
@@ -644,6 +652,7 @@ s3c_cable_status_update : battery status discharging : 1
 Warning: unable to open an initial console.
 s3c_cable_status_update : battery status discharging : 1
 Freeing init memory: 768K
+onenand_wait: correctable ECC error = 0x0002
 yaffs: dev is 32505858 name is "mtdblock2" rw
 yaffs: passed flags ""
 yaffs: Attempting MTD mount of 31.2,"mtdblock2"
@@ -751,7 +760,6 @@ yaffs: block 1867 is bad
 yaffs: block 1971 is bad
 yaffs: block 1982 is bad
 yaffs: block 2066 is bad
-onenand_wait: correctable ECC error = 0x0002
 onenand_wait: correctable ECC error = 0x0002
 yaffs: yaffs_read_super: is_checkpointed 0
 init: command 'mount' r=0
@@ -952,26 +960,26 @@ init: Created socket '/dev/socket/rild-debug' with mode '660', user '1001', grou
 init: command 'class_start' r=0
 init: starting 'netd'
 init: starting 'debuggerd'
-init: Created socket '/dev/socket/rild' with mode '660', user '0', group '1001'
 init: Created socket '/dev/socket/dnsproxyd' with mode '660', user '0', group '3003'
+init: Created socket '/dev/socket/rild' with mode '660', user '0', group '1001'
 init: starting 'surfaceflinger'
 init: starting 'zygote'
 init: Created socket '/dev/socket/netd' with mode '660', user '0', group '1000'
 init: Created socket '/dev/socket/zygote' with mode '660', user '0', group '1000'
-init: starting 'drm'
 PVR_K:(Warning): SysFinalise: Version string: SGX540 S5PC110 [529, /home/jeff/Android/build/cm9-aries/kernel/samsung/aries/drivers/gpu/pvr/s5pc110/sysconfig.c]
+init: starting 'drm'
 init: starting 'media'
 init: starting 'dbus'
 init: Created socket '/dev/socket/dbus' with mode '660', user '1002', group '1002'
 init: starting 'installd'
 init: starting 'keystore'
-init: command 'class_start' r=0
-init: processing action 0x2f5b0 (boot)
 init: Created socket '/dev/socket/installd' with mode '600', user '1000', group '1000'
+init: command 'class_start' r=0
 init: Created socket '/dev/socket/keystore' with mode '666', user '0', group '0'
-init: command 'write' r=0
 init: waitpid returned pid 124, status = 00000000
 init: process 'pvrsrvinit', pid 124 exited
+init: processing action 0x2f5b0 (boot)
+init: command 'write' r=0
 init: command 'write' r=0
 init: processing action 0x30658 (boot)
 init: command 'mount' r=0
@@ -986,8 +994,8 @@ init: command 'setprop' r=0
 init: command 'setprop' r=0
 init: processing action 0x31cc8 (queue_property_triggers)
 init: command 'queue_property_triggers' r=0
-init: processing action 0x2b778 (nonencrypted)
 onenand_wait: correctable ECC error = 0x0002
+init: processing action 0x2b778 (nonencrypted)
 init: starting 'gpsd'
 init: starting 'geomagneticd'
 init: Created socket '/dev/socket/gps' with mode '660', user '1021', group '1000'
@@ -1009,9 +1017,10 @@ init: command 'write' r=0
 init: starting 'adbd'
 android_work: did not send uevent (0 0   (null))
 init: command 'start' r=0
-warning: `adbd' uses 32-bit capabilities (legacy support in use)
 init: command 'setprop' r=0
+warning: `adbd' uses 32-bit capabilities (legacy support in use)
 adb_open
+android_work: sent uevent USB_STATE=CONNECTED
 android_usb gadget: high speed config #1: android
 android_work: sent uevent USB_STATE=CONFIGURED
 s3cfb s3cfb: [fb0] dma: 0x4c45a000, cpu: 0xeb800000, size: 0x00465000
@@ -1019,8 +1028,8 @@ init: starting 'bootanim'
 init: processing action 0x315a8 (property:init.svc.bootanim=running)
 init: starting 'bdaddr'
 init: command 'start' r=0
-init: waitpid returned pid 172, status = 00000000
-init: process 'bdaddr', pid 172 exited
+init: waitpid returned pid 171, status = 00000000
+init: process 'bdaddr', pid 171 exited
 m5720_off
 m5720_off, GPIO_CP_PWR_RST is high
 wake enabled for irq 34
@@ -1034,8 +1043,9 @@ m5720_on
 onenand_wait: correctable ECC error = 0x0002
 init: waitpid returned pid 216, status = 00000100
 init: untracked pid 216 exited
+onenand_wait: correctable ECC error = 0x0002
 Get into M5720 Normal modem boot. (By key press) 
-request_suspend_state: wakeup (3->0) at 20235142321 (2012-08-24 22:14:18.133978453 UTC)
+request_suspend_state: wakeup (3->0) at 20238912069 (2012-08-24 22:33:43.137693620 UTC)
 wake enabled for irq 165
 init: starting 'hciattach'
 acc_open
@@ -1043,17 +1053,9 @@ acc_release
 init: starting 'bluetoothd'
 init: Created socket '/dev/socket/dbus_bluetooth' with mode '660', user '1002', group '1002'
 init: Created socket '/dev/socket/bluetooth' with mode '660', user '1002', group '1002'
-init: service 'bluetoothd' is being killed
-init: waitpid returned pid 341, status = 00000009
-init: process 'bluetoothd', pid 341 exited
-init: process 'bluetoothd' killing any children in process group
-init: service 'hciattach' is being killed
-wake disabled for irq 165
-init: waitpid returned pid 266, status = 00000009
-init: process 'hciattach', pid 266 exited
 init: service 'bootanim' is being killed
-init: waitpid returned pid 171, status = 00000009
-init: process 'bootanim', pid 171 exited
+init: waitpid returned pid 170, status = 00000009
+init: process 'bootanim', pid 170 exited
 [mdnie set] in mdnieset_ui_file_cmd_store, input value = 6 
 [mDNIe] mDNIe_tuning_initialize: addr(0x84), data(0x0)  
 [mDNIe] mDNIe_tuning_initialize: addr(0x90), data(0x0)  
@@ -1063,5 +1065,3 @@ init: process 'bootanim', pid 171 exited
 [mDNIe] mDNIe_tuning_initialize: addr(0xac), data(0x0)  
 [mDNIe] mDNIe_tuning_initialize: addr(0xb4), data(0x3ff)  
 [mDNIe] mDNIe_Set_Mode: current_mDNIe_UI(6), current_mDNIe_OutDoor_OnOff(0)  
-onenand_wait: correctable ECC error = 0x0002
-onenand_wait: correctable ECC error = 0x0002
