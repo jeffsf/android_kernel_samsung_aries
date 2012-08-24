@@ -1,0 +1,950 @@
+<6>[    0.000000] Initializing cgroup subsys cpu
+<5>[    0.000000] Linux version 3.0.8-g8490ece-dirty (jeff@port7) (gcc version 4.4.3 (GCC) ) #15 PREEMPT Fri Aug 24 14:08:31 PDT 2012
+<4>[    0.000000] CPU: ARMv7 Processor [412fc082] revision 2 (ARMv7), cr=10c53c7f
+<4>[    0.000000] CPU: VIPT nonaliasing data cache, VIPT aliasing instruction cache
+<4>[    0.000000] Machine: aries
+<4>[    0.000000] Memory policy: ECC disabled, Data cache writeback
+<4>[    0.000000] CPU S5PV210/S5PC110 (id 0x43110222)
+<7>[    0.000000] s5pv210_init_clocks: initializing clocks
+<6>[    0.000000] S3C24XX Clocks, Copyright 2004 Simtec Electronics
+<4>[    0.000000] s3c24xx_register_clock: new clock sclk_csis, id -1, dev   (null) uses same enable bit as mout_csis, id -1, dev   (null)
+<4>[    0.000000] s3c24xx_register_clock: new clock lcd, id -1, dev   (null) uses same enable bit as sclk_fimd, id -1, dev   (null)
+<4>[    0.000000] s3c24xx_register_clock: new clock mfc, id -1, dev   (null) uses same enable bit as sclk_mfc, id -1, dev   (null)
+<4>[    0.000000] s3c24xx_register_clock: new clock iis, id 0, dev   (null) uses same enable bit as i2s_v50, id 0, dev   (null)
+<7>[    0.000000] s5pv210_setup_clocks: registering clocks
+<7>[    0.000000] s5pv210_setup_clocks: clkdiv0 = 14131330, clkdiv1 = 00300400
+<7>[    0.000000] s5pv210_setup_clocks: xtal is 24000000
+<6>[    0.000000] S5PV210: PLL settings, A=800000000, M=667000000, E=96000000 V=54000000
+<6>[    0.000000] S5PV210: ARMCLK=800000000, HCLKM=200000000, HCLKD=166750000
+<6>[    0.000000] HCLKP=133400000, PCLKM=100000000, PCLKD=83375000, PCLKP=66700000
+<6>[    0.000000] sclk_dmc: source is mout_mpll (1), rate is 166750000
+<6>[    0.000000] sclk_onenand: source is hclk_dsys (1), rate is 166750000
+<6>[    0.000000] sclk: source is mout_mpll (6), rate is 133400000
+<6>[    0.000000] sclk: source is mout_mpll (6), rate is 66700000
+<6>[    0.000000] sclk: source is mout_mpll (6), rate is 66700000
+<6>[    0.000000] sclk: source is mout_mpll (6), rate is 66700000
+<6>[    0.000000] sclk_mixer: source is sclk_dac (0), rate is 54000000
+<6>[    0.000000] sclk_fimc: source is ext_xtal (0), rate is 24000000
+<6>[    0.000000] sclk_fimc: source is ext_xtal (0), rate is 24000000
+<6>[    0.000000] sclk_fimc: source is ext_xtal (0), rate is 24000000
+<6>[    0.000000] sclk_cam: source is xusbxti (1), rate is 24000000
+<6>[    0.000000] sclk_cam: source is ext_xtal (0), rate is 24000000
+<6>[    0.000000] sclk_fimd: source is mout_mpll (6), rate is 166750000
+<6>[    0.000000] sclk_mmc: source is mout_mpll (6), rate is 51307692
+<6>[    0.000000] sclk_mmc: source is mout_mpll (6), rate is 47642857
+<6>[    0.000000] sclk_mmc: source is mout_mpll (6), rate is 47642857
+<6>[    0.000000] sclk_mmc: source is mout_mpll (6), rate is 47642857
+<6>[    0.000000] sclk_mfc: source is sclk_a2m (0), rate is 200000000
+<6>[    0.000000] sclk_fimg2d: source is sclk_a2m (0), rate is 200000000
+<6>[    0.000000] sclk: source is mout_mpll (1), rate is 66700000
+<6>[    0.000000] sclk_csis: source is ext_xtal (0), rate is 24000000
+<6>[    0.000000] sclk_spi: source is mout_epll (7), rate is 96000000
+<6>[    0.000000] sclk_spi: source is mout_epll (7), rate is 96000000
+<6>[    0.000000] sclk_pwi: source is ext_xtal (0), rate is 24000000
+<6>[    0.000000] sclk_pwm: source is ext_xtal (0), rate is 24000000
+<6>[    0.000000] sclk_mdnie: source is mout_mpll (6), rate is 166750000
+<6>[    0.000000] sclk_mdnie_pwm: source is ext_xtal (0), rate is 24000000
+<6>[    0.000000] s5p: 14680064 bytes system memory reserved for mfc at 0x34200000, 0-bank base(0x34200000)
+<6>[    0.000000] s5p: 22020096 bytes system memory reserved for mfc at 0x4eb00000, 1-bank base(0x4eb00000)
+<6>[    0.000000] s5p: 12582912 bytes system memory reserved for fimc0 at 0x4df00000, 1-bank base(0x4df00000)
+<6>[    0.000000] s5p: 12582912 bytes system memory reserved for fimc2 at 0x4d300000, 1-bank base(0x4d300000)
+<6>[    0.000000] s5p: 4194304 bytes system memory reserved for jpeg at 0x33e00000, 0-bank base(0x33e00000)
+<6>[    0.000000] s5p: 15360000 bytes system memory reserved for fimd at 0x4c45a000, 1-bank base(0x4c45a000)
+<7>[    0.000000] On node 0 totalpages: 98650
+<7>[    0.000000]   Normal zone: 1278 pages used for memmap
+<7>[    0.000000]   Normal zone: 0 pages reserved
+<7>[    0.000000]   Normal zone: 97372 pages, LIFO batch:31
+<7>[    0.000000] pcpu-alloc: s0 r0 d32768 u32768 alloc=1*32768
+<7>[    0.000000] pcpu-alloc: [0] 0 
+<4>[    0.000000] Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 97372
+<5>[    0.000000] Kernel command line: console=ttySAC2,115200 loglevel=4
+<6>[    0.000000] PID hash table entries: 2048 (order: 1, 8192 bytes)
+<6>[    0.000000] Dentry cache hash table entries: 65536 (order: 6, 262144 bytes)
+<6>[    0.000000] Inode-cache hash table entries: 32768 (order: 5, 131072 bytes)
+<6>[    0.000000] Memory: 62MB 196MB 127MB = 385MB total
+<5>[    0.000000] Memory: 378164k/457676k available, 16436k reserved, 0K highmem
+<5>[    0.000000] Virtual kernel memory layout:
+<5>[    0.000000]     vector  : 0xffff0000 - 0xffff1000   (   4 kB)
+<5>[    0.000000]     fixmap  : 0xfff00000 - 0xfffe0000   ( 896 kB)
+<5>[    0.000000]     DMA     : 0xff000000 - 0xffe00000   (  14 MB)
+<5>[    0.000000]     vmalloc : 0xe8000000 - 0xfc000000   ( 320 MB)
+<5>[    0.000000]     lowmem  : 0xc0000000 - 0xe7f00000   ( 639 MB)
+<5>[    0.000000]     modules : 0xbf000000 - 0xc0000000   (  16 MB)
+<5>[    0.000000]       .init : 0xc0008000 - 0xc00c8000   ( 768 kB)
+<5>[    0.000000]       .text : 0xc00c8000 - 0xc0a61000   (9828 kB)
+<5>[    0.000000]       .data : 0xc0a62000 - 0xc0aadd80   ( 304 kB)
+<5>[    0.000000]        .bss : 0xc0aadda4 - 0xc0bf2e18   (1301 kB)
+<6>[    0.000000] SLUB: Genslabs=11, HWalign=64, Order=0-3, MinObjects=0, CPUs=1, Nodes=1
+<6>[    0.000000] Preemptible hierarchical RCU implementation.
+<6>[    0.000000] NR_IRQS:339
+<6>[    0.000000] VIC @fc000000: id 0x00041192, vendor 0x41
+<6>[    0.000000] VIC @fc010000: id 0x00041192, vendor 0x41
+<6>[    0.000000] VIC @fc020000: id 0x00041192, vendor 0x41
+<6>[    0.000000] VIC @fc030000: id 0x00041192, vendor 0x41
+<6>[    0.000000] mult[140737]
+<6>[    0.000000] max_delta_ns[2937815369]
+<6>[    0.000000] min_delta_ns[30517]
+<6>[    0.000000] rate[32768]
+<6>[    0.000000] HZ[256]
+<6>[    0.000000] Console: colour dummy device 80x30
+<6>[    0.000000] console [ttySAC2] enabled
+<6>[    0.000265] Calibrating delay loop... 795.12 BogoMIPS (lpj=1554432)
+<6>[    0.027255] pid_max: default: 32768 minimum: 301
+<6>[    0.027424] Mount-cache hash table entries: 512
+<6>[    0.027730] Initializing cgroup subsys debug
+<6>[    0.027743] Initializing cgroup subsys cpuacct
+<6>[    0.027761] Initializing cgroup subsys freezer
+<6>[    0.027792] CPU: Testing write buffer coherency: ok
+<6>[    0.029905] print_constraints: dummy: 
+<6>[    0.030038] NET: Registered protocol family 16
+<6>[    0.034522] ram_console: got buffer at 57f00000, size ff000
+<6>[    0.034642] ram_console: found existing buffer, size 36760, start 36760
+<6>[    0.107196] console [ram-1] enabled
+<6>[    0.107316] S5PC110 Hardware version : EVT1
+<6>[    0.110112] HWREV is 0xd
+<4>[    0.113068] S3C Power Management, Copyright 2004 Simtec Electronics
+<6>[    0.118912] pmstats at 57fff000
+<3>[    0.122052] invalid media device
+<3>[    0.125172] invalid media device
+<7>[    0.128375] Universal :SD Detect configuration
+<6>[    0.133620] S5PV210: Initializing architecture
+<6>[    0.137517] s3c24xx-pwm s3c24xx-pwm.0: tin at 66700000, tdiv at 66700000, tin=divclk, base 0
+<6>[    0.145723] s3c24xx-pwm s3c24xx-pwm.1: tin at 66700000, tdiv at 66700000, tin=divclk, base 8
+<6>[    0.154138] s3c24xx-pwm s3c24xx-pwm.2: tin at 66700000, tdiv at 66700000, tin=divclk, base 12
+<6>[    0.162616] s3c24xx-pwm s3c24xx-pwm.3: tin at 66700000, tdiv at 66700000, tin=divclk, base 16
+<6>[    0.171151] print_constraints: pd_audio_supply: 5000 mV normal 
+<6>[    0.177088] print_constraints: pd_cam_supply: 5000 mV normal 
+<6>[    0.182730] print_constraints: pd_tv_supply: 5000 mV normal 
+<6>[    0.188421] print_constraints: pd_lcd_supply: 5000 mV normal 
+<6>[    0.194068] print_constraints: pd_g3d_supply: 5000 mV normal 
+<6>[    0.199851] print_constraints: pd_mfc_supply: 5000 mV normal 
+<6>[    0.210476] bio: create slab <bio-0> at 0
+<5>[    0.213751] SCSI subsystem initialized
+<6>[    0.216945] usbcore: registered new interface driver usbfs
+<6>[    0.222340] usbcore: registered new interface driver hub
+<6>[    0.227700] usbcore: registered new device driver usb
+<6>[    0.232859] i2c-gpio i2c-gpio.4: using pins 247 (SDA) and 246 (SCL)
+<6>[    0.239012] i2c-gpio i2c-gpio.5: using pins 203 (SDA) and 204 (SCL)
+<3>[    0.245308] max8998 6-0066: No interrupt base specified, no interrupts
+<3>[    0.253162] i2:10, buck2_idx:0
+<6>[    0.256165] print_constraints: VALIVE_1.2V: 1200 mV 
+<6>[    0.260364] print_constraints: VUSB_1.1V: 1100 mV 
+<6>[    0.265523] print_constraints: VADC_3.3V: 3300 mV 
+<6>[    0.269902] print_constraints: VTF_2.8V: 2800 mV 
+<6>[    0.274508] print_constraints: CP_RTC_1.8V: 1800 mV 
+<6>[    0.279449] print_constraints: VLCD_1.8V: 1800 mV 
+<6>[    0.284275] print_constraints: VUSB_3.3V: 3300 mV 
+<6>[    0.289458] print_constraints: VCC_2.8V_PDA: 2800 mV 
+<6>[    0.294071] print_constraints: CAM_AF_3.0V: 3000 mV 
+<6>[    0.298959] print_constraints: CAM_SENSOR_CORE_1.2V: 1200 mV 
+<6>[    0.304745] print_constraints: VGA_VDDIO_2.8V: 2800 mV 
+<6>[    0.309880] print_constraints: VGA_DVDD_1.8V: 1800 mV 
+<6>[    0.315062] print_constraints: CAM_ISP_HOST_2.8V: 2800 mV 
+<6>[    0.320455] print_constraints: VGA_AVDD_2.8V: 2800 mV 
+<6>[    0.325617] print_constraints: VCC_3.0V_LCD: 3000 mV 
+<6>[    0.330412] print_constraints: VDD_ARM: 750 <--> 1500 mV at 1250 mV 
+<6>[    0.336788] print_constraints: VDD_INT: 750 <--> 1500 mV at 1100 mV 
+<6>[    0.343490] print_constraints: VCC_1.8V: 1800 mV 
+<6>[    0.347812] print_constraints: CAM_ISP_CORE_1.2V: 1200 mV 
+<3>[    0.352984] i2c i2c-6: Failed to register i2c client rtc_max8998 at 0x06 (-16)
+<3>[    0.360079] i2c i2c-6: Can't create device at 0x06
+<6>[    0.364784] i2c-gpio i2c-gpio.6: using pins 206 (SDA) and 209 (SCL)
+<6>[    0.371212] i2c-gpio i2c-gpio.7: using pins 201 (SDA) and 202 (SCL)
+<6>[    0.377387] i2c-gpio i2c-gpio.9: using pins 245 (SDA) and 244 (SCL)
+<6>[    0.383701] i2c-gpio i2c-gpio.11: using pins 114 (SDA) and 98 (SCL)
+<6>[    0.389874] i2c-gpio i2c-gpio.12: using pins 173 (SDA) and 172 (SCL)
+<6>[    0.396263] i2c-gpio i2c-gpio.10: using pins 197 (SDA) and 198 (SCL)
+<6>[    0.402584] s3c-i2c s3c2440-i2c.0: i2c-0: S3C I2C adapter
+<6>[    0.407940] s3c-i2c s3c2440-i2c.1: i2c-1: S3C I2C adapter
+<6>[    0.413307] s3c-i2c s3c2440-i2c.2: i2c-2: S3C I2C adapter
+<6>[    0.418790] Advanced Linux Sound Architecture Driver Version 1.0.24.
+<6>[    0.425201] Bluetooth: Core ver 2.16
+<6>[    0.428500] NET: Registered protocol family 31
+<6>[    0.432806] Bluetooth: HCI device and connection manager initialized
+<6>[    0.439193] Bluetooth: HCI socket layer initialized
+<6>[    0.443982] Bluetooth: L2CAP socket layer initialized
+<6>[    0.449085] Bluetooth: SCO socket layer initialized
+<6>[    0.454263] Switching to clocksource clock_source_systimer
+<6>[    0.459358] cfg80211: Calling CRDA to update world regulatory domain
+<6>[    0.468693] Switched to NOHz mode on CPU #0
+<6>[    0.472874] NET: Registered protocol family 2
+<6>[    0.476057] IP route cache hash table entries: 4096 (order: 2, 16384 bytes)
+<6>[    0.483301] TCP established hash table entries: 16384 (order: 5, 131072 bytes)
+<6>[    0.490275] TCP bind hash table entries: 16384 (order: 4, 65536 bytes)
+<6>[    0.496659] TCP: Hash tables configured (established 16384 bind 16384)
+<6>[    0.502951] TCP reno registered
+<6>[    0.506071] UDP hash table entries: 256 (order: 0, 4096 bytes)
+<6>[    0.511885] UDP-Lite hash table entries: 256 (order: 0, 4096 bytes)
+<6>[    0.518432] NET: Registered protocol family 1
+<6>[    0.525665] PMU: registered new PMU device of type 0
+<4>[    0.529601] clk_get: could not find clock emu_src_ck for dev s5pv210_etb_device+0x0/0x100 (etb)
+<6>[    0.696226] wake enabled for irq 165
+<6>[    0.698486] wake disabled for irq 165
+<4>[    0.702471] level device init
+<6>[    0.705071] S5PV210 ADC driver, (c) 2010 Samsung Electronics
+<6>[    0.710970] Loaded driver for PL330 DMAC-0 s3c-pl330
+<6>[    0.715571] 	DBUFF-64x8bytes Num_Chans-8 Num_Peri-2 Num_Events-32
+<6>[    0.721764] Loaded driver for PL330 DMAC-1 s3c-pl330
+<6>[    0.726574] 	DBUFF-8x4bytes Num_Chans-8 Num_Peri-32 Num_Events-32
+<6>[    0.732769] Loaded driver for PL330 DMAC-2 s3c-pl330
+<6>[    0.737578] 	DBUFF-8x4bytes Num_Chans-8 Num_Peri-32 Num_Events-32
+<6>[    0.751612] ashmem: initialized
+<6>[    0.760604] ROMFS MTD (C) 2007 Red Hat, Inc.
+<7>[    0.763637] yaffs: yaffs built Aug 24 2012 13:24:01 Installing.
+<6>[    0.769458] msgmni has been set to 738
+<6>[    0.774180] io scheduler noop registered
+<6>[    0.777008] io scheduler deadline registered
+<6>[    0.781413] io scheduler cfq registered (default)
+<4>[    0.786734] MDNIE  INIT ..........
+<6>[    0.789282] S3C MDNIE Driver, (c) 2010 Samsung Electronics
+<4>[    0.794841] MDNIE  INIT SUCCESS Addr : 0xe8034000
+<4>[    0.799437] IELCD  INIT ..........
+<6>[    0.802876] S3C IELCD Driver, (c) 2010 Samsung Electronics
+<4>[    0.808280] IELCD  INIT SUCCESS Addr : 0xe8040000
+<6>[    0.813567] s3cfb s3cfb: [fb2] dma: 0x4c8bf000, cpu: 0xe9000000, size: 0x00a41000
+<6>[    0.832695] FIMD src sclk = 166750000
+<6>[    0.835024] s3cfb s3cfb: pixclock adjusted from 39019 to 41979
+<6>[    0.840843] [mDNIe] mDNIe_tuning_initialize: addr(0x84), data(0x0)  
+<6>[    0.847161] [mDNIe] mDNIe_tuning_initialize: addr(0x90), data(0x0)  
+<6>[    0.853449] [mDNIe] mDNIe_tuning_initialize: addr(0x94), data(0xfff)  
+<6>[    0.859986] [mDNIe] mDNIe_tuning_initialize: addr(0x98), data(0x5c)  
+<6>[    0.866338] [mDNIe] mDNIe_tuning_initialize: addr(0x9c), data(0x10)  
+<6>[    0.872812] [mDNIe] mDNIe_tuning_initialize: addr(0xac), data(0x0)  
+<6>[    0.879074] [mDNIe] mDNIe_tuning_initialize: addr(0xb4), data(0x3ff)  
+<4>[    0.885637] [mDNIe] mDNIe_Set_Mode: current_mDNIe_UI(6), current_mDNIe_OutDoor_OnOff(0)  
+<6>[    0.893818] s3cfb s3cfb: registered successfully
+<6>[    0.898684] s5pv210-uart.0: s3c2410_serial0 at MMIO 0xe2900000 (irq = 16) is a S3C6400/10
+<6>[    0.911100] s5pv210-uart.1: s3c2410_serial1 at MMIO 0xe2900400 (irq = 20) is a S3C6400/10
+<6>[    0.922808] s5pv210-uart.2: s3c2410_serial2 at MMIO 0xe2900800 (irq = 24) is a S3C6400/10
+<6>[    0.934528] s5pv210-uart.3: s3c2410_serial3 at MMIO 0xe2900c00 (irq = 28) is a S3C6400/10
+<4>[    0.947043] PA FB = 0x4C8BF000, bits per pixel = 32
+<4>[    0.950565] screen width=480 height=800 va=0xdc8bf000 pa=0x4c8bf000
+<4>[    0.956826] xres_virtual = 480, yres_virtual = 5600, xoffset = 0, yoffset = 0
+<4>[    0.963930] fb_size=10752000
+<4>[    0.966732] Back frameBuffer[0].VAddr=dca36000 PAddr=4ca36000 size=1536000
+<4>[    0.973642] Back frameBuffer[1].VAddr=dcbad000 PAddr=4cbad000 size=1536000
+<4>[    0.980430] Video Y Buffer[0].VAddr=dcd24000 PAddr=4cd24000 size=921600
+<4>[    0.987074] Video Y Buffer[1].VAddr=dce05000 PAddr=4ce05000 size=921600
+<4>[    0.993595] Video Y Buffer[2].VAddr=dcee6000 PAddr=4cee6000 size=921600
+<4>[    1.000241] Video UV Buffer[0].VAddr=dcfc7000 PAddr=4cfc7000 size=462848
+<4>[    1.006855] Video UV Buffer[1].VAddr=dd038000 PAddr=4d038000 size=462848
+<4>[    1.013586] Video UV Buffer[2].VAddr=dd0a9000 PAddr=4d0a9000 size=462848
+<6>[    1.024016] brd: module loaded
+<6>[    1.027652] loop: module loaded
+<6>[    1.029436] Android kernel panic handler initialized (bind=kpanic)
+<6>[    1.035614] Loading pn544 driver
+<6>[    1.038856] sec_jack_probe : Registering jack driver
+<6>[    1.043983] wake enabled for irq 38
+<6>[    1.047209] sec_jack_init_jack_state
+<6>[    1.050567] sec_jack_detect_irq_thread
+<6>[    1.054276] sec_jack_set_micbias_state: HWREV=13, on=1
+<6>[    1.059626] handle_jack_not_inserted
+<6>[    1.063093] sec_jack_set_micbias_state: HWREV=13, on=0
+<6>[    1.068285] sec_jack_set_micbias_state: HWREV=13, on=0
+<6>[    1.073341] sec_jack_set_micbias_state: HWREV=13, on=1
+<6>[    1.078513] handle_jack_not_inserted
+<6>[    1.081998] sec_jack_set_micbias_state: HWREV=13, on=0
+<6>[    1.087118] sec_jack_set_micbias_state: HWREV=13, on=0
+<6>[    1.093615] wake enabled for irq 167
+<6>[    1.096199] fsa9480 7-0025: dev1: 0x4, dev2: 0x0
+<4>[    1.100425] i2c-core: driver [fsa9480] using legacy resume method
+<4>[    1.106525] [modemctl_init]
+<4>[    1.109250] [modemctl_probe]
+<6>[    1.112231] wake enabled for irq 44
+<6>[    1.115567] wake enabled for irq 41
+<4>[    1.119057] [onedram_init]
+<4>[    1.121730] [onedram_probe]
+<6>[    1.124912] wake enabled for irq 43
+<4>[    1.128095] [svnet_init]
+<6>[    1.131588] Samsung OneNAND Driver (AUDI).
+<6>[    1.134624] OneNAND: Clock gating is enabled.
+<7>[    1.138947] OneNAND Manufacturer: Samsung (0xec)
+<6>[    1.143464] Muxed OneNAND 1024MB 1.8V 16-bit (0x60)
+<6>[    1.148374] OneNAND version = 0x0031
+<7>[    1.151860] Chip support all block unlock
+<7>[    1.155845] Chip has single dataram
+<6>[    1.159377] OneNAND Sync. Burst Read support
+<6>[    1.163559] OneNAND Sync. Burst Write support
+<6>[    1.266533] OneNAND: There's no interrupt. We use the normal wait
+<6>[    1.276605] Scanning device for bad blocks
+<6>[    1.285301] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    1.290754] OneNAND eraseblock 47 is an initial bad block
+<6>[    1.381703] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    1.387153] OneNAND eraseblock 727 is an initial bad block
+<6>[    1.529337] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    1.534781] OneNAND eraseblock 1813 is an initial bad block
+<6>[    1.550605] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    1.555984] OneNAND eraseblock 1895 is an initial bad block
+<6>[    1.588623] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    1.594010] OneNAND eraseblock 2110 is an initial bad block
+<6>[    1.600184] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    1.606316] OneNAND eraseblock 2115 is an initial bad block
+<6>[    1.633154] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    1.638534] OneNAND eraseblock 2284 is an initial bad block
+<6>[    1.646972] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    1.652419] OneNAND eraseblock 2307 is an initial bad block
+<6>[    1.660730] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    1.666179] OneNAND eraseblock 2330 is an initial bad block
+<6>[    1.675641] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    1.681083] OneNAND eraseblock 2362 is an initial bad block
+<6>[    1.691418] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    1.696864] OneNAND eraseblock 2401 is an initial bad block
+<6>[    1.702784] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    1.709174] OneNAND eraseblock 2405 is an initial bad block
+<6>[    1.725818] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    1.731266] OneNAND eraseblock 2494 is an initial bad block
+<6>[    1.737771] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    1.743512] OneNAND eraseblock 2502 is an initial bad block
+<6>[    1.752965] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    1.758348] OneNAND eraseblock 2533 is an initial bad block
+<6>[    1.767290] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    1.772678] OneNAND eraseblock 2560 is an initial bad block
+<6>[    1.781003] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    1.786388] OneNAND eraseblock 2582 is an initial bad block
+<6>[    1.792442] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    1.798695] OneNAND eraseblock 2586 is an initial bad block
+<6>[    1.804748] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    1.811065] OneNAND eraseblock 2590 is an initial bad block
+<6>[    1.816990] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    1.823365] OneNAND eraseblock 2594 is an initial bad block
+<6>[    1.829421] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    1.835669] OneNAND eraseblock 2599 is an initial bad block
+<6>[    1.849900] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    1.855349] OneNAND eraseblock 2669 is an initial bad block
+<6>[    1.862164] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    1.867657] OneNAND eraseblock 2680 is an initial bad block
+<6>[    1.880759] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    1.886211] OneNAND eraseblock 2741 is an initial bad block
+<6>[    1.909443] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    1.914829] OneNAND eraseblock 2882 is an initial bad block
+<6>[    1.926546] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    1.931928] OneNAND eraseblock 2931 is an initial bad block
+<6>[    1.938863] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    1.944250] OneNAND eraseblock 2942 is an initial bad block
+<6>[    1.953450] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    1.958838] OneNAND eraseblock 2971 is an initial bad block
+<6>[    1.970678] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    1.976127] OneNAND eraseblock 3021 is an initial bad block
+<6>[    2.004733] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    2.010185] OneNAND eraseblock 3205 is an initial bad block
+<6>[    2.028454] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    2.033898] OneNAND eraseblock 3307 is an initial bad block
+<6>[    2.053449] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    2.058897] OneNAND eraseblock 3419 is an initial bad block
+<6>[    2.076309] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    2.081760] OneNAND eraseblock 3514 is an initial bad block
+<6>[    2.090203] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    2.095650] OneNAND eraseblock 3538 is an initial bad block
+<6>[    2.114174] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    2.119620] OneNAND eraseblock 3642 is an initial bad block
+<6>[    2.126487] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    2.131871] OneNAND eraseblock 3653 is an initial bad block
+<6>[    2.148005] onenand_bbt_wait: ecc error = 0x0001, controller error 0x0400
+<6>[    2.153390] OneNAND eraseblock 3737 is an initial bad block
+<6>[    2.204049] OneNAND eraseblock 4095 is an initial bad block
+<5>[    2.208484] Creating 8 MTD partitions on "s5p-onenand":
+<5>[    2.213497] 0x000001200000-0x000001980000 : "boot"
+<5>[    2.218757] 0x000001980000-0x000002100000 : "recovery"
+<5>[    2.223913] 0x000002100000-0x00001a200000 : "system"
+<5>[    2.229373] 0x00001a200000-0x00003aa00000 : "userdata"
+<5>[    2.234704] 0x00003aa00000-0x00003afc0000 : "efs"
+<5>[    2.238609] 0x00003afc0000-0x00003d7c0000 : "cache"
+<5>[    2.243501] 0x00003d7c0000-0x00003eb00000 : "radio"
+<5>[    2.248349] 0x00003eb00000-0x000040000000 : "reservoir"
+<6>[    2.344674] tl2796: c0, b-6900cd33, got v 2065000, factory wants 2065000
+<6>[    2.350049] tl2796: c1, b-78b5a29d, got v 2072000, factory wants 2072000
+<6>[    2.356653] tl2796: c2, b-979fad80, got v 1596000, factory wants 1596000
+<6>[    2.504850] tl2796_probe successfully proved
+<6>[    2.507859] PPP generic driver version 2.4.2
+<6>[    2.512152] PPP Deflate Compression module registered
+<6>[    2.516996] PPP BSD Compression module registered
+<6>[    2.522205] PPP MPPE Compression module registered
+<6>[    2.526467] NET: Registered protocol family 24
+<6>[    2.532265] tun: Universal TUN/TAP device driver, 1.6
+<6>[    2.535962] tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+<6>[    2.542313] s3c-udc : S3C HS USB Device Controller Driver, (c) 2008-2009 Samsung Electronics
+<6>[    2.542322] s3c-udc : version 15 March 2009 (DMA Mode)
+<6>[    2.556618] android_usb gadget: Mass Storage Function, version: 2009/09/11
+<6>[    2.562453] android_usb gadget: Number of LUNs=1
+<6>[    2.567094]  lun0: LUN: removable file: (no medium)
+<6>[    2.572027] android_usb gadget: android_usb ready
+<7>[    2.591703] Registered gadget driver 'android_usb'
+<6>[    2.595230] usbcore: registered new interface driver xpad
+<6>[    2.600521] usbcore: registered new interface driver usb_acecad
+<6>[    2.606422] acecad: v3.2:USB Acecad Flair tablet driver
+<6>[    2.611598] usbcore: registered new interface driver aiptek
+<6>[    2.617165] aiptek: v2.3 (May 2, 2007):Aiptek HyperPen USB Tablet Driver (Linux 2.6.x)
+<6>[    2.625053] aiptek: Bryan W. Headley/Chris Atenasio/Cedric Brun/Rene van Paassen
+<6>[    2.632396] usbcore: registered new interface driver gtco
+<4>[    2.637796] GTCO usb driver version: 2.00.0006
+<6>[    2.642014] usbcore: registered new interface driver hanwang
+<6>[    2.647882] usbcore: registered new interface driver kbtab
+<6>[    2.653245] kbtab: v0.0.2:USB KB Gear JamStudio Tablet driver
+<6>[    2.659061] usbcore: registered new interface driver wacom
+<6>[    2.664419] wacom: v1.52:USB Wacom tablet driver
+<6>[    2.669203] input: mxt224_ts_input as /devices/virtual/input/input0
+<6>[    2.715933] Atmel MXT224 2-004a: family = 0x80, variant = 0x1, version = 0x16, build = 171
+<6>[    2.802138] bma023 5-0038: bma023 found
+<6>[    2.805069] bma023 5-0038: al_version=2, ml_version=1
+<6>[    2.833976] input: accelerometer_sensor as /devices/virtual/input/input1
+<6>[    2.839611] input: magnetic_sensor as /devices/virtual/input/input2
+<6>[    2.845802] input: raw_magnetic_sensor as /devices/virtual/input/input3
+<3>[    2.857006] yas529 12-002e: [init] 0 DeviceID is 0 40
+<4>[    2.874658] i2c-core: driver [yas529] using legacy suspend method
+<4>[    2.879356] i2c-core: driver [yas529] using legacy resume method
+<3>[    2.885502] gp2a: proximity val = 0
+<6>[    2.888960] input: proximity as /devices/virtual/input/input4
+<6>[    2.894851] input: lightsensor-level as /devices/virtual/input/input5
+<6>[    2.901365] input: orientation_sensor as /devices/virtual/input/input6
+<6>[    2.907707] wake enabled for irq 166
+<6>[    2.911001] wake enabled for irq 170
+<6>[    2.914575] wake enabled for irq 169
+<6>[    2.918153] GPIO Input Driver: Start gpio inputs for aries-keypad in interrupt mode
+<6>[    2.925862] input: aries-keypad as /devices/virtual/input/input7
+<6>[    2.932156] max8998-rtc max8998-rtc: RTC CHIP NAME: max8998-rtc
+<4>[    2.937629] S3C24XX RTC, (c) 2004,2006 Simtec Electronics
+<6>[    2.943785] s3c-rtc s3c2410-rtc: rtc disabled, re-enabling
+<6>[    2.948447] s3c-rtc s3c2410-rtc: rtc disabled, re-enabling
+<6>[    2.953948] s3c-rtc s3c2410-rtc: rtc disabled, re-enabling
+<6>[    2.959352] s3c-rtc s3c2410-rtc: rtc disabled, re-enabling
+<6>[    2.965047] using rtc device, s3c, for alarms
+<6>[    2.968984] s3c-rtc s3c2410-rtc: rtc core: registered s3c as rtc0
+<6>[    2.975309] i2c /dev entries driver
+<6>[    2.979592] lirc_dev: IR Remote Control driver registered, major 250 
+<6>[    2.985143] IR NEC protocol handler initialized
+<6>[    2.989587] IR RC5(x) protocol handler initialized
+<6>[    2.994347] IR RC6 protocol handler initialized
+<6>[    2.998913] IR JVC protocol handler initialized
+<6>[    3.003358] IR Sony protocol handler initialized
+<6>[    3.008013] IR RC5 (streamzap) protocol handler initialized
+<6>[    3.013499] IR LIRC bridge handler initialized
+<6>[    3.017977] Linux video capture interface: v2.00
+<6>[    3.022625] mfc_init: <6>S5PC110 MFC Driver, (c) 2009 Samsung Electronics
+<6>[    3.022632] 
+<6>[    3.031090] S3C JPEG Driver, (c) 2007 Samsung Electronics
+<6>[    3.037252] JPEG driver for S5PV210
+<4>[    3.040009] i2c-core: driver [s5p_ddc] using legacy suspend method
+<4>[    3.045815] i2c-core: driver [s5p_ddc] using legacy resume method
+<6>[    3.053479] max17040 9-0036: MAX17040 Fuel-Gauge Ver 03
+<6>[    3.058162] device-mapper: uevent: version 1.0.3
+<6>[    3.062172] device-mapper: ioctl: 4.20.0-ioctl (2011-02-02) initialised: dm-devel@redhat.com
+<6>[    3.070402] Bluetooth: HCI UART driver ver 2.2
+<6>[    3.074790] Bluetooth: HCI H4 protocol initialized
+<6>[    3.079553] cpuidle: using governor ladder
+<6>[    3.083636] cpuidle: using governor menu
+<6>[    3.087567] sdhci: Secure Digital Host Controller Interface driver
+<6>[    3.093612] sdhci: Copyright(c) Pierre Ossman
+<6>[    3.098102] s3c-sdhci s3c-sdhci.1: clock source 0: hsmmc (133400000 Hz)
+<6>[    3.104556] s3c-sdhci s3c-sdhci.1: clock source 2: sclk_mmc (47642857 Hz)
+<6>[    3.112289] mmc0: SDHCI controller on samsung-hsmmc [s3c-sdhci.1] using ADMA
+<6>[    3.118369] s3c-sdhci s3c-sdhci.2: clock source 0: hsmmc (133400000 Hz)
+<6>[    3.124980] s3c-sdhci s3c-sdhci.2: clock source 2: sclk_mmc (47642857 Hz)
+<6>[    3.132885] mmc1: SDHCI controller on samsung-hsmmc [s3c-sdhci.2] using ADMA
+<6>[    3.140779] usbcore: registered new interface driver usbhid
+<6>[    3.145059] usbhid: USB HID core driver
+<6>[    3.152234] logger: created 256K log 'log_main'
+<6>[    3.155454] logger: created 256K log 'log_events'
+<6>[    3.160171] logger: created 256K log 'log_radio'
+<6>[    3.164701] logger: created 256K log 'log_system'
+<6>[    3.171320] WM8994 Audio Codec 0.1
+<4>[    3.189256] wm8994_extensions: initializing driver v10
+<6>[    3.200048] s3c_idma_preallocate_buffer:  VA-e80c0000  PA-C0000000  163840bytes
+<6>[    3.207327] asoc: WM8994 PAIFRX <-> samsung-i2s.0 mapping ok
+<6>[    3.212002] ALSA device list:
+<6>[    3.214517]   #0: smdkc110
+<6>[    3.217223] oprofile: hardware counters not available
+<6>[    3.225399] oprofile: using timer interrupt.
+<6>[    3.228602] GACT probability NOT on
+<6>[    3.231748] Mirror/redirect action on
+<6>[    3.235437] u32 classifier
+<6>[    3.238041]     Actions configured
+<6>[    3.241440] Netfilter messages via NETLINK v0.30.
+<6>[    3.247213] nf_conntrack version 0.5.0 (5908 buckets, 23632 max)
+<6>[    3.252929] ctnetlink v0.93: registering with nfnetlink.
+<6>[    3.257432] NF_TPROXY: Transparent proxy support initialized, version 4.1.0
+<6>[    3.267480] NF_TPROXY: Copyright (c) 2006-2007 BalaBit IT Ltd.
+<6>[    3.272289] xt_time: kernel timezone is -0000
+<6>[    3.277809] ip_tables: (C) 2000-2006 Netfilter Core Team
+<6>[    3.281894] arp_tables: (C) 2002 David S. Miller
+<6>[    3.287461] TCP cubic registered
+<6>[    3.290269] NET: Registered protocol family 10
+<6>[    3.298973] Mobile IPv6
+<6>[    3.300038] ip6_tables: (C) 2000-2006 Netfilter Core Team
+<6>[    3.305707] IPv6 over IPv4 tunneling driver
+<6>[    3.317359] NET: Registered protocol family 17
+<6>[    3.320422] NET: Registered protocol family 15
+<6>[    3.324947] Bluetooth: RFCOMM TTY layer initialized
+<6>[    3.329801] Bluetooth: RFCOMM socket layer initialized
+<6>[    3.334813] Bluetooth: RFCOMM ver 1.11
+<6>[    3.338592] Bluetooth: BNEP (Ethernet Emulation) ver 1.3
+<6>[    3.344863] Bluetooth: HIDP (Human Interface Emulation) ver 1.2
+<6>[    3.351892] NET: Registered protocol family 35
+<6>[    3.355063] VFP support v0.3: implementor 41 architecture 3 part 30 variant c rev 2
+<6>[    3.362635] ThumbEE CPU extension supported.
+<6>[    3.367088] s5pv210_cpufreq_init: S5PV210 cpu-freq driver
+<6>[    3.375025] regulator_init_complete: pd_mfc_supply: disabling
+<6>[    3.379470] regulator_init_complete: pd_tv_supply: disabling
+<6>[    3.385026] regulator_init_complete: pd_cam_supply: disabling
+<4>[    3.390959] ## wifi_probe
+<4>[    3.393355] wifi_set_power = 1
+<6>[    3.403884] mmc1: new high speed SDHC card at address 0001
+<6>[    3.408317] mmcblk0: mmc1:0001 00000 7.60 GiB 
+<6>[    3.413521]  mmcblk0: p1
+<4>[    3.484801] wifi_set_carddetect = 1
+<4>[    3.488229] 
+<4>[    3.488257] Dongle Host Driver, version 5.90.125.94.1
+<4>[    3.488299] Compiled in drivers/net/wireless/bcmdhd on Aug 24 2012 at 13:27:02
+<4>[    3.750172] mmc0: queuing unknown CIS tuple 0x80 (50 bytes)
+<4>[    3.765949] mmc0: queuing unknown CIS tuple 0x80 (7 bytes)
+<4>[    3.808206] mmc0: queuing unknown CIS tuple 0x80 (3 bytes)
+<6>[    3.824298] mmc0: new SDIO card at address 0001
+<4>[    3.832068] F1 signature read @0x18000000=0x9934329
+<4>[    3.845837] DHD: dongle ram size is set to 294912(orig 294912)
+<3>[    3.852255] CFG80211-TRACE) wl_cfg80211_attach :In
+<3>[    3.856554] CFG80211-DEBUG) wl_cfg80211_attach :func e7b76900
+<3>[    3.862338] CFG80211-DEBUG) wl_alloc_wdev :Registering custom regulatory)
+<3>[    3.870469] CFG80211-DEBUG) wl_init_priv_mem :Enter 
+<3>[    3.875116] CFG80211-DEBUG) wl_create_event_handler :Enter 
+<4>[    3.880468] wl_create_event_handler thr:41 started
+<3>[    3.885449] CFG80211-DEBUG) wl_init_conf :Enter 
+<3>[    3.892484] CFG80211-DEBUG) wl_link_down :In
+<3>[    3.895945] CFG80211-DEBUG) wl_setup_rfkill :Enter 
+<3>[    3.900894] CFG80211-DEBUG) wl_rfkill_set :Enter 
+<3>[    3.905477] CFG80211-DEBUG) wl_rfkill_set :dhd_attach thr:42 started
+<4>[    3.911858] dhd_attach thr:43 started
+<4>[    3.915463] RF unblocked
+<4>[    3.918067] dhd_attach thr:44 started
+<4>[    3.921721] wifi_get_mac_addr
+<4>[    3.926647] Broadcom Dongle Host Driver: register interface [wlan0] MAC: 00:90:4c:11:22:33
+<4>[    3.933562] wifi_set_power = 0
+<4>[    3.936547] =========== WLAN placed in RESET ========
+<4>[    3.941710] bcmsdh_sdmmc: probe of mmc0:0001:3 failed with error -110
+<6>[    3.948155] input: cypress-touchkey as /devices/virtual/input/input8
+<6>[    3.986821] cypress_touchkey_driver 10-0020: cypress_touchkey_probe: hardware rev1 = 0xf, rev2 = 0x3
+<6>[    3.995413] s3c-rtc s3c2410-rtc: rtc disabled, re-enabling
+<6>[    4.000299] s3c-rtc s3c2410-rtc: setting system clock to 2012-08-24 21:12:43 UTC (1345842763)
+<6>[    4.010360] FIMC0 registered successfully
+<6>[    4.014462] FIMC1 registered successfully
+<6>[    4.018545] FIMC2 registered successfully
+<6>[    4.021451] S5P TVOUT Driver, (c) 2010 Samsung Electronics
+<4>[    4.027389] clk_get: could not find clock mout_vpll_src for dev s5p_device_tvout+0x8/0xd8 (s5p-tvout)
+<3>[    4.036797] failed to find clock "mout_vpll_src"
+<6>[    4.040454] s5p-tvout s5p-tvout: hpd status: cable removed/not connected
+<6>[    4.047312] s5p_tv_probe TV Probing is done
+<6>[    4.051286] max8998_charger_probe : MAX8998 Charger Driver Loading
+<6>[    4.059128] max8998_charger_probe : pmic interrupt registered
+<6>[    4.064243] check_lpm_charging_mode : lpm_charging_mode(0)
+<6>[    4.070312] wake enabled for irq 39
+<4>[    4.076739] Warning: unable to open an initial console.
+<6>[    4.082430] Freeing init memory: 768K
+<6>[    6.436658] yaffs: dev is 32505858 name is "mtdblock2" rw
+<6>[    6.440728] yaffs: passed flags ""
+<7>[    6.444084] yaffs: Attempting MTD mount of 31.2,"mtdblock2"
+<7>[    6.473077] yaffs: yaffs_read_super: is_checkpointed 1
+<6>[    6.478149] yaffs: dev is 32505861 name is "mtdblock5" rw
+<6>[    6.482199] yaffs: passed flags ""
+<7>[    6.485644] yaffs: Attempting MTD mount of 31.5,"mtdblock5"
+<7>[    6.491689] yaffs: yaffs_read_super: is_checkpointed 1
+<3>[    6.568527] init: could not import file /system/etc/init.local.rc
+<4>[    6.575025] init (1): /proc/1/oom_adj is deprecated, please use /proc/1/oom_score_adj instead.
+<6>[    6.653692] keychord: using input dev aries-keypad for fevent
+<3>[    6.665107] init: cannot open '/initlogo.rle'
+<6>[    6.681102] init: command 'loglevel' r=0
+<6>[    6.683617] init: command 'export' r=0
+<6>[    6.687362] init: command 'export' r=0
+<6>[    6.691157] init: command 'mkdir' r=0
+<6>[    6.694739] init: command 'symlink' r=0
+<6>[    6.698551] init: command 'mkdir' r=0
+<6>[    6.702897] init: command 'stop' r=0
+<6>[    6.705752] init: processing action 0x2a1a0 (fs)
+<6>[    6.710409] init: mtd partition 0, boot
+<6>[    6.714215] init: mtd partition 1, recovery
+<6>[    6.718309] init: mtd partition 2, system
+<6>[    6.722293] init: mtd partition 3, userdata
+<6>[    6.726518] init: mtd partition 4, efs
+<6>[    6.730177] init: mtd partition 5, cache
+<6>[    6.734077] init: mtd partition 6, radio
+<6>[    6.738037] init: mtd partition 7, reservoir
+<6>[    6.742301] yaffs: dev is 32505858 name is "mtdblock2" rw
+<6>[    6.748258] yaffs: passed flags ""
+<7>[    6.750956] yaffs: Attempting MTD mount of 31.2,"mtdblock2"
+<7>[    6.779993] yaffs: yaffs_read_super: is_checkpointed 1
+<6>[    6.783830] init: command 'mount' r=0
+<6>[    6.787458] init: command 'mount' r=0
+<6>[    6.791144] yaffs: dev is 32505859 name is "mtdblock3" rw
+<6>[    6.796374] yaffs: passed flags ""
+<7>[    6.799747] yaffs: Attempting MTD mount of 31.3,"mtdblock3"
+<3>[    6.814961] onenand_wait: ECC error = 0x0001
+<3>[    6.823313] onenand_wait: ECC error = 0x0001
+<3>[    6.840596] onenand_wait: ECC error = 0x0001
+<3>[    6.843783] onenand_wait: ECC error = 0x0001
+<3>[    6.858992] onenand_wait: ECC error = 0x0001
+<3>[    6.863432] onenand_wait: ECC error = 0x0001
+<3>[    6.867818] onenand_wait: ECC error = 0x0001
+<3>[    6.872827] onenand_wait: ECC error = 0x0001
+<3>[    6.878337] onenand_wait: ECC error = 0x0001
+<3>[    6.881454] onenand_wait: ECC error = 0x0001
+<3>[    6.891440] onenand_wait: ECC error = 0x0001
+<3>[    6.894848] onenand_wait: ECC error = 0x0001
+<3>[    6.900619] onenand_wait: ECC error = 0x0001
+<3>[    6.905332] onenand_wait: ECC error = 0x0001
+<3>[    6.909668] onenand_wait: ECC error = 0x0001
+<3>[    6.912799] onenand_wait: ECC error = 0x0001
+<3>[    6.917097] onenand_wait: ECC error = 0x0001
+<3>[    6.921305] onenand_wait: ECC error = 0x0001
+<3>[    6.925647] onenand_wait: ECC error = 0x0001
+<3>[    6.934182] onenand_wait: ECC error = 0x0001
+<3>[    6.937782] onenand_wait: ECC error = 0x0001
+<3>[    6.945424] onenand_wait: ECC error = 0x0001
+<3>[    6.957716] onenand_wait: ECC error = 0x0001
+<3>[    6.963853] onenand_wait: ECC error = 0x0001
+<3>[    6.967495] onenand_wait: ECC error = 0x0001
+<3>[    6.972891] onenand_wait: ECC error = 0x0001
+<3>[    6.979144] onenand_wait: ECC error = 0x0001
+<3>[    6.994305] onenand_wait: ECC error = 0x0001
+<3>[    7.003977] onenand_wait: ECC error = 0x0001
+<3>[    7.014395] onenand_wait: ECC error = 0x0001
+<3>[    7.023591] onenand_wait: ECC error = 0x0001
+<3>[    7.028043] onenand_wait: ECC error = 0x0001
+<3>[    7.037901] onenand_wait: ECC error = 0x0001
+<3>[    7.041490] onenand_wait: ECC error = 0x0001
+<3>[    7.050668] onenand_wait: ECC error = 0x0001
+<7>[    7.064222] yaffs: block 142 is bad
+<7>[    7.071866] yaffs: block 224 is bad
+<7>[    7.088644] yaffs: block 439 is bad
+<7>[    7.091003] yaffs: block 444 is bad
+<7>[    7.105704] yaffs: block 613 is bad
+<7>[    7.109283] yaffs: block 636 is bad
+<7>[    7.112914] yaffs: block 659 is bad
+<7>[    7.117111] yaffs: block 691 is bad
+<7>[    7.121787] yaffs: block 730 is bad
+<7>[    7.124120] yaffs: block 734 is bad
+<7>[    7.133360] yaffs: block 823 is bad
+<7>[    7.135932] yaffs: block 831 is bad
+<7>[    7.141012] yaffs: block 862 is bad
+<7>[    7.144874] yaffs: block 889 is bad
+<7>[    7.148384] yaffs: block 911 is bad
+<7>[    7.150715] yaffs: block 915 is bad
+<7>[    7.154132] yaffs: block 919 is bad
+<7>[    7.157595] yaffs: block 923 is bad
+<7>[    7.161120] yaffs: block 928 is bad
+<7>[    7.169099] yaffs: block 998 is bad
+<7>[    7.171846] yaffs: block 1009 is bad
+<7>[    7.178840] yaffs: block 1070 is bad
+<7>[    7.190653] yaffs: block 1211 is bad
+<7>[    7.196107] yaffs: block 1260 is bad
+<7>[    7.198951] yaffs: block 1271 is bad
+<7>[    7.203789] yaffs: block 1300 is bad
+<7>[    7.209314] yaffs: block 1350 is bad
+<7>[    7.224007] yaffs: block 1534 is bad
+<7>[    7.233139] yaffs: block 1636 is bad
+<7>[    7.242908] yaffs: block 1748 is bad
+<7>[    7.251531] yaffs: block 1843 is bad
+<7>[    7.255257] yaffs: block 1867 is bad
+<7>[    7.264517] yaffs: block 1971 is bad
+<7>[    7.267366] yaffs: block 1982 is bad
+<7>[    7.275906] yaffs: block 2066 is bad
+<7>[    8.076033] onenand_wait: correctable ECC error = 0x0002
+<7>[    8.130530] yaffs: yaffs_read_super: is_checkpointed 0
+<6>[    8.134381] init: command 'mount' r=0
+<6>[    8.140862] yaffs: dev is 32505861 name is "mtdblock5" rw
+<6>[    8.144846] yaffs: passed flags ""
+<7>[    8.148273] yaffs: Attempting MTD mount of 31.5,"mtdblock5"
+<7>[    8.154319] yaffs: yaffs_read_super: is_checkpointed 1
+<6>[    8.158958] init: command 'mount' r=0
+<6>[    8.162540] init: processing action 0x30818 (fs)
+<6>[    8.167173] init: command 'mkdir' r=0
+<6>[    8.170849] yaffs: dev is 32505862 name is "mtdblock6" rw
+<6>[    8.176129] yaffs: passed flags ""
+<7>[    8.179556] yaffs: Attempting MTD mount of 31.6,"mtdblock6"
+<7>[    8.186586] yaffs: yaffs_read_super: is_checkpointed 1
+<6>[    8.190334] init: command 'mount' r=0
+<6>[    8.194058] init: command 'mount' r=-1
+<6>[    8.199517] init: command 'chown' r=0
+<6>[    8.201796] init: command 'mkdir' r=0
+<6>[    8.205493] yaffs: dev is 32505860 name is "mtdblock4" rw
+<6>[    8.210796] yaffs: passed flags ""
+<7>[    8.214212] yaffs: Attempting MTD mount of 31.4,"mtdblock4"
+<7>[    8.244832] yaffs: yaffs_read_super: is_checkpointed 0
+<6>[    8.248581] init: command 'mount' r=0
+<6>[    8.255730] init: command 'chown' r=0
+<6>[    8.258408] init: command 'chmod' r=-2
+<6>[    8.262252] init: command 'chmod' r=0
+<6>[    8.265421] init: command 'chown' r=0
+<6>[    8.269006] init: command 'chmod' r=0
+<6>[    8.272732] init: command 'chmod' r=0
+<6>[    8.276384] init: command 'chown' r=0
+<6>[    8.279969] init: command 'chown' r=0
+<6>[    8.283627] init: command 'chown' r=0
+<6>[    8.287357] init: command 'chown' r=0
+<6>[    8.290899] init: command 'chmod' r=0
+<6>[    8.294493] init: processing action 0x2a288 (post-fs)
+<6>[    8.299561] init: command 'mount' r=0
+<6>[    8.304662] init: command 'chown' r=0
+<6>[    8.307451] init: command 'chmod' r=0
+<6>[    8.311473] init: command 'chown' r=0
+<6>[    8.314730] init: command 'chmod' r=0
+<6>[    8.317892] init: command 'chown' r=0
+<6>[    8.321565] init: command 'chmod' r=0
+<6>[    8.325145] init: command 'chown' r=0
+<6>[    8.328766] init: command 'chmod' r=0
+<6>[    8.332476] init: command 'chown' r=0
+<6>[    8.336062] init: command 'chmod' r=0
+<6>[    8.340763] init: command 'mkdir' r=0
+<6>[    8.343363] init: processing action 0x30b00 (post-fs)
+<6>[    8.348882] init: command 'chown' r=0
+<6>[    8.352499] init: command 'chmod' r=0
+<6>[    8.355681] init: command 'symlink' r=0
+<6>[    8.359477] init: command 'chown' r=0
+<6>[    8.363101] init: command 'chmod' r=0
+<6>[    8.366796] init: command 'chown' r=0
+<6>[    8.370378] init: command 'chmod' r=0
+<6>[    8.374025] init: command 'chown' r=0
+<6>[    8.377708] init: command 'chmod' r=0
+<6>[    8.381290] init: processing action 0x2a4a8 (post-fs-data)
+<6>[    8.387257] init: command 'chown' r=0
+<6>[    8.390950] init: command 'chmod' r=0
+<6>[    8.395183] init: command 'mkdir' r=0
+<6>[    8.397670] init: command 'copy' r=-1
+<6>[    8.401354] init: command 'chown' r=-2
+<6>[    8.405022] init: command 'chmod' r=-2
+<6>[    8.408751] init: command 'copy' r=-1
+<6>[    8.412447] init: command 'chown' r=-2
+<6>[    8.416115] init: command 'chmod' r=-2
+<6>[    8.419853] init: command 'write' r=-2
+<6>[    8.424801] init: command 'mkdir' r=0
+<6>[    8.428376] init: command 'mkdir' r=0
+<6>[    8.432008] init: command 'mkdir' r=0
+<6>[    8.435703] init: command 'mkdir' r=0
+<6>[    8.439300] init: command 'mkdir' r=0
+<6>[    8.442913] init: command 'mkdir' r=0
+<6>[    8.446623] init: command 'mkdir' r=0
+<6>[    8.450190] init: command 'mkdir' r=0
+<6>[    8.452889] init: command 'chmod' r=-2
+<6>[    8.457619] init: command 'mkdir' r=0
+<6>[    8.461211] init: command 'mkdir' r=0
+<6>[    8.464852] init: command 'mkdir' r=0
+<6>[    8.468557] init: command 'mkdir' r=0
+<6>[    8.472129] init: command 'mkdir' r=0
+<6>[    8.476615] init: command 'mkdir' r=0
+<6>[    8.479933] init: command 'mkdir' r=0
+<6>[    8.483576] init: command 'mkdir' r=0
+<6>[    8.486682] init: command 'chown' r=0
+<6>[    8.490321] init: command 'chmod' r=0
+<6>[    8.494544] init: command 'mkdir' r=0
+<6>[    8.497599] init: command 'chown' r=0
+<6>[    8.501230] init: command 'chmod' r=0
+<6>[    8.505461] init: command 'mkdir' r=0
+<6>[    8.508501] init: command 'chown' r=0
+<6>[    8.512174] init: command 'chmod' r=0
+<6>[    8.516930] init: command 'mkdir' r=0
+<6>[    8.520233] init: command 'mkdir' r=0
+<6>[    8.522940] init: command 'chown' r=0
+<6>[    8.526598] init: command 'chmod' r=0
+<6>[    8.530163] init: command 'chown' r=0
+<6>[    8.533794] init: command 'chmod' r=0
+<6>[    8.537442] init: processing action 0x30438 (post-fs-data)
+<6>[    8.543904] init: command 'mkdir' r=0
+<6>[    8.546996] init: command 'chown' r=0
+<6>[    8.550263] init: command 'chown' r=0
+<6>[    8.553852] init: command 'chmod' r=0
+<6>[    8.557407] init: processing action 0x30c98 (post-fs-data)
+<6>[    8.563923] init: command 'mkdir' r=0
+<6>[    8.567672] init: command 'mkdir' r=0
+<6>[    8.571243] init: command 'mkdir' r=0
+<6>[    8.574830] init: command 'mkdir' r=0
+<6>[    8.578312] init: command 'chmod' r=0
+<6>[    8.581084] init: command 'setprop' r=0
+<6>[    8.584930] init: processing action 0x31bf0 (property_service_init)
+<6>[    8.594626] init: Created socket '/dev/socket/property_service' with mode '666', user '0', group '0'
+<6>[    8.602438] init: command 'property_service_init' r=0
+<6>[    8.607432] init: processing action 0x31c38 (signal_init)
+<6>[    8.612772] init: command 'signal_init' r=0
+<6>[    8.616904] init: processing action 0x31c80 (check_startup)
+<6>[    8.622521] init: command 'check_startup' r=0
+<6>[    8.626785] init: processing action 0x2abe8 (boot)
+<6>[    8.631982] init: command 'ifup' r=0
+<6>[    8.635162] init: command 'hostname' r=0
+<6>[    8.639032] init: command 'domainname' r=0
+<6>[    8.643133] init: command 'setrlimit' r=0
+<6>[    8.647114] init: command 'write' r=0
+<6>[    8.650724] init: command 'write' r=0
+<6>[    8.654455] init: command 'chown' r=0
+<6>[    8.658003] init: command 'chmod' r=0
+<6>[    8.661646] init: command 'chown' r=0
+<6>[    8.665328] init: command 'chmod' r=0
+<6>[    8.668921] init: command 'write' r=0
+<6>[    8.672542] init: command 'write' r=0
+<6>[    8.676243] init: command 'chown' r=-2
+<6>[    8.679914] init: command 'chown' r=-2
+<6>[    8.683635] init: command 'chown' r=-2
+<6>[    8.687411] init: command 'chown' r=-2
+<6>[    8.691107] init: command 'chown' r=-2
+<6>[    8.694833] init: command 'chown' r=0
+<6>[    8.698524] init: command 'chown' r=0
+<6>[    8.702107] init: command 'chown' r=0
+<6>[    8.705740] init: command 'chmod' r=0
+<6>[    8.709431] init: command 'chmod' r=0
+<6>[    8.713019] init: command 'chmod' r=0
+<6>[    8.716721] init: command 'chown' r=0
+<6>[    8.720356] init: command 'chown' r=-2
+<6>[    8.724023] init: command 'chown' r=-2
+<6>[    8.727747] init: command 'chown' r=-2
+<6>[    8.731541] init: command 'chown' r=-2
+<6>[    8.735193] init: command 'chown' r=-2
+<6>[    8.738933] init: command 'chown' r=-2
+<6>[    8.742703] init: command 'chown' r=-2
+<6>[    8.746379] init: command 'chown' r=-2
+<6>[    8.750109] init: command 'chown' r=-2
+<6>[    8.753884] init: command 'chown' r=-2
+<6>[    8.757557] init: command 'chown' r=-2
+<6>[    8.761284] init: command 'chown' r=-2
+<6>[    8.765062] init: command 'chown' r=-2
+<6>[    8.768739] init: command 'chown' r=-2
+<6>[    8.772462] init: command 'chown' r=-2
+<6>[    8.776203] init: command 'chown' r=-2
+<6>[    8.779953] init: command 'chown' r=0
+<6>[    8.783563] init: command 'chown' r=-2
+<6>[    8.787305] init: command 'chown' r=0
+<6>[    8.790984] init: command 'chown' r=0
+<6>[    8.794570] init: command 'chown' r=0
+<6>[    8.798210] init: command 'chown' r=0
+<6>[    8.801916] init: command 'chown' r=0
+<6>[    8.805477] init: command 'chown' r=0
+<6>[    8.809149] init: command 'chown' r=0
+<6>[    8.812826] init: command 'chown' r=0
+<6>[    8.816408] init: command 'chmod' r=0
+<6>[    8.820064] init: command 'chown' r=0
+<6>[    8.823741] init: command 'chmod' r=0
+<6>[    8.827324] init: command 'chown' r=0
+<6>[    8.830965] init: command 'chmod' r=0
+<6>[    8.834675] init: command 'setprop' r=0
+<6>[    8.838431] init: command 'setprop' r=0
+<6>[    8.842245] init: command 'setprop' r=0
+<6>[    8.846105] init: command 'setprop' r=0
+<6>[    8.849867] init: command 'setprop' r=0
+<6>[    8.853679] init: command 'setprop' r=0
+<6>[    8.857546] init: command 'setprop' r=0
+<6>[    8.861306] init: command 'chown' r=-2
+<6>[    8.865010] init: command 'chmod' r=-2
+<6>[    8.868787] init: command 'chown' r=-2
+<6>[    8.872461] init: command 'chmod' r=-2
+<6>[    8.876190] init: command 'chown' r=-2
+<6>[    8.879965] init: command 'chmod' r=-2
+<6>[    8.883636] init: command 'write' r=-2
+<6>[    8.887374] init: command 'write' r=-2
+<6>[    8.891149] init: command 'setprop' r=0
+<6>[    9.021711] init: command 'exec' r=0
+<5>[    9.023967] init: starting 'servicemanager'
+<5>[    9.028498] init: starting 'vold'
+<5>[    9.031587] init: starting 'aries-ril-daemon'
+<6>[    9.038368] init: Created socket '/dev/socket/vold' with mode '660', user '0', group '1009'
+<5>[    9.046227] init: starting 'pvrsrvinit'
+<6>[    9.049377] init: Created socket '/dev/socket/rild-debug' with mode '660', user '1001', group '1000'
+<6>[    9.058525] init: command 'class_start' r=0
+<5>[    9.071276] init: starting 'netd'
+<5>[    9.073455] init: starting 'debuggerd'
+<6>[    9.083082] init: Created socket '/dev/socket/rild' with mode '660', user '0', group '1001'
+<6>[    9.090336] init: Created socket '/dev/socket/dnsproxyd' with mode '660', user '0', group '3003'
+<5>[    9.106448] init: starting 'surfaceflinger'
+<5>[    9.109470] init: starting 'zygote'
+<6>[    9.126718] init: Created socket '/dev/socket/netd' with mode '660', user '0', group '1000'
+<6>[    9.133983] init: Created socket '/dev/socket/zygote' with mode '660', user '0', group '1000'
+<5>[    9.149424] init: starting 'drm'
+<5>[    9.151492] init: starting 'media'
+<6>[    9.161777] PVR_K:(Warning): SysFinalise: Version string: SGX540 S5PC110 [529, /home/jeff/Android/build/cm9-aries/kernel/samsung/aries/drivers/gpu/pvr/s5pc110/sysconfig.c]
+<5>[    9.189092] init: starting 'dbus'
+<5>[    9.191267] init: starting 'installd'
+<6>[    9.200993] init: Created socket '/dev/socket/dbus' with mode '660', user '1002', group '1002'
+<6>[    9.239498] init: Created socket '/dev/socket/installd' with mode '600', user '1000', group '1000'
+<5>[    9.251050] init: starting 'keystore'
+<6>[    9.253604] init: command 'class_start' r=0
+<6>[    9.274764] init: Created socket '/dev/socket/keystore' with mode '666', user '0', group '0'
+<6>[    9.299695] init: processing action 0x2f5b0 (boot)
+<6>[    9.327381] init: command 'write' r=0
+<6>[    9.341179] init: waitpid returned pid 124, status = 00000000
+<5>[    9.356466] init: process 'pvrsrvinit', pid 124 exited
+<6>[    9.360360] init: command 'write' r=0
+<6>[    9.363848] init: processing action 0x30658 (boot)
+<6>[    9.434610] init: command 'mount' r=0
+<6>[    9.436888] init: command 'setprop' r=0
+<6>[    9.495341] init: command 'setprop' r=0
+<6>[    9.504209] init: command 'setprop' r=0
+<6>[    9.506673] init: command 'setprop' r=0
+<6>[    9.547867] init: command 'setprop' r=0
+<6>[    9.550314] init: command 'setprop' r=0
+<6>[    9.571399] init: command 'setprop' r=0
+<6>[    9.573900] init: command 'setprop' r=0
+<6>[    9.602601] init: command 'setprop' r=0
+<6>[    9.605037] init: processing action 0x31cc8 (queue_property_triggers)
+<6>[    9.672983] init: command 'queue_property_triggers' r=0
+<7>[    9.687943] onenand_wait: correctable ECC error = 0x0002
+<6>[    9.695918] init: processing action 0x2b778 (nonencrypted)
+<5>[    9.728393] init: starting 'gpsd'
+<5>[    9.730627] init: starting 'geomagneticd'
+<6>[    9.751253] init: Created socket '/dev/socket/gps' with mode '660', user '1021', group '1000'
+<5>[    9.758837] init: starting 'tvout'
+<6>[    9.761993] init: command 'class_start' r=0
+<6>[    9.807841] init: processing action 0x2bea0 (property:persist.sys.usb.config=*)
+<6>[    9.848789] init: command 'setprop' r=0
+<6>[    9.851239] init: processing action 0x2c068 (property:ro.debuggable=1)
+<5>[    9.915070] init: starting 'console'
+<6>[    9.917580] init: command 'start' r=0
+<6>[    9.946276] init: processing action 0x2fec0 (property:sys.usb.config=mass_storage,adb)
+<3>[   10.012769] android_usb: already disabled
+<6>[   10.015446] init: command 'write' r=0
+<6>[   10.059562] init: command 'write' r=0
+<6>[   10.061957] init: command 'write' r=0
+<6>[   10.102530] init: command 'write' r=0
+<6>[   10.104957] adb_bind_config
+<6>[   10.129906] init: command 'write' r=0
+<5>[   10.132208] init: starting 'adbd'
+<6>[   10.135884] android_work: did not send uevent (0 0   (null))
+<6>[   10.184295] init: command 'start' r=0
+<6>[   10.192664] warning: `adbd' uses 32-bit capabilities (legacy support in use)
+<6>[   10.200283] init: command 'setprop' r=0
+<6>[   10.251270] adb_open
+<6>[   10.397117] android_work: sent uevent USB_STATE=CONNECTED
+<6>[   10.405779] android_usb gadget: high speed config #1: android
+<6>[   10.415127] android_work: sent uevent USB_STATE=CONFIGURED
+<6>[   10.441565] s3cfb s3cfb: [fb0] dma: 0x4c45a000, cpu: 0xeb800000, size: 0x00465000
+<5>[   10.493163] init: starting 'bootanim'
+<6>[   10.495763] init: processing action 0x315a8 (property:init.svc.bootanim=running)
+<5>[   10.562005] init: starting 'bdaddr'
+<6>[   10.564440] init: command 'start' r=0
+<6>[   10.609166] init: waitpid returned pid 174, status = 00000000
+<5>[   10.616342] init: process 'bdaddr', pid 174 exited
+<4>[   10.738235] m5720_off
+<4>[   10.739167] m5720_off, GPIO_CP_PWR_RST is high
+<6>[   15.517154] wake enabled for irq 34
+<3>[   15.520981] gp2a: proximity val = 1
+<6>[   15.709171] wake disabled for irq 34
+<4>[   15.772245] [STE][mc_int_resout_work] mc->gpio_phone_on is [0] 
+<4>[   15.776777] [EN32KhzCP_CTRL]  on = 0 
+<4>[   15.782241] m5720_on
+<4>[   15.787077] [STE][mc_int_cp_pwr_rst_work] mc->gpio_phone_on is [0] 
+<4>[   15.912408] [EN32KhzCP_CTRL]  on = 1 
+<7>[   16.745270] onenand_wait: correctable ECC error = 0x0002
+<6>[   19.111035] request_suspend_state: wakeup (3->0) at 19024280977 (2012-08-24 21:12:58.606686407 UTC)
+<4>[   19.386878] Get into M5720 Normal modem boot. (By key press) 
+<6>[   19.453973] wake enabled for irq 165
+<5>[   19.457198] init: starting 'hciattach'
+<6>[   19.683692] acc_open
+<6>[   19.684626] acc_release
+<5>[   21.381303] init: starting 'bluetoothd'
+<6>[   21.402992] init: Created socket '/dev/socket/dbus_bluetooth' with mode '660', user '1002', group '1002'
+<6>[   21.455764] init: Created socket '/dev/socket/bluetooth' with mode '660', user '1002', group '1002'
+<6>[   26.761877] init: waitpid returned pid 364, status = 00000000
+<3>[   26.766289] init: untracked pid 364 exited
+<5>[   27.311966] init: service 'bootanim' is being killed
+<6>[   27.399467] init: waitpid returned pid 171, status = 00000009
+<5>[   27.403826] init: process 'bootanim', pid 171 exited
+<6>[   27.493617] [mdnie set] in mdnieset_ui_file_cmd_store, input value = 6 
+<6>[   27.503730] [mDNIe] mDNIe_tuning_initialize: addr(0x84), data(0x0)  
+<6>[   27.520427] [mDNIe] mDNIe_tuning_initialize: addr(0x90), data(0x0)  
+<6>[   27.556329] [mDNIe] mDNIe_tuning_initialize: addr(0x94), data(0xfff)  
+<6>[   27.573836] [mDNIe] mDNIe_tuning_initialize: addr(0x98), data(0x5c)  
+<6>[   27.588996] [mDNIe] mDNIe_tuning_initialize: addr(0x9c), data(0x10)  
+<6>[   27.612649] [mDNIe] mDNIe_tuning_initialize: addr(0xac), data(0x0)  
+<6>[   27.642784] [mDNIe] mDNIe_tuning_initialize: addr(0xb4), data(0x3ff)  
+<4>[   27.661064] [mDNIe] mDNIe_Set_Mode: current_mDNIe_UI(6), current_mDNIe_OutDoor_OnOff(0)  

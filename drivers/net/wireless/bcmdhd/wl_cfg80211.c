@@ -68,7 +68,8 @@
 static struct sdio_func *cfg80211_sdio_func;
 static struct wl_priv *wlcfg_drv_priv;
 
-u32 wl_dbg_level = WL_DBG_ERR;
+// u32 wl_dbg_level = WL_DBG_ERR;
+u32 wl_dbg_level = WL_DBG_ERR | WL_DBG_INFO | WL_DBG_DBG | WL_DBG_TRACE;
 
 #define WL_4329_FW_FILE "brcm/bcm4329-fullmac-4-218-248-5.bin"
 #define WL_4329_NVRAM_FILE "brcm/bcm4329-fullmac-4-218-248-5.txt"
