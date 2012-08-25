@@ -888,8 +888,10 @@ sdioh_request_word(sdioh_info_t *sd, uint cmd_type, uint rw, uint func, uint add
 	sdio_release_host(gInstance->func[func]);
 
 	if (err_ret) {
-		sd_err(("bcmsdh_sdmmc: Failed to %s word, Err: 0x%08x\n",
-		                        rw ? "Write" : "Read", err_ret));
+		sd_err(("bcmsdh_sdmmc: Failed to %s word F%d:@0x%05x=%02x, Err: %d\n",
+		                        rw ? "Write" : "Read", func, addr, *word, err_ret));
+		//		sd_err(("bcmsdh_sdmmc: Failed to %s word, Err: 0x%08x\n",
+		//                        rw ? "Write" : "Read", err_ret));
 	}
 
 	return ((err_ret == 0) ? SDIOH_API_RC_SUCCESS : SDIOH_API_RC_FAIL);
