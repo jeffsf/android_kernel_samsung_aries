@@ -163,18 +163,23 @@ int mmc_io_rw_extended(struct mmc_card *card, int write, unsigned fn,
 	mmc_wait_for_req(card->host, &mrq);
 
 	if (cmd.error)
+		printk("mmc_io_rw_direct_host() about to return cmd.error\n");
 		return cmd.error;
 	if (data.error)
+		printk("mmc_io_rw_direct_host() about to return cmd.error\n");
 		return data.error;
 
 	if (mmc_host_is_spi(card->host)) {
 		/* host driver already reported errors */
 	} else {
 		if (cmd.resp[0] & R5_ERROR)
+			printk("mmc_io_rw_direct_host() about to return -EIO\n");
 			return -EIO;
 		if (cmd.resp[0] & R5_FUNCTION_NUMBER)
+			printk("mmc_io_rw_direct_host() about to return -EINVAL\n");
 			return -EINVAL;
 		if (cmd.resp[0] & R5_OUT_OF_RANGE)
+			printk("mmc_io_rw_direct_host() about to return -ERANGE\n");
 			return -ERANGE;
 	}
 
