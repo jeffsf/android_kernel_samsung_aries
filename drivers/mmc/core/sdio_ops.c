@@ -163,15 +163,15 @@ int mmc_io_rw_extended(struct mmc_card *card, int write, unsigned fn,
 	mmc_wait_for_req(card->host, &mrq);
 
 	if (cmd.error)
-		printk("%s cmd.error: %d\n", __func__, cmd.error);
+		printk("%s(): cmd.error: %d\n", __func__, cmd.error);
 	if (data.error)
-		printk("%s data.error: %d\n", __func__, data.error);
+		printk("%s(): data.error: %d\n", __func__, data.error);
 	if (cmd.resp[0] & R5_ERROR)
-		printk("%s cmd.resp[0] %02x R5_ERROR -EIO", __func__, cmd.resp[0]);
+		printk("%s(): cmd.resp[0] %02x R5_ERROR -EIO\n", __func__, cmd.resp[0]);
 	if (cmd.resp[0] & R5_FUNCTION_NUMBER)
-		printk("%s cmd.resp[0] %02x R5_FUNCTION_NUMBER -EINVAL", __func__, cmd.resp[0]);
+		printk("%s(): cmd.resp[0] %02x R5_FUNCTION_NUMBER -EINVAL\n", __func__, cmd.resp[0]);
 	if (cmd.resp[0] & R5_OUT_OF_RANGE)
-		printk("%s cmd.resp[0] %02x R5_OUT_OF_RANGE -ERANGE", __func__, cmd.resp[0]);
+		printk("%s(): cmd.resp[0] %02x R5_OUT_OF_RANGE -ERANGE\n", __func__, cmd.resp[0]);
 
 	if (cmd.error)
 		return cmd.error;

@@ -727,7 +727,7 @@ clear_status_bits:
 
 fail_transfer:
 	host->pio_active = XFER_NONE;
-
+	printk(KERN_NOTICE "%s(): fail_transfer: %s\n", __func__, host->status);
 close_transfer:
 	host->complete_what = COMPLETION_FINALIZE;
 
@@ -740,6 +740,8 @@ irq_out:
 	dbg(host, dbg_irq,
 	    "csta:0x%08x dsta:0x%08x fsta:0x%08x dcnt:0x%08x status:%s.\n",
 	    mci_csta, mci_dsta, mci_fsta, mci_dcnt, host->status);
+	printk(KERN_DEBUG "csta:0x%08x dsta:0x%08x fsta:0x%08x dcnt:0x%08x status:%s.\n",
+	       mci_csta, mci_dsta, mci_fsta, mci_dcnt, host->status);
 
 	spin_unlock_irqrestore(&host->complete_lock, iflags);
 	return IRQ_HANDLED;

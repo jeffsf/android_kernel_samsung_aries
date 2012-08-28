@@ -2165,15 +2165,18 @@ static void sdhci_data_irq(struct sdhci_host *host, u32 intmask)
 		return;
 	}
 
-	if (intmask & SDHCI_INT_DATA_TIMEOUT)
+	if (intmask & SDHCI_INT_DATA_TIMEOUT) {
 		host->data->error = -ETIMEDOUT;
-	else if (intmask & SDHCI_INT_DATA_END_BIT)
+		printk(KERN_DEBUG "%s(): -ETIMEDOUT host SDHCI_INT_DATA_TIMEOUT\n", __func__); 
+	} else if (intmask & SDHCI_INT_DATA_END_BIT) {
 		host->data->error = -EILSEQ;
-	else if ((intmask & SDHCI_INT_DATA_CRC) &&
-		SDHCI_GET_CMD(sdhci_readw(host, SDHCI_COMMAND))
-			!= MMC_BUS_TEST_R)
+		printk(KERN_DEBUG "%s():-EILSEQ host SDHCI_INT_DATA_END_BIT\n", __func__); 
+	} else if ((intmask & SDHCI_INT_DATA_CRC) &&
+		   SDHCI_GET_CMD(sdhci_readw(host, SDHCI_COMMAND))
+		   != MMC_BUS_TEST_R) {
 		host->data->error = -EILSEQ;
-	else if (intmask & SDHCI_INT_ADMA_ERROR) {
+		printk(KERN_DEBUG "%s():-EILSEQ host SDHCI_INT_DATA_CRC\n", __func__); 
+	} else if (intmask & SDHCI_INT_ADMA_ERROR) {
 		printk(KERN_ERR "%s: ADMA error\n", mmc_hostname(host->mmc));
 		sdhci_show_adma_error(host);
 		host->data->error = -EIO;
